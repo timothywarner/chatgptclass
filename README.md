@@ -1,4 +1,4 @@
-# ChatGPT and GitHub Copilot in 4 Hours
+# ChatGPT and GitHub Copilot Quick Start
 
 Get started with AI services right now!
 
