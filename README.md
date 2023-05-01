@@ -1,14 +1,11 @@
 # ChatGPT and GitHub Copilot Quick Start
 
-Get started with AI services right now!
+Get productive with OpenAI services starting right now!
 
 ## Contact information
 
-- [Tim Warner](https://techtrainertim.com)
-
-## Session slide deck
-
-- [Tim's ChatGPT & GitHub Copilot presentation](https://1drv.ms/p/s!AsEhRmiJLZsdh8JFOyCDpvNMsN4DSg?e=aUmklm)
+- [Tim Warner](mailto:timothywarner316@gmail.com)
+- [Tim's web site](https://techtrainertim.com)
 
 ## OpenAI
 
@@ -16,9 +13,18 @@ Get started with AI services right now!
 - [Documentation](https://platform.openai.com/docs/introduction)
 - [API playground](https://platform.openai.com/playground)
 - [Example applications](https://platform.openai.com/examples)
+
+## Azure OpenAI
+
 - [Azure OpenAI](https://azure.microsoft.com/products/cognitive-services/openai-service)
 - [OpenAPI API pricing](https://openai.com/pricing)
 - [GPT token calculator](https://platform.openai.com/tokenizer)
+
+## The New Bing
+
+- [Home page](https://www.bing.com/new)
+- [White paper](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/02/The-new-Bing-Our-approach-to-Responsible-AI.pdf)
+- [Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6)
 
 ## ChatGPT
 
