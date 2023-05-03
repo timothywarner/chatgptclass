@@ -14,6 +14,7 @@ Get productive with OpenAI services starting right now!
 - [Usage policies](https://openai.com/policies/usage-policies)
 - [API playground](https://platform.openai.com/playground)
 - [Example applications](https://platform.openai.com/examples)
+- [OpenAPI Postman collection](https://www.postman.com/devrel/workspace/openai/collection/13183464-90abb798-cb85-43cb-ba3a-ae7941e968da)
 
 ## Azure OpenAI
 
