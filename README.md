@@ -11,6 +11,7 @@ Get productive with OpenAI services starting right now!
 
 - [Home page](https://openai.com/)
 - [Documentation](https://platform.openai.com/docs/introduction)
+- [Usage policies](https://openai.com/policies/usage-policies)
 - [API playground](https://platform.openai.com/playground)
 - [Example applications](https://platform.openai.com/examples)
 
@@ -35,6 +36,15 @@ Get productive with OpenAI services starting right now!
 - [ChatGPT prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-chatgpt.md)
 - [The DAN prompt](https://github.com/0xk1h0/ChatGPT_DAN)
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
+
+## OpenAI API
+
+- [Documentation](https://platform.openai.com/docs/api-reference/introduction)
+- [Node.js sample application](https://github.com/openai/openai-quickstart-node)
+-
+
+
+
 
 ## GitHub Copilot
 
