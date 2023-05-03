@@ -37,15 +37,14 @@ Get productive with OpenAI services starting right now!
 - [ChatGPT prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-chatgpt.md)
 - [The DAN prompt](https://github.com/0xk1h0/ChatGPT_DAN)
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
+- [LlamaIndex (GPT Index)](https://gpt-index.readthedocs.io/en/latest/index.html)
 
 ## OpenAI API
 
 - [Documentation](https://platform.openai.com/docs/api-reference/introduction)
 - [Node.js sample application](https://github.com/openai/openai-quickstart-node)
--
-
-
-
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [GPT-4 Extended](https://techcrunch.com/2023/03/14/openai-is-testing-a-version-of-gpt-4-that-can-remember-long-conversations/)
 
 ## GitHub Copilot
 
