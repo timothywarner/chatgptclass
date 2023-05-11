@@ -45,6 +45,7 @@ Get productive with OpenAI services starting right now!
 - [Node.js sample application](https://github.com/openai/openai-quickstart-node)
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [GPT-4 Extended](https://techcrunch.com/2023/03/14/openai-is-testing-a-version-of-gpt-4-that-can-remember-long-conversations/)
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 ## GitHub Copilot
 
