@@ -6,6 +6,7 @@ Get productive with OpenAI services starting right now!
 
 - [Tim Warner](mailto:timothywarner316@gmail.com)
 - [Tim's web site](https://techtrainertim.com)
+- [Tim's Azure OpenAI Training Blog](https://azureopenai.blog)
 
 ## OpenAI
 
@@ -53,6 +54,13 @@ Get productive with OpenAI services starting right now!
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [GPT-4 Extended](https://techcrunch.com/2023/03/14/openai-is-testing-a-version-of-gpt-4-that-can-remember-long-conversations/)
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
+## ChatGPT Plugins
+
+- [Plugins docs](https://platform.openai.com/docs/plugins/introduction)
+- [Plugins waitlist](https://openai.com/waitlist/plugins)
+- [Plugins at GitHub](https://github.com/topics/chatgpt-plugins)
+- [Plugins at GPTStore.ai](https://gptstore.ai/)
 
 ## GitHub Copilot
 
