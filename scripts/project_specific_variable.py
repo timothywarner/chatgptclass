@@ -1,0 +1,1 @@
+projectSpecificVariable = "I am a global variable"
