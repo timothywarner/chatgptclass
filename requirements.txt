@@ -8,4 +8,4 @@ SQLAlchemy==1.3.0  # Outdated, latest is SQLAlchemy 1.4.x
 requests==2.20.0   # Outdated, has known vulnerabilities
 Pillow==6.2.0  # CVE-2020-10379, CVE-2020-10177
 numpy==1.16.0  # CVE-2019-6446
-pandas==0.24.0
+pandas==2.2.0
