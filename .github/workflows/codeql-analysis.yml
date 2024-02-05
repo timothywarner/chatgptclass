@@ -1,0 +1,23 @@
+name: "Code Scanning - CodeQL"
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 14 * * 1'
+
+jobs:
+  codeql:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v1
+      with:
+        languages: "javascript,python" # Specify the languages
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v1

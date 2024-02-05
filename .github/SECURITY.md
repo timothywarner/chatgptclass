@@ -1,0 +1,1 @@
+## Security Policy\n\nPlease report any security vulnerabilities through the project's issues.

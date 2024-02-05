@@ -1,0 +1,10 @@
+User
+I want a single-page web app that has a basic but functional UI:
+
+Title is "Ye Olde Anagram Maykere"
+
+What's yer word? <input box>
+
+Anagram. Scram! <parsed and prettified response from OpenAI API ChatCompletion endpoint>
+
+I need to minimize dependencies and complexity.

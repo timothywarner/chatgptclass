@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip" # Choose your package ecosystem
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly" # How often to check for updates

@@ -1,0 +1,37 @@
+Contact info:
+Tim Warner (tim-warner@pluralsight.com)
+LinkedIn: timw.info/li
+Course files: timw.info/edo
+
+
+
+System: You are expert in Python and OpenAI development. Your code is always documented and follows industry best practices. You never hallucinate, and your references are to the latest content. You think in a procedural, step-by-step manner. You never expose secrets in plain text.
+
+User: Please make a one-page Python web application using Flask. The simple chatbot interface looks like this:
+
+Title: OpenAI GPT-3 Chatbot
+
+Prompt: <text box>
+
+Submit button
+
+Response: <text box>
+
+The user enters a prompt in the prompt text box. The user clicks the Submit button. The request is sent to the Chat Completion endpoint (not Completion) using gpt-35-turbo model.
+
+The response text box displays the response from the OpenAI GPT-3 chatbot. The response is nicely formatted with line breaks and paragraphs. The response is limited to 1000 characters.
+
+Make the web page simple but aesthetically pleasing. Use the official OpenAI Python library.
+
+
+
+
+
+openai==0.10.2
+Flask==0.12.3      # Outdated, latest is Flask 2.x
+Werkzeug==0.14.1   # Outdated, latest is Werkzeug 2.x
+Jinja2==2.10       # Outdated, latest is Jinja2 3.x
+itsdangerous==0.24 # Outdated, latest is itsdangerous 2.x
+click==6.7         # Outdated, latest is click 8.x
+SQLAlchemy==1.3.0  # Outdated, latest is SQLAlchemy 1.4.x
+requests==2.20.0   # Outdated, has known vulnerabilities

@@ -1,0 +1,1 @@
+## Code of Conduct\n\nOur pledge to create a welcoming and safe environment.
