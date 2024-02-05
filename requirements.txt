@@ -2,7 +2,7 @@ openai==0.10.2
 Flask==0.12.3      # Outdated, latest is Flask 2.x
 Werkzeug==0.14.1   # Outdated, latest is Werkzeug 2.x
 Jinja2==2.10       # Outdated, latest is Jinja2 3.x
-itsdangerous==0.24 # Outdated, latest is itsdangerous 2.x
+itsdangerous==2.1.2 # Outdated, latest is itsdangerous 2.x
 click==6.7         # Outdated, latest is click 8.x
 SQLAlchemy==1.3.0  # Outdated, latest is SQLAlchemy 1.4.x
 requests==2.20.0   # Outdated, has known vulnerabilities
