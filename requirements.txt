@@ -5,7 +5,7 @@ Jinja2==2.10       # Outdated, latest is Jinja2 3.x
 itsdangerous==0.24 # Outdated, latest is itsdangerous 2.x
 click==6.7         # Outdated, latest is click 8.x
 SQLAlchemy==2.0.25  # Outdated, latest is SQLAlchemy 1.4.x
-requests==2.20.0   # Outdated, has known vulnerabilities
+requests==2.31.0   # Outdated, has known vulnerabilities
 Pillow==10.2.0  # CVE-2020-10379, CVE-2020-10177
 numpy==1.16.0  # CVE-2019-6446
 pandas==0.24.0
