@@ -9,6 +9,12 @@
 - [Mastodon](https://mastodon.social/@techtrainertim)
 - [LinkedIn](https://www.linkedin.com/in/timothywarner/)
 
+## The essential product links
+
+- [OpenAI documentation](https://platform.openai.com/docs/introduction)
+- [GitHub Copilot documentation](https://docs.github.com/copilot)
+- [Microsoft Azure AI Services documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+
 ## Marketing pages
 
 - [Main page](https://github.com/features/copilot)
@@ -18,7 +24,7 @@
 - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [GitHub Next](https://githubnext.com/)
 
-## Docs
+## Docs, general
 
 - [Main docs](https://docs.github.com/copilot)
 - [Quickstart](https://docs.github.com/en/copilot/quickstart)
@@ -29,6 +35,7 @@
 
 - [Microsoft: GitHub Copilot Fundamentals](https://learn.microsoft.com/en-us/training/paths/copilot/)
 - [Microsoft: AI-Powered Programming Video Course](https://www.microsoftpressstore.com/store/ai-powered-programming-with-github-copilot-video-9780138279455)
+-
 ## GitHub Copilot
 
 - [Product page](https://github.com/features/copilot)
