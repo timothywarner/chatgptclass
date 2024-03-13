@@ -1,4 +1,4 @@
-# ChatGPT and GitHub Copilot Quick Start
+# GitHub Copilot Quick Start for Developers
 
 ## Contact information
 
