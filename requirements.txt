@@ -1,4 +1,4 @@
-openai==0.10.2
+openai==1.16.2
 Flask==3.0.2      # Outdated, latest is Flask 2.x
 Werkzeug==0.14.1   # Outdated, latest is Werkzeug 2.x
 Jinja2==2.10       # Outdated, latest is Jinja2 3.x
