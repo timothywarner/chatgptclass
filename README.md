@@ -1,6 +1,6 @@
 # GitHub Copilot Quick Start for Developers
 
-## Contact information
+## Tim's contact information
 
 - [Tim Warner](mailto:timothywarner316@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/timothywarner/)
