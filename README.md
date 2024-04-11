@@ -16,6 +16,13 @@
 - [GitHub Copilot documentation](https://docs.github.com/copilot)
 - [Microsoft Azure AI Services documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 
+## Useful links
+
+- Noi
+- LLMLingua
+- Perplexity
+- Open Interpreter
+  
 ## Marketing pages
 
 - [Main page](https://github.com/features/copilot)
