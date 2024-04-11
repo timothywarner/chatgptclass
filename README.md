@@ -11,6 +11,7 @@
 
 ## The essential product links
 
+- [ChatGPT introduction](https://openai.com/blog/chatgpt)
 - [OpenAI documentation](https://platform.openai.com/docs/introduction)
 - [GitHub Copilot documentation](https://docs.github.com/copilot)
 - [Microsoft Azure AI Services documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
