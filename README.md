@@ -15,13 +15,17 @@
 - [OpenAI documentation](https://platform.openai.com/docs/introduction)
 - [GitHub Copilot documentation](https://docs.github.com/copilot)
 - [Microsoft Azure AI Services documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+- [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro)
+- [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/)
 
-## Useful links
+## Play with different models and apps
 
-- Noi
-- LLMLingua
-- Perplexity
-- Open Interpreter
+- [Noi](https://github.com/lencx/Noi)
+- [ChatGPT clone](https://github.com/lencx/ChatGPT)
+- [LLMLingua](https://github.com/microsoft/LLMLingua)
+- [Perplexity](https://www.perplexity.ai/)
+- [Open Interpreter](https://www.openinterpreter.com/)
+- [Backplain](https://backplain.com/)
   
 ## Marketing pages
 
