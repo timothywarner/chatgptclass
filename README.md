@@ -1,4 +1,8 @@
-# GitHub Copilot Quick Start for Developers
+# ChatGPT and GitHub Copilot Quick Start for Developers and Everyone Else
+
+Link checker workflow
+
+Note: Please check out my [GitHub Copilot All-In-One (AIO) course ](https://github.com/timothywarner/copilotaio)as well. Thanks! -Tim
 
 ## Tim's contact information
 
@@ -26,7 +30,7 @@
 - [Perplexity](https://www.perplexity.ai/)
 - [Open Interpreter](https://www.openinterpreter.com/)
 - [Backplain](https://backplain.com/)
-  
+
 ## Marketing pages
 
 - [Main page](https://github.com/features/copilot)
