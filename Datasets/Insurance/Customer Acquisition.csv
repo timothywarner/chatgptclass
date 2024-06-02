@@ -1,0 +1,101 @@
+CustomerID,FirstName,LastName,Age,Gender,MaritalStatus,Occupation,AnnualIncome,PolicyType,PolicyPremium,DateAcquired
+1,John,Doe,35,Male,Married,Engineer,85000,Life Insurance,500,2022-01-10
+2,Jane,Smith,42,Female,Married,Teacher,65000,Health Insurance,300,2022-02-15
+3,David,Johnson,28,Male,Single,IT Professional,75000,Auto Insurance,400,2022-03-20
+4,Sarah,Williams,53,Female,Married,Doctor,150000,Home Insurance,800,2022-04-25
+5,Michael,Brown,45,Male,Married,Manager,120000,Life Insurance,550,2022-05-30
+6,Emily,Taylor,39,Female,Single,Lawyer,95000,Health Insurance,350,2022-06-05
+7,Robert,Lewis,31,Male,Single,Accountant,70000,Auto Insurance,450,2022-07-10
+8,Jessica,Anderson,48,Female,Married,Business Owner,180000,Home Insurance,900,2022-08-15
+9,Christopher,Thomas,36,Male,Married,Engineer,90000,Life Insurance,520,2022-09-20
+10,Amanda,Harris,29,Female,Single,Teacher,60000,Health Insurance,280,2022-10-25
+11,Andrew,Clark,43,Male,Married,IT Professional,85000,Auto Insurance,420,2022-11-30
+12,Michelle,Young,37,Female,Single,Doctor,160000,Home Insurance,850,2022-12-05
+13,James,Scott,52,Male,Married,Manager,130000,Life Insurance,580,2023-01-10
+14,Samantha,Allen,40,Female,Married,Lawyer,100000,Health Insurance,380,2023-02-15
+15,Matthew,Ross,33,Male,Single,Accountant,75000,Auto Insurance,470,2023-03-20
+16,Olivia,Walker,49,Female,Married,Business Owner,200000,Home Insurance,1000,2023-04-25
+17,William,Green,34,Male,Single,Engineer,95000,Life Insurance,540,2023-05-30
+18,Victoria,Hall,30,Female,Single,Teacher,65000,Health Insurance,320,2023-06-05
+19,Daniel,Adams,46,Male,Married,IT Professional,90000,Auto Insurance,400,2023-07-10
+20,Amy,Campbell,38,Female,Single,Doctor,170000,Home Insurance,880,2023-08-15
+21,Charles,Turner,51,Male,Married,Manager,140000,Life Insurance,610,2023-09-20
+22,Natalie,Hughes,41,Female,Married,Lawyer,110000,Health Insurance,420,2023-10-25
+23,Jason,Rogers,32,Male,Single,Accountant,80000,Auto Insurance,480,2023-11-30
+24,Sophia,Cooper,50,Female,Married,Business Owner,220000,Home Insurance,1100,2023-12-05
+25,Joseph,Parker,35,Male,Married,Engineer,95000,Life Insurance,550,2024-01-10
+26,Abigail,Wright,31,Female,Single,Teacher,70000,Health Insurance,350,2024-02-15
+27,Davidson,Hill,47,Male,Married,IT Professional,85000,Auto Insurance,420,2024-03-20
+28,Grace,Russell,39,Female,Single,Doctor,180000,Home Insurance,950,2024-04-25
+29,Aiden,Cook,53,Male,Married,Manager,150000,Life Insurance,650,2024-05-30
+30,Chloe,Bennett,42,Female,Married,Lawyer,120000,Health Insurance,400,2024-06-05
+31,Thomas,Cole,33,Male,Single,Accountant,80000,Auto Insurance,470,2024-07-10
+32,Lucy,Bailey,48,Female,Married,Business Owner,200000,Home Insurance,1000,2024-08-15
+33,Ethan,Cox,37,Male,Married,Engineer,95000,Life Insurance,540,2024-09-20
+34,Harper,Richardson,29,Female,Single,Teacher,65000,Health Insurance,320,2024-10-25
+35,Williamson,Gray,44,Male,Married,IT Professional,85000,Auto Insurance,400,2024-11-30
+36,Ava,Howard,36,Female,Single,Doctor,170000,Home Insurance,900,2024-12-05
+37,Dylan,Turner,52,Male,Married,Manager,140000,Life Insurance,610,2025-01-10
+38,Ella,Watson,41,Female,Married,Lawyer,110000,Health Insurance,380,2025-02-15
+39,Jack,Myers,34,Male,Single,Accountant,75000,Auto Insurance,450,2025-03-20
+40,Mia,Stewart,49,Female,Married,Business Owner,220000,Home Insurance,1100,2025-04-25
+41,Oliver,Rossi,30,Male,Single,Engineer,90000,Life Insurance,520,2025-05-30
+42,Sophia,Gomez,37,Female,Single,Teacher,60000,Health Insurance,280,2025-06-05
+43,Liam,Hernandez,45,Male,Married,IT Professional,85000,Auto Insurance,420,2025-07-10
+44,Amelia,Butler,39,Female,Single,Doctor,180000,Home Insurance,950,2025-08-15
+45,Benjamin,Flores,53,Male,Married,Manager,150000,Life Insurance,650,2025-09-20
+46,Mia,Foster,42,Female,Married,Lawyer,120000,Health Insurance,400,2025-10-25
+47,Logan,Gonzalez,33,Male,Single,Accountant,80000,Auto Insurance,470,2025-11-30
+48,Charlotte,Morgan,48,Female,Married,Business Owner,200000,Home Insurance,1000,2025-12-05
+49,Noah,Murphy,35,Male,Married,Engineer,95000,Life Insurance,540,2026-01-10
+50,Sofia,Kelly,30,Female,Single,Teacher,65000,Health Insurance,320,2026-02-15
+51,Lucas,Barnes,44,Male,Married,IT Professional,85000,Auto Insurance,400,2026-03-20
+52,Lily,Campbell,36,Female,Single,Doctor,170000,Home Insurance,900,2026-04-25
+53,Jackson,Rivera,52,Male,Married,Manager,140000,Life Insurance,610,2026-05-30
+54,Grace,Ward,41,Female,Married,Lawyer,110000,Health Insurance,380,2026-06-05
+55,Aiden,Turner,34,Male,Single,Accountant,75000,Auto Insurance,450,2026-07-10
+56,Evelyn,James,49,Female,Married,Business Owner,220000,Home Insurance,1100,2026-08-15
+57,Carter,Phillips,31,Male,Single,Engineer,90000,Life Insurance,520,2026-09-20
+58,Scarlett,Morris,37,Female,Single,Teacher,60000,Health Insurance,280,2026-10-25
+59,Sebastian,Foster,45,Male,Married,IT Professional,85000,Auto Insurance,420,2026-11-30
+60,Hannah,Hall,39,Female,Single,Doctor,180000,Home Insurance,950,2026-12-05
+61,Jack,Garcia,53,Male,Married,Manager,150000,Life Insurance,650,2027-01-10
+62,Lucy,Allen,42,Female,Married,Lawyer,120000,Health Insurance,400,2027-02-15
+63,Ryan,Young,33,Male,Single,Accountant,80000,Auto Insurance,470,2027-03-20
+64,Layla,Hill,48,Female,Married,Business Owner,200000,Home Insurance,1000,2027-04-25
+65,Owen,Harris,35,Male,Married,Engineer,95000,Life Insurance,540,2027-05-30
+66,Zoe,Clark,30,Female,Single,Teacher,65000,Health Insurance,320,2027-06-05
+67,Wyatt,Adams,44,Male,Married,IT Professional,85000,Auto Insurance,400,2027-07-10
+68,Stella,Baker,36,Female,Single,Doctor,170000,Home Insurance,900,2027-08-15
+69,Grayson,Gonzalez,52,Male,Married,Manager,140000,Life Insurance,610,2027-09-20
+70,Victoria,Flores,41,Female,Married,Lawyer,110000,Health Insurance,380,2027-10-25
+71,Henry,Cooper,34,Male,Single,Accountant,75000,Auto Insurance,450,2027-11-30
+72,Bella,Reed,49,Female,Married,Business Owner,220000,Home Insurance,1100,2027-12-05
+73,Leo,Watson,31,Male,Single,Engineer,90000,Life Insurance,520,2028-01-10
+74,Eleanor,Howard,37,Female,Single,Teacher,60000,Health Insurance,280,2028-02-15
+75,Jacob,Richardson,45,Male,Married,IT Professional,85000,Auto Insurance,420,2028-03-20
+76,Avery,Brooks,39,Female,Single,Doctor,180000,Home Insurance,950,2028-04-25
+77,Nathan,Campbell,53,Male,Married,Manager,150000,Life Insurance,650,2028-05-30
+78,Sophie,Allen,42,Female,Married,Lawyer,120000,Health Insurance,400,2028-06-05
+79,Isaac,Taylor,33,Male,Single,Accountant,80000,Auto Insurance,470,2028-07-10
+80,Elizabeth,Wright,48,Female,Married,Business Owner,200000,Home Insurance,1000,2028-08-15
+81,Elijah,Stewart,35,Male,Married,Engineer,95000,Life Insurance,540,2028-09-20
+82,Audrey,Ross,30,Female,Single,Teacher,65000,Health Insurance,320,2028-10-25
+83,Lincoln,Morgan,44,Male,Married,IT Professional,85000,Auto Insurance,400,2028-11-30
+84,Scarlett,Hernandez,36,Female,Single,Doctor,170000,Home Insurance,900,2028-12-05
+85,Nolan,Foster,52,Male,Married,Manager,140000,Life Insurance,610,2029-01-10
+86,Lily,Rodriguez,41,Female,Married,Lawyer,110000,Health Insurance,380,2029-02-15
+87,Elijah,Hill,34,Male,Single,Accountant,75000,Auto Insurance,450,2029-03-20
+88,Aria,Butler,49,Female,Married,Business Owner,220000,Home Insurance,1100,2029-04-25
+89,Caleb,Flores,31,Male,Single,Engineer,90000,Life Insurance,520,2029-05-30
+90,Aubrey,Gomez,37,Female,Single,Teacher,60000,Health Insurance,280,2029-06-05
+91,Isaiah,Turner,45,Male,Married,IT Professional,85000,Auto Insurance,420,2029-07-10
+92,Hazel,Perez,39,Female,Single,Doctor,180000,Home Insurance,950,2029-08-15
+93,Julian,Johnson,53,Male,Married,Manager,150000,Life Insurance,650,2029-09-20
+94,Paisley,Cook,42,Female,Married,Lawyer,120000,Health Insurance,400,2029-10-25
+95,Adam,Roberts,33,Male,Single,Accountant,80000,Auto Insurance,470,2029-11-30
+96,Alice,Martin,48,Female,Married,Business Owner,200000,Home Insurance,1000,2029-12-05
+97,Hudson,Anderson,35,Male,Married,Engineer,95000,Life Insurance,540,2030-01-10
+98,Lillian,Miller,30,Female,Single,Teacher,65000,Health Insurance,320,2030-02-15
+99,Gabriel,Clark,44,Male,Married,IT Professional,85000,Auto Insurance,400,2030-03-20
+100,Addison,Young,36,Female,Single,Doctor,170000,Home Insurance,900,2030-04-25

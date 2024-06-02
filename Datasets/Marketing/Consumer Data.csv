@@ -1,0 +1,101 @@
+customer_id,age,gender,city,state,country,product_category,purchase_date
+1,32,Male,New York,NY,United States,Electronics,2022-05-10
+2,45,Female,Los Angeles,CA,United States,Clothing,2022-06-15
+3,28,Male,Chicago,IL,United States,Home & Kitchen,2022-07-20
+4,39,Female,Houston,TX,United States,Beauty,2022-08-25
+5,41,Male,Phoenix,AZ,United States,Sports & Outdoors,2022-09-30
+6,35,Female,Philadelphia,PA,United States,Electronics,2022-10-05
+7,48,Male,San Antonio,TX,United States,Clothing,2022-11-10
+8,29,Female,San Diego,CA,United States,Home & Kitchen,2022-12-15
+9,37,Male,Dallas,TX,United States,Beauty,2023-01-20
+10,33,Female,San Jose,CA,United States,Sports & Outdoors,2023-02-25
+11,26,Male,Austin,TX,United States,Electronics,2023-03-31
+12,42,Female,Indianapolis,IN,United States,Clothing,2023-04-05
+13,31,Male,Jacksonville,FL,United States,Home & Kitchen,2023-05-10
+14,36,Female,San Francisco,CA,United States,Beauty,2023-06-15
+15,43,Male,Columbus,OH,United States,Sports & Outdoors,2023-07-20
+16,30,Female,Fort Worth,TX,United States,Electronics,2023-08-25
+17,44,Male,Charlotte,NC,United States,Clothing,2023-09-30
+18,34,Female,Detroit,MI,United States,Home & Kitchen,2023-10-05
+19,47,Male,El Paso,TX,United States,Beauty,2023-11-10
+20,27,Female,Memphis,TN,United States,Sports & Outdoors,2023-12-15
+21,38,Male,Boston,MA,United States,Electronics,2024-01-20
+22,39,Female,Seattle,WA,United States,Clothing,2024-02-25
+23,25,Male,Denver,CO,United States,Home & Kitchen,2024-03-31
+24,46,Female,Washington,DC,United States,Beauty,2024-04-05
+25,32,Male,Nashville,TN,United States,Sports & Outdoors,2024-05-10
+26,41,Female,Baltimore,MD,United States,Electronics,2024-06-15
+27,29,Male,Oklahoma City,OK,United States,Clothing,2024-07-20
+28,40,Female,Louisville,KY,United States,Home & Kitchen,2024-08-25
+29,35,Male,Portland,OR,United States,Beauty,2024-09-30
+30,48,Female,Milwaukee,WI,United States,Sports & Outdoors,2024-10-05
+31,33,Male,Las Vegas,NV,United States,Electronics,2024-11-10
+32,37,Female,Albuquerque,NM,United States,Clothing,2024-12-15
+33,26,Male,Tucson,AZ,United States,Home & Kitchen,2025-01-20
+34,42,Female,Fresno,CA,United States,Beauty,2025-02-25
+35,31,Male,Sacramento,CA,United States,Sports & Outdoors,2025-03-31
+36,36,Female,Long Beach,CA,United States,Electronics,2025-04-05
+37,43,Male,Kansas City,MO,United States,Clothing,2025-05-10
+38,30,Female,Mesa,AZ,United States,Home & Kitchen,2025-06-15
+39,44,Male,Virginia Beach,VA,United States,Beauty,2025-07-20
+40,27,Female,Atlanta,GA,United States,Sports & Outdoors,2025-08-25
+41,38,Male,Colorado Springs,CO,United States,Electronics,2025-09-30
+42,39,Female,Omaha,NE,United States,Clothing,2025-10-05
+43,25,Male,Raleigh,NC,United States,Home & Kitchen,2025-11-10
+44,46,Female,Miami,FL,United States,Beauty,2025-12-15
+45,32,Male,Oakland,CA,United States,Sports & Outdoors,2026-01-20
+46,41,Female,Tulsa,OK,United States,Electronics,2026-02-25
+47,29,Male,Cleveland,OH,United States,Clothing,2026-03-31
+48,40,Female,Kansas City,KS,United States,Home & Kitchen,2026-04-05
+49,35,Male,Arlington,TX,United States,Beauty,2026-05-10
+50,48,Female,New Orleans,LA,United States,Sports & Outdoors,2026-06-15
+51,33,Male,Tampa,FL,United States,Electronics,2026-07-20
+52,37,Female,Honolulu,HI,United States,Clothing,2026-08-25
+53,26,Male,Anchorage,AK,United States,Home & Kitchen,2026-09-30
+54,42,Female,Anaheim,CA,United States,Beauty,2026-10-05
+55,31,Male,Pittsburgh,PA,United States,Sports & Outdoors,2026-11-10
+56,36,Female,Saint Paul,MN,United States,Electronics,2026-12-15
+57,43,Male,Cincinnati,OH,United States,Clothing,2027-01-20
+58,30,Female,Henderson,NV,United States,Home & Kitchen,2027-02-25
+59,44,Male,Greensboro,NC,United States,Beauty,2027-03-31
+60,27,Female,Plano,TX,United States,Sports & Outdoors,2027-04-05
+61,38,Male,Newark,NJ,United States,Electronics,2027-05-10
+62,39,Female,Lincoln,NE,United States,Clothing,2027-06-15
+63,25,Male,Louisville,KY,United States,Home & Kitchen,2027-07-20
+64,46,Female,Riverside,CA,United States,Beauty,2027-08-25
+65,32,Male,Jersey City,NJ,United States,Sports & Outdoors,2027-09-30
+66,41,Female,Baton Rouge,LA,United States,Electronics,2027-10-05
+67,29,Male,Chandler,AZ,United States,Clothing,2027-11-10
+68,40,Female,Fort Wayne,IN,United States,Home & Kitchen,2027-12-15
+69,35,Male,Orlando,FL,United States,Beauty,2028-01-20
+70,48,Female,St. Petersburg,FL,United States,Sports & Outdoors,2028-02-25
+71,33,Male,Laredo,TX,United States,Electronics,2028-03-31
+72,37,Female,Chula Vista,CA,United States,Clothing,2028-04-05
+73,26,Male,Norfolk,VA,United States,Home & Kitchen,2028-05-10
+74,42,Female,Chandler,AZ,United States,Beauty,2028-06-15
+75,31,Male,Glendale,CA,United States,Sports & Outdoors,2028-07-20
+76,36,Female,Lubbock,TX,United States,Electronics,2028-08-25
+77,43,Male,Garland,TX,United States,Clothing,2028-09-30
+78,30,Female,Irvine,CA,United States,Home & Kitchen,2028-10-05
+79,44,Male,Rochester,NY,United States,Beauty,2028-11-10
+80,27,Female,Akron,OH,United States,Sports & Outdoors,2028-12-15
+81,38,Male,Irving,TX,United States,Electronics,2029-01-20
+82,39,Female,Fremont,CA,United States,Clothing,2029-02-25
+83,25,Male,Richmond,VA,United States,Home & Kitchen,2029-03-31
+84,46,Female,Baton Rouge,LA,United States,Beauty,2029-04-05
+85,32,Male,Spokane,WA,United States,Sports & Outdoors,2029-05-10
+86,41,Female,Des Moines,IA,United States,Electronics,2029-06-15
+87,29,Male,Tacoma,WA,United States,Clothing,2029-07-20
+88,40,Female,Fontana,CA,United States,Home & Kitchen,2029-08-25
+89,35,Male,Oxnard,CA,United States,Beauty,2029-09-30
+90,48,Female,Moreno Valley,CA,United States,Sports & Outdoors,2029-10-05
+91,33,Male,Richmond,CA,United States,Electronics,2029-11-10
+92,37,Female,Boise,ID,United States,Clothing,2029-12-15
+93,26,Male,Baton Rouge,LA,United States,Home & Kitchen,2030-01-20
+94,42,Female,Santa Ana,CA,United States,Beauty,2030-02-25
+95,31,Male,Spokane,WA,United States,Sports & Outdoors,2030-03-31
+96,36,Female,Mobile,AL,United States,Electronics,2030-04-05
+97,43,Male,Amarillo,TX,United States,Clothing,2030-05-10
+98,30,Female,Huntington Beach,CA,United States,Home & Kitchen,2030-06-15
+99,44,Male,Little Rock,AR,United States,Beauty,2030-07-20
+100,27,Female,Glendale,CA,United States,Sports & Outdoors,2030-08-25

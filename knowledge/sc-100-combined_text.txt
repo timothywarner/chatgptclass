@@ -1,0 +1,2591 @@
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design solutions that align with security best practices and priorities
+Module: Introduction to Zero Trust and best practice frameworks
+Learning objectives
+After completing this module, you will be able to:
+1
+Understand how to use best practices as a cybersecurity architect.
+2
+Understand the concept of Zero Trust and how it can be used to modernize an organization’s cybersecurity.
+3
+Understand when to use different best practice frameworks like MCRA, CAF and WAF.
+Agenda
+Introduction to best practices
+Introduction to Zero Trust
+Zero Trust 
+RaMP
+ initiatives
+Zero Trust technology pillars
+Summary
+Unit: Introduction to best practices
+Best practices vs antipatterns
+Best practices are recommended ways to do things that have been found to be most effective or efficient. Best practices help you avoid mistakes and ensure that your resources and effort aren’t wasted.
+Exact instructions on what to do, why to do it, who should do it, and how to do it.
+High level principles to help with different types of decisions and actions.
+Guidelines that are part of a reference architecture that describes components that should be included in a solution and how to integrate them.
+An antipattern is a common mistake that leads to negative outcomes. It is the opposite of a best practice. Many best practices are designed to help you avoid antipatterns.
+Architects 
+h
+elp 
+c
+onnect 
+t
+eams
+Comparing best practice frameworks: ZT 
+RaMp
+, deployment, MCRA
+Zero Trust RaMP initiatives
+Early stages in your Zero Trust journey
+Designed to deliver quick wins
+Initiatives with checklists
+Identifies key stakeholders and roles for a project plan
+Zero Trust deployment objectives
+More comprehensive guide
+Weave together resources across products and services
+Deployment is broken into units of work that can be configured together
+MCRA
+A set of architectural diagrams
+Includes many best practices from the access control modernization initiative in Zero Trust RaMP
+Comparing best practice frameworks: MCSB, CAF, WAF
+MCSB
+Includes a collection of high-impact security recommendations you can use to help secure cloud services in a single or 
+multicloud
+ environment
+CAF
+Full life cycle framework
+Provides best practices, documentation, and tools that help you create and implement business and technology strategies
+WAF
+A set multiload of guiding tenets that can be used to improve the quality of a workload
+The framework consists of five pillars of architectural excellence
+Risk management framework
+Likelihood
+Impact
+Likelihood = Probability of occurrence
+Impact = Damage resulting from event
+Unit: Introduction to Zero Trust
+Zero Trust principles
+Unit: Zero Trust RaMP initiatives
+Zero trust modernization initiatives
+Zero Trust 
+RaMP
+ initiatives
+Unit: Zero Trust technology pillars
+Technology pillars of Zero Trust
+Visibility, automation, and orchestration of Zero Trust deployment objectives
+Initial deployment objectives:
+Establish visibility
+Enable automation
+Additional deployment objectives:
+Enable additional protection and detection controls
+Identity Zero Trust deployment objectives
+Identities and access privileges are managed with identity governance
+User, device, location, and behavior is analyzed in real time to determine risk and deliver ongoing protection
+Integrate threat signals from other security solutions to improve detection, protection, and response
+Additional deployment objectives:
+Cloud identity federates with on-premises identity systems
+Conditional Access policies gate access and provide remediation activities
+Analytics improve visibility
+Initial deployment objectives:
+Zero Trust deployment objectives for applications
+Deploy adaptive access and session controls for all apps
+Strengthen protection against cyber threats and rogue apps
+Assess the security posture of your cloud environments
+Additional deployment objectives:
+Gain visibility into the activities and data in your applications by connecting them via APIs
+Discover and control the use of shadow IT
+Protect sensitive information and activities automatically by implementing policies
+Initial deployment objectives:
+Zero Trust deployment objectives for data
+Initial deployment objectives:
+Classify and label data
+Apply encryption, access control and content markings
+Classify and label data
+Additional deployment objectives:
+Prevent data leakage 
+through DLP policies based on risky signals and data sensitivity
+Manage risks 
+by checking user activity and data activity patterns
+Reduce data exposure 
+through data governance and minimization
+Zero Trust deployment objectives for endpoints
+Initial deployment objectives:
+Endpoints are registered with cloud identity providers
+Access is only granted to cloud-managed and compliant endpoints and apps
+Data loss prevention (DLP) policies are enforced for corporate devices and BYOD
+Additional deployment objectives:
+Endpoint threat detection is used to monitor device risk
+Access control is gated on endpoint risk for both corporate devices and BYOD
+Zero Trust deployment objectives for infrastructure
+Initial deployment objectives:
+Workloads are monitored and alerted to abnormal behavior
+Every workload is assigned an app identity—and configured and deployed consistently
+Human access to resources requires
+just-in-time
+Initial deployment objectives:
+Unauthorized deployments are blocked, and alert is triggered
+Granular visibility and access control are available across workloads
+User and resource access segmented for
+each workload
+Zero Trust deployment objectives for networks
+Initial deployment objectives:
+Network segmentation
+: Many ingress/egress cloud 
+microperimeters
+ with some 
+microsegmentation
+Threat protection
+: Cloud native filtering and protection for known threats
+Encryption
+: User-to-app internal traffic is encrypted
+Additional deployment objectives:
+Network segmentation
+: Fully distributed ingress/egress cloud 
+microperimeters
+ and deeper 
+microsegmentation
+Threat protection
+: Machine learning-based threat protection and filtering with context-based signals
+Encryption
+: All traffic is encrypted
+Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Understand how to use best practices as a cybersecurity architect.
+Understand the concept of Zero Trust and how it can be used to modernize an organization’s cybersecurity.
+Understand when to use different best practice frameworks like MCRA, CAF and WAF.
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design solutions that align with security best practices and priorities
+Module: Design solutions that align with the Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF)
+Learning objectives
+After completing this module, you will be able to:
+1
+Understand the Cloud Adoption Framework and how it can be used to accelerate and secure an organization’s move to the cloud.
+2
+Understand the Well-Architected Framework and how it can be used to design solutions in the cloud that adhere to sound design principles, including security.
+Agenda
+Define a security strategy
+Introduction to Cloud Adoption Framework
+Cloud Adoption Framework―secure methodology
+Introduction to Azure landing zones
+Design security with Azure landing zones
+Introduction to Well-Architected Framework
+Well-Architected Framework―security pillar
+Solutions with CAF and WAF
+Case study
+Knowledge check
+Summary
+Unit
+: Define 
+a security strategy
+Define a security strategy
+Unit: Introduction to Cloud Adoption Framework 
+Cloud Adoption Framework overview
+Cloud Adoption Framework consists of nine main activities called “methodologies”
+Each methodology is a process or stage that an organization will need to navigate to adopt the cloud
+The methodologies are pulled together in a “life cycle” that provides and ordering of the different activities to achieve adoption as quickly and efficiently
+as possible
+Cloud Adoption Framework methodologies
+Strategy
+Define business justification and expected adoption outcomes
+Plan
+Align actionable adoption plans to business outcomes
+Ready
+Prepare your cloud environment for planned changes
+Migrate
+Migrate and modernize existing workloads
+Innovate
+Develop new cloud-native or hybrid solutions
+Secure
+Improve security over time
+Manage
+Manage operations for cloud and hybrid solutions
+Govern
+Govern your environment
+and workloads
+Organize
+Align the teams and roles supporting your organization’s cloud adoption efforts
+Cloud Adoption Framework life cycle
+Cloud Adoption Security Review (CASR)
+Unit: Cloud Adoption Framework―secure methodology
+CAF―secure
+Unit: Introduction to Azure landing zones
+Azure landing zones
+An Azure landing zone:
+Is the output of a 
+multisubscription
+ Azure environment that accounts for scale, security governance, networking, and identity. 
+Enables application migration, modernization, and innovation at enterprise-scale in Azure. 
+Is an environment for hosting your workloads, 
+preprovisioned
+ through code.
+Types of landing zones:
+Platform landing zones
+: Subscriptions deployed to provide centralized services, often operated by one or several central teams split by function (for example, networking, identity), which will be used by various workloads and applications.
+Application landing zones
+: One or more subscriptions deployed as an environment for an application or workload. 
+Unit: Design security with Azure landing zones
+Security operations design recommendations
+Access control design recommendations
+Develop a security allow list 
+Determine the incident response plan
+Align requirements
+with Azure platform
+Implement Zero Trust
+Unit: Introduction to Well- Architected Framework 
+Azure Well-Architected Framework
+Unit: Well Architected Framework―security pillar 
+WAF―security pillar
+Well-architected security assessment (WASA)
+Unit: Solutions with 
+CAF and 
+WAF
+Key takeaways―strategy for security and governance with CAF and WAF
+The strategy for security and governance include the following key frameworks:
+©Microsoft Corporation Azure
+1
+.3
+		
+The 
+Azure Well-Architected Framework (WAF) 
+consists of five pillars of architectural excellence:
+The 
+Azure Cloud Adoption Framework 
+(CAF) consists of security activities with a dual focus on:
+Reliability: Recovering from failures and continuing to function
+Operational excellence: Keeping a system running in production
+Cost Optimization: Managing costs to maximize the value delivered
+Security: Protecting applications and data from threats
+Performance efficiency: Adapting to change in load
+Business enablement to align to the organization’s business objective and risk framework
+Security assurances which focus on applying the Zero Trust principles of:
+Assuming breach
+Explicit verification 
+Least-privileged access
+Key takeaways – Solutions with CAF and WAF
+ 
+Security 
+CAF 
+Consider the following broad security areas:
+Envision a security end state and ensure role and responsibility mapping
+Consider business alignment in risk insights, security integration and operational resiliency
+Consider security disciplines such as Access control, security operations and so on
+Consider guiding principles of business enablement and security assurances in mind
+WAF
+Consider the following broad security areas:
+Identity management
+Protect your infrastructure
+Application security
+Data sovereignty and encryption
+Security resources
+Governance
+Consider the following 
+governance 
+areas:
+Follow the standard enterprise or complex enterprise governance guide
+Evaluate corporate policy
+Ensure corporate policy is cloud ready and compliant 
+Implement disciplines of cloud governance such as cost management, security and identity baseline, resource consisten
+cy and so on
+Consider the following governance areas:
+Follow organizational policies that define cost boundaries
+Enforce resource tagging
+Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you’ve learned the following:
+What the Cloud Adoption Framework is and how it can be used to accelerate and secure an organization’s move to the cloud.
+What the Well-Architected Framework is and how it can be used to design solutions in the cloud that adhere to sound design principles, including security.
+Closing slide
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design solutions that align with security best practices and priorities
+Module: Design solutions that align with the Microsoft Cybersecurity Reference Architecture (MCRA) and Microsoft cloud security benchmark (MCSB)
+Learning objectives
+After completing this module, you will be able to:
+1
+Understand how to use Microsoft Cybersecurity Reference Architecture (MCRA) to design more secure solutions.
+2
+Understand how to use Microsoft cloud security benchmark (MCSB) to design more secure solutions.
+Agenda
+Introduction to MCRA and MCSB
+Design solutions with best practices for capabilities and controls
+Design solutions with best practices for attack protection
+Case study
+Knowledge check
+Summary
+Unit: Introduction to MCRA and MCSB
+MCRA
+The Microsoft Cybersecurity Reference Architectures (MCRA) describe Microsoft’s cybersecurity capabilities. 
+The diagrams describe how Microsoft security capabilities integrate with Microsoft platforms and third-party platforms
+Diagrams covering the following topics:
+Microsoft cybersecurity capabilities
+Zero Trust and a Zero Trust rapid modernization plan (
+RaMP
+)
+Zero Trust user access
+Security operations
+Operational technology (OT)
+Multicloud
+ and cross-platform capabilities
+Attack chain coverage
+Azure native security controls
+Security organizational functions
+Microsoft cloud security benchmark (MCSB)―(formerly Azure Security Benchmark)
+MCSB control domains
+Unit: Design solutions with best practices for capabilities and controls
+MCRA best practices: Capabilities and controls
+Learn what you have available
+Use native cloud controls
+Focus on security and productivity
+Use the right tool for the job
+Use consistent tooling
+Protect
+privileged access
+Data and Management Plane Security
+Approach security holistically
+Prepare for ransomware and extortion attacks
+MCSB control domains―capabilities and controls
+Data Protection (DP)
+Asset Management (AM)
+Posture and Vulnerability Management (PV)
+Endpoint Security (ES)
+Backup and Recovery (BR)
+DevOps Security (DS)
+Governance and Strategy (GS)
+MCSB―cybersecurity capabilities and controls (1)
+MCSB―cybersecurity capabilities and controls (2)
+MCSB―cybersecurity capabilities and controls (3)
+Key takeaways
+Key best practices for cybersecurity capabilities and controls can be found in the MCRA and the Microsoft cloud security benchmark (MCSB).
+Key best practices in the MCRA include:
+Know about the security capabilities and controls available to you and use them when required.
+Use a 
+multitechnology
+ approach to apply the best solution to the problem.
+Have a holistic approach to security, keeping in mind the full life cycle.
+Ensure that security enables productivity as well as reducing risk.
+Protect privileged accounts and systems with high-security protections, monitoring, and response.
+Ensure to mitigate the risk of ransomware attacks starting with the most impactful controls.
+Unit: Design solutions with best practices for 
+attack protection 
+MCRA best practices: Attack protection
+1
+Continuous improvement toward complete coverage 
+2
+Balanced control investments
+3
+From SIEM for everything to “XDR and SIEM”
+4
+SOAR automation and modern 
+a
+nalytics
+5
+Adapt processes to Operational Technology (OT)
+6
+Build appropriate controls for insider 
+r
+isk as a distinct focus area
+MCSB―attack protection
+Key takeaways―MCRA, MCSB and attack protection
+To ensure protection from insider and external attacks, follow these best practices: 
+Key best practices in the MCRA include:
+Improve the coverage of the attack chain.
+Balance investments into security controls across the full life cycle.
+Use a combination of SIEM and Extended Detection and Response (XDR) tooling to optimize security.
+Reduce manual effort in security operations.
+Adjust your tools and processes to the constraints of Operational Technology (OT) environments.
+Build appropriate controls for insider 
+r
+isk
+ as a distinct focus area.
+Key takeaways―MCRA, MCSB and Zero Trust
+The most important priority for Zero Trust is modernizing access control, which is achieved by the following best practices:
+Key best practices in the MCRA include:
+Prioritize privileged access.
+Apply these Zero Trust principles to modernize access control: assume breach, verify explicitly, and apply least privilege.
+Integrate security operations signals with access decisions.
+Simplify the identity and access management architecture.
+Go beyond VPNs to modernize access to on-premises applications.
+Case study
+Unit: Knowledge check
+Unit
+: Summary
+Summary
+In this module, you learned the following:
+How to use Microsoft Cybersecurity Reference Architecture (MCRA) to design more secure solutions.
+How to use Microsoft cloud security benchmark (MCSB) to design more secure solutions.
+Closing slide
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design solutions that align with security best practices and priorities
+Module: Design a resiliency strategy for common cyberthreats like ransomware
+Learning objectives
+After completing this module, you will be able to:
+1
+Understand common cyberthreats like ransomware.
+2
+Understand how to support business resiliency.
+3
+Design configurations for secure backup and restore.
+4
+Design solutions for managing security updates.
+Agenda
+Common cyberthreats and attack patterns
+Support business resiliency
+Ransomware protection
+Configurations for secure backup and restore
+Security updates
+Case study
+Knowledge check
+Summary
+Unit: Common cyberthreats and attack patterns
+Defend across attack chains―MCRA
+Unit: Support 
+business resiliency
+Resilience goals
+Security resilience is focused on supporting the resilience of your business.
+Enable your business
+ to rapidly innovate and adapt
+Security should always be seeking safe ways to say 
+yes
+ to business innovation and technology adoption 
+Your organization can then adapt to unexpected changes in the business environment, like the sudden shift to working from home during COVID-19
+Limit the impact
+ and likelihood of disruptions before, during, and after active attacks to business operations
+Business resilience across incident life cycle
+Unit: Ransomware protection
+Ransomware attacks leverage privileged access for high impact
+Ransomware protection
+Phase 1: Develop a recovery plan
+Attackers demands:
+Parts of the recovery plan:
+Pay to regain access
+Pay to avoid disclosure
+Secure backups
+Data protection
+Phase 2: Limit the scope of damage
+Privileged access strategy
+Detection and response
+Phase 3: Make it hard to get in―infrastructure hardening
+Remote access
+Email and collaboration
+Endpoints
+Accounts
+Key takeaways
+To harden your infrastructure against ransomware attacks, follow these
+ best practices:
+Identify the business-critical systems that are most important to you and begin performing regular backups on those systems.
+Check for multiple copies of backups stored in isolated, offline (air-gapped) locations.
+Store backups in offline or off-site storage and/or immutable storage and require out-of-band steps before permitting an online backup to be modified or erased.
+Backup
+Validate that your backup is good before 
+restoring it.
+Exercise your business continuity/disaster recovery (BC/DR) plan regularly.
+Protect or print supporting documents and systems required for recovery, such as restoration procedure documents and SolarWinds instances.
+Restore
+Develop a strategy to protect privileged roles.
+Prevent attackers from obtaining a large scope of access for potential damage to data and systems. (All other security controls can easily be invalidated by an attacker with privileged access in your environment.)
+Ensure responsive detection and remediation of common attacks on endpoints, email, and identities.
+Privileged access
+Unit: Configurations for secure backup and restore
+Azure Backup service―overview architecture
+Azure-only backup scenario
+Hybrid scenarios
+Key takeaways―configuring backup and restore
+Services like:
+Provide the following features while configuring secure backup and restore:
+Enable 
+Multi-user authorization (MUA) 
+on your recovery services vault to add an additional layer of protection to the critical operation of disabling security features. 
+Unit: Security updates
+Azure Update Management architecture
+Key takeaways―Azure Update Management
+Use 
+Update Management
+ to assess and apply security updates to all connected Windows Server and Linux servers.
+Review 
+Automatic VM guest patching 
+to automatically assess and update Azure VMs to maintain security compliance with monthly Critical and Security updates.
+Design a 
+hybrid update management solution 
+to manage updates on both Microsoft Azure and on-premises Windows and Linux computers.
+The architecture of the hybrid update management solution consists of the following services:
+Unit: Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Understand common cyberthreats like ransomware.
+Understand how to support business resiliency.
+Design configurations for secure backup and restore.
+Design solutions for managing security updates.
+SC-100
+Microsoft 
+Cybersecurity Architect
+Learning path: Design security operations, identity, and compliance capabilities
+Module: Design solutions for regulatory compliance
+Learning objectives
+After completing this module, you will be able to:
+1
+Translate compliance requirements into a security solution.
+2
+Address compliance requirements with Microsoft Purview.
+3
+Design a solution to address privacy requirements with Microsoft 
+Priva
+.
+4
+Design Azure Policy solutions to address security and compliance requirements.
+5
+Evaluate infrastructure compliance by using Microsoft Defender for Cloud.
+Agenda
+Introduction to regulatory compliance
+Translate compliance requirements into a security solution
+Address compliance requirements with Microsoft Purview
+Address privacy requirements with Microsoft 
+Priva
+Use Azure Policy to address security and compliance requirements
+Evaluate infrastructure compliance by using Microsoft Defender for Cloud
+Case study
+Knowledge check
+Summary
+Unit: Introduction to Regulatory compliance
+Defining regulatory compliance
+Important compliance regulations
+HIPAA
+A healthcare application that processes protected health information (PHI) is subject to both the privacy rule and the security rule encompassed within the Health Insurance Portability and Accountability Act (HIPAA).
+PCI
+A proprietary information security standard for organizations that handle branded credit cards from the major card payment systems, including Visa, Mastercard, American Express, Discover, and JCB.
+Personal data
+Personal data is information that could be used to identify a consumer, employee, partner, or any other living or legal entity. Many emerging laws, particularly those dealing with privacy and personal data, require that businesses comply and report on compliance and any breaches that occur.
+GDPR
+General Data Protection Regulation (GDPR) requires that data about individuals be maintained on servers within the EU and not transferred out of it.
+Unit: Translate compliance requirements into a security solution
+Translating compliance requirements
+Define policy statements aligned with compliance requirements 
+Create a cloud governance design guide
+Business risk
+:
+ 
+A summary of the risk this policy addresses
+Policy statement
+:
+ 
+A concise explanation of the policy requirements and goals
+Design or technical guidance
+:
+ 
+Actionable recommendations, specifications, or other guidance to support and enforce this policy
+Establish the architecture choices and design patterns
+High-level explanation of the technology, tools, and processes that will support these design decisions
+Provide platform-specific implementation details
+Focus on the architecture, tools, and features of your chosen platform
+Resource governance―minimum viable product (MVP)
+A set of global policies and RBAC roles
+ 
+Provides a baseline level of governance enforcement
+Identify the Azure Policy definitions needed for business requirements
+Might include using built-in definitions and creating new custom definitions
+Create an Azure Blueprints definition
+Using these built-in and custom policies and the role assignments required by the governance MVP
+Apply policies and configuration globally
+Assigning the blueprint definition to all subscriptions
+Unit: Address compliance requirements with Purview
+Purview Compliance Manager
+Microsoft Purview Compliance Manager
+Microsoft Purview Compliance Manager components
+.
+.
+Controls
+A requirement of a regulation, standard, or policy.
+Defines how you assess and manage system configuration, organizational process, and people responsible for meeting a specific requirement of a regulation, standard, or policy.
+Assessments
+A grouping of controls from a specific regulation, standard, or policy.
+Templates
+Help you quickly create assessments.
+Improvement
+actions
+Help centralize your compliance activities.
+Unit: Address privacy requirements with 
+Priva
+Compliance solutions in Priva
+Priva
+ Privacy Risk Management
+Visibility into your organization’s data and policy templates for reducing risks
+Priva
+ Subject Rights Requests
+Automation and workflow tools for fulfilling data requests
+Priva
+ Privacy Risk Management 
+Privacy Risk Management policies:
+Detect overexposed personal data so that
+users can secure it.
+Spot and limit transfers of personal data across departments or regional borders.
+Help users identify and reduce the amount of unused personal data that you store.
+When policy matches are found:
+Admins can review alerts about
+the findings.
+Admins make decisions about how to handle the data by creating issues for further action.
+Priva
+ Subject Rights Requests 
+Data subject requests (DSRs)
+Privacy regulations around the world grant individuals (data subjects) the right to make requests to review or manage the personal data that companies have collected about them.
+When a request is created, 
+Priva
+ identifies and collects relevant data.
+Report is generated after deciding what to include in the request.
+The DSR reports include:
+Any relevant data package you’ll send to the data subject.
+Audit logs.
+Summary of tagged files.
+Unit: Use Azure Policy to address security and compliance requirements
+Azure Policy overview
+Azure Policy 
+Evaluates resources and actions in Azure by comparing the properties of those resources to business rules.
+Business rules
+In JSON format, known as 
+policy definitions.
+Can be grouped together to form a policy initiative (sometimes called a 
+policySet
+).
+The policy definition or initiative is assigned to:
+Management groups
+Subscriptions
+Resource groups
+Individual resources**
+The assignment applies to all resources within the scope.
+Policy usage
+1
+Create a custom policy or use built-in policies.
+2
+Optionally group policies with initiatives.
+3
+Policies are evaluated at specific times during the resource life cycle, the policy assignment life cycle, and for regular ongoing compliance evaluation.
+4
+Resource state is evaluated: Compliant, non-compliant, exempt, conflicting, not started, not registered.
+5
+Azure Policy makes business responses (deny the change, log the change, alter the resource, 
+and so on
+) to evaluation possible through the application of effects. 
+Design an Azure Policy solution to address security and compliance requirements
+You can design the Azure Policy in such a way that it suits your organization’s infrastructure and compliance requirements.
+Unit: Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Interpret and translate regulatory requirements into technical solutions. 
+Use the capabilities found in Microsoft Purview, Microsoft 
+Priva
+, and Defender for Cloud for compliance.
+SC-100
+Microsoft 
+Cybersecurity Architect
+Learning path: Design security operations, identity, and 
+compliance capabilities
+Module: Design solutions for identity and access management
+Learning objectives
+After completing this module, you will be able to:
+1
+Design cloud, hybrid and 
+multicloud
+ access strategies.
+2
+Design a solution for Microsoft 
+Entra
+ ID
+3
+Design a solution for external identities.
+4
+Design modern authentication and authorization strategies.
+5
+Specify requirements to secure Active Directory Domain Services.
+6
+Design a solution to manage secrets, keys, and certificates.
+Agenda
+Introduction to identity and access management
+Design cloud, hybrid and 
+multicloud
+ access strategies (including Microsoft 
+Entra
+ ID)
+Design a solution for external identities
+Design modern authentication and authorization strategies
+Align Conditional Access and Zero Trust
+Design a solution to manage secrets, keys and certificates
+Case study
+Knowledge check
+Summary
+Unit: Introduction to identity and access management
+Foundational concepts
+Identity is the basis for a wide variety of security assurance
+Grants access based on identity authentication and authorization controls in cloud services
+Access control protects data and resources and decides which requests should be permitted
+IAM lets the right individuals access the right resources at the right time for the right reasons
+Identity and access management is boundary security in the public cloud
+Must be treated as the foundation of any secure and fully compliant public cloud architecture
+Unit: Design cloud, hybrid and 
+multicloud
+ access strategies (including Microsoft 
+Entra
+ ID)
+AD vs Microsoft 
+Entra
+ ID: User management aspects 1 to 3
+AD vs Microsoft 
+Entra
+ ID: User management aspects 4 and 5
+Active Directory-based services in Azure: Active Directory Domain Services (AD DS)
+Active Directory-based services in Azure: Microsoft 
+Entra
+ ID
+Active Directory-based services in Azure: Microsoft 
+Entra
+ Domain Services
+Cross cutting design recommendations
+Cross cutting design recommendations (cont.)
+Azure and on-premises hybrid identity (
+IaaS)
+For applications that are hosted partly on-premises and partly in Azure:
+Verify which integration makes sense based on your scenario
+If you have AD FS
+Move to the cloud to centralize identity and reduce operational effort
+If AD FS is still part of your identity solution, install and use Microsoft 
+Entra
+ Connect
+Identity for Azure platform resources
+For applications that are hosted partly on-premises and partly in Azure:
+Granting access: 
+Use Microsoft 
+Entra
+ ID-only groups for Azure control-plane resources and Microsoft 
+Entra
+ ID Privileged Identity Management
+Integrate Microsoft 
+Entra
+ ID logs with the platform-central Log Analytics workspace
+If identity protection is used as part your identity solution, make sure you exclude the break-glass admin account
+Azure identity and access for landing zones
+Deploy Microsoft 
+Entra
+ ID Conditional Access policies 
+Enforce multifactor authentication (MFA) 
+Consider using service principals for noninteractive resource sign-ins
+Use Microsoft 
+Entra
+ ID managed identities for Azure resources
+Use Microsoft Defender for Cloud for just-in-time access to all infrastructure as a service (IaaS) resources
+Landing zones―PIM & RBAC
+Cloud, hybrid and 
+multicloud
+ access strategies―key takeaways
+You need these roles or functions
+: Cloud platform and
+cloud center of excellence.
+You can: 
+Evaluate options for your identity and access foundation including issues, such as authenticating users, assigning access to resources, and any core requirements
+for separation of duties.
+You cannot: 
+Fully address more advanced issues, including Zero 
+T
+rust, operational management of elevated privileges and automated guardrails to prevent common
+identity and access mistakes.
+Manage compliance and security for the ever-evolving complex technology landscape with identity and access management that allows the right individuals access the right resources at the right time for the right reasons.
+Leverage the comprehensive set of services, tools, and reference architectures offered by Azure to help make highly secure, operationally efficient environments.
+Use the Azure identity and access management design area to design cloud, hybrid and 
+multicloud
+ access strategies.
+Cloud, hybrid and 
+multicloud
+ access strategies―key takeaways (2)
+Microsoft’s cloud-based identity and access management service, Microsoft 
+Entra
+ ID provides features to protect and automate identity processes at scale. To integrate your solution with Azure Active Directory, use foundational and advanced integrations.
+Foundational integrations:
+Enable single sign-on and publisher verification
+Advanced integrations:
+Integrate user provisioning
+Azure Active Directory B2C
+Integrate with RESTful endpoints
+Key components of identity Zero Trust integrations
+Unit: Specify requirements to secure Active Directory Domain Services (AD DS)
+Reducing attack surface of Active Directory
+To secure AD DS, you need to ensure that you’re reducing the attack surface, by performing the following tasks:
+Unit: Design a solution for 
+external identities
+Azure AD external identities―B2B
+Microsoft 
+Entra
+ External ID―Azure AD
+External identities―key takeaways
+With Microsoft 
+Entra
+ External Identities, you can securely interact with users outside
+of your organization
+Unit: Design modern authentication and 
+authorization strategies
+Modern authentication and authorization
+This unit will address a few specific strategies for modern authentication:
+Conditional 
+Access
+Continuous 
+access 
+authentication
+Threat 
+intelligence 
+integration
+Risk scoring
+Conditional Access
+Make automated access control decisions based on conditions for accessing your cloud apps.
+Configure common Microsoft 
+Entra
+ ID Conditional Access policies based on a group, location, and application sensitivity for SaaS apps and Azure AD–connected apps
+Configure Conditional Access to block legacy protocols
+Attackers exploit weaknesses in older protocols every day, particularly for password spray attacks
+Continuous access authentication
+Threat intelligence integration―Microsoft 
+Entra
+ ID Identity Protection
+Risk scoring: Identity Protection and Conditional Access
+Unit: Align conditional access and 
+Zero Trust
+Zero Trust policy model
+Principle alignment
+Unit: Secure access for workload identities
+Design a solution for workload identity to authenticate and access Azure cloud resources
+Microsoft 
+Entra
+ Workload Identities 
+will help you resolve issues in securing workload identities.
+Workload identities in Microsoft 
+Entra
+ can be used as:
+An app which enables a web application to access (either on behalf of the user or the application) Microsoft Graph based on admin
+or user consent.
+A managed identity that a developer can use to provision their service with access to an Azure resource, such as Azure Key Vault or Azure Storage.
+A service principal that a developer can use to enable a CI/CD pipeline to deploy
+ 
+a web app from GitHub to Azure App Service.
+Unique characteristics of workload identities
+No formal life cycle process
+Provided with multiple credentials
+May have multiple identities
+Current pain points
+Difficult to manage life cycle
+Higher risk of leaking secrets
+No capabilities for securing access
+Unit: Design a solution to manage secrets, keys, and certificates
+Azure key management services
+Key vault best practices
+Use separate key vaults
+Use a vault per application per environment (development, preproduction, and production), per region.
+Control access to
+your vault
+Lock down access to your subscription, resource group, and key vaults―role-based access control (RBAC)).
+Create access policies for every vault.
+Use the principle of least-privileged access to grant access.
+Turn on firewall and virtual network service endpoints.
+Turn on data protection for your vault
+Turn on purge protection to guard against malicious or accidental deletion of the secrets and key vault even after soft delete is turned on.
+Turn on logging
+Turn on logging and set up alerts.
+Backup
+In scenarios when purge protection is not a possible option, we recommend backup vault objects, which can’t be recreated from other sources like encryption keys generated within the vault.
+Key takeaways―manage secrets, keys, and certificates
+While you design a strategy to manage secrets, keys, and certificates in Key Vault, remember the following considerations:
+Follow the best practices to ensure security of Key Vault
+Authenticate and authorize access
+to Key Vault
+Restrict network access
+Securely manage certificates
+Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Design cloud, hybrid and 
+multicloud
+ access strategies.
+Design a solution for Microsoft 
+Entra
+ ID (Azure AD), part of Microsoft 
+Entra
+.
+Design a solution for external identities.
+Design modern authentication and authorization strategies.
+Specify requirements to secure Active Directory Domain Services.
+Design a solution to manage secrets, keys, and certificates.
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design security operations, identity, and compliance capabilities
+Module: Design solutions for securing privileged access
+Learning objectives
+After completing this module, you will be able to:
+1
+Understand privileged access and the Enterprise Access Model.
+2
+Design identity governance solutions.
+3
+Design a solution for securing administration of cloud tenants.
+4
+Design for cloud infrastructure entitlement management.
+Agenda
+Introduction to privileged access
+Enterprise access model
+Design identity governance solutions
+Design a solution for securing administration of cloud tenants
+Design for cloud infrastructure entitlement management (CIEM)
+Design a solution for privileged access workstations and bastion services
+Case study (currently not available for this module)
+Knowledge check
+Summary
+Unit: Enterprise access model
+Enterprise access model
+Unit: Introduction to privileged access
+Privileged access overview
+Privileged access includes:
+Frequently exploited for: 
+Attractive target:
+IT admins with control of
+large portions of the
+enterprise estate. 
+Other users with access to business-critical assets.
+Human operated ransomware attacks.
+Targeted data theft.
+Allows attackers access to
+the business assets in
+the enterprise.
+Often results in rapid and significant business impact.
+Recommended privileged access strategy
+Unit: Identity governance in Microsoft 
+Entra
+ ID
+Azure AD Privileged Identity Management (PIM)
+Key features:
+Just-in-time access
+Time-bound access to resources using start and end dates
+Require approval to activate privileged roles
+Enforce multifactor authentication to activate any role
+Get notifications when privileged roles are activated
+Conduct access reviews to ensure users still need roles
+Download audit history for internal or external audit
+Provides time-based and 
+approval-based role activation 
+Mitigate risks of misused 
+access permissions
+Access reviews
+Best practices for managing privileged access
+Key takeaways―privileged access management roadmap
+Stage 1: Complete the critical items to do right now
+ (24-48 hours)
+Use Azure AD Privileged Identity Management
+Identify and categorize accounts that have highly privileged roles
+Define at least two emergency access accounts
+Stage 2: Mitigate frequently used attack techniques 
+(2-4 weeks)
+Perform an inventory of services, owners, and administrators
+Identify Microsoft accounts in administrative roles to be switched to work or school accounts
+Stage 3: Build control of administrator activity 
+(1-3 months)
+Complete an access review of users with administrator roles
+Continue rollout of stronger authentication for all users
+Use dedicated workstations for administration for Azure AD
+Stage 4: Continue building defenses 
+(6 months and beyond)
+Review administrator roles in Azure AD
+Review users who have administration of Azure AD joined devices
+Review members of built-in Microsoft 365 admin roles
+Develop and follow the Microsoft-recommended four-stage roadmap to secure privileged access against cyber attackers.
+A few activities in general prep are mentioned below for each stage:
+Entitlement management
+Azure AD identity governance feature
+Automates:
+Access request workflows 
+Access assignments
+Reviews
+Expiration
+Microsoft Purview PAM
+Unit: Identity governance in on-premises Active Directory Domain Services
+Privileged Access Management (PAM) in AD DS
+Helps organizations restrict privileged access within an existing and isolated Active Directory environment
+Re-establish control after AD compromise
+Maintaining separate, unaffected bastion environment
+Isolate the use of privileged accounts to reduce the risk of those credentials being stolen
+Unit: Design a solution for securing administration of cloud tenants
+Azure tenant management with Azure Lighthouse
+Azure Lighthouse enables multitenant management with scalability, higher automation, and enhanced governance across resources.
+Microsoft 365 tenant management―overview
+M365 tenant is a dedicated instance of the services
+of Microsoft 365 and your organization data stored within a specific default location
+Created when you purchase one or more products from Microsoft, such as Microsoft 365 E3 or E5, and a set of licenses
+Tenant also includes an
+Azure Active Directory
+(Azure AD) tenant
+Microsoft 365 tenant management―architecture
+Managing tenants with M365 Lighthouse
+Unit: Design for cloud infrastructure entitlement management (CIEM)
+Microsoft 
+Entra
+ Permissions Management
+Permissions Management is a cloud infrastructure entitlement management (CIEM) solution.
+Provides comprehensive visibility into permissions assigned to all identities
+Over-privileged workload and user identities and actions
+Resources across 
+multicloud
+ infrastructures in Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
+Recommended to follow a Discover > Remediate > Monitor workflow
+Permissions Management setup process
+Fulfill the prerequisites 
+To enable Permissions Management in your organization:
+Ensure you have an Azure AD tenant (create one, if needed).
+Ensure you have an active assignment to the Global Administrator role as a user in that tenant (or be eligible at least).
+Enable Permissions Management in your Azure AD tenant
+In your browser:
+Sign in as a global administrator user in 
+Entra
+ services. (Activate the role in your tenant, if needed.)
+Select 
+Permissions Management 
+in the Azure AD portal.
+Select the link to purchase a license or begin a trial.
+The 
+Data Collectors 
+dashboard should appear in Permissions Management.
+Configure data collection settings
+Use the 
+Data Collectors 
+dashboard in Permissions Management to configure data collection settings for your authorization system.
+If the dashboard isn’t displayed, select 
+Settings
+ and then the 
+Data
+ 
+Collectors
+ subtab.
+Select the authorization system you want: AWS, Azure, or GCP.
+Select one of the above authorization systems you want and follow the instructions to onboard them into Permissions Management.
+Unit: Design a solution for privileged access workstations and 
+bastion services
+Privileged access workstations―security controls
+Use a trusted workstation called the 'root of trust’ 
+Root of trust will be deployed using Windows Autopilot technology with hardware that meets the modern technical requirements
+Azure Bastion
+Lets you connect to VMs using your browser and the Azure portal, SSH or RDP 
+Fully platform-managed PaaS service that you provision inside your 
+VNet
+ 
+VMs don’t need a public IP address, agent, or special client software
+Secure RDP and SSH connectivity to all of the VMs in the virtual network in which it's provisioned
+Unit: Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Understand privileged access and the Enterprise Access Model.
+Design identity governance solutions.
+Design a solution for securing administration of cloud tenants.
+Design for cloud infrastructure entitlement management.
+Final slide with logo
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design security operations, identity, and compliance capabilities
+Module: Design solutions for security operations
+Learning objectives
+After completing this module, you will be able to:
+1
+2
+Design security operations capabilities in hybrid and multi-cloud environments.
+Design centralized logging and auditing.
+3
+Design Security Information and Event Management (SIEM) solutions.
+4
+Design a solution for detection and response that includes Extended Detection and Response (XDR).
+5
+Design a solution for security orchestration, automation and response (SOAR).
+6
+Design security workflows.
+7
+Design and evaluate threat detection with the MITRE ATT&CK framework.
+Agenda
+Introduction to security operations (SecOps)
+Design security operations capabilities in hybrid and 
+multicloud
+ environments
+Design centralized logging and auditing
+Design SIEM solutions
+Design solutions for detection and response
+Design a solution for SOAR
+Design security workflows
+Design threat detection coverage
+Case study
+Knowledge check
+Summary
+Unit: Introduction to Security operations (SecOps)
+SecOps overview
+Integrated capabilities needed to manage threats
+SecOps functions
+SecOps modernization
+Elevation to business risk management
+Metrics and goals (MTTA and MTTR)
+Technology evolution
+Threat hunting
+Incident management
+Unit: Design security operations capabilities in hybrid and 
+multicloud environments
+Unified operations
+Unit: Design centralized logging and auditing
+Types 
+of logs 
+in Azure
+Controls for logging and auditing from MCSB
+Centralized logging on Azure
+Here’s the recommended logging guidance from MCSB on Azure:
+Ensure that you are integrating Azure activity logs into a centralized Log Analytics workspace.
+Use Azure Monitor to query and perform analytics and create alert rules using the logs aggregated from Azure services, endpoint devices, network resources, and other security systems.
+In addition, enable and onboard data to Microsoft Sentinel, which provides the security information event management (SIEM) and security orchestration automated response (SOAR) capability.
+Azure Monitor architecture
+Key takeaways―logging and auditing
+Unit: Design SIEM solutions 
+Sentinel workspace best practices
+1
+Tenancy
+Fewer tenants, simpler to manage
+If multiple tenants, one Sentinel workspace for each
+Use Lighthouse to manage Sentinel instances in different tenants
+2
+Compliance
+Data mostly stored in same region, except when using features like ML-based detection
+3
+Region
+Use separate instances for each region―helps to avoid bandwidth and egress costs for moving data
+between regions
+4
+Access
+Combine resource-context RBAC and table-level RBAC (next slide)
+Resource-content RBAC example
+Sentinel workspace best practices (cont.)
+Creation
+Use the same workspace for both Microsoft Sentinel and Microsoft Defender for Cloud
+Use a dedicated workspace cluster if your projected data ingestion is around or more than 1 TB per day
+Management for multiple workspaces
+Simplify your incident management and investigation by condensing and listing all incidents from each Microsoft Sentinel instance in a single location
+Key takeaways―planning Sentinel Workspace
+Prerequisites
+Regulatory requirements related to Azure data residency
+Data sources 
+including built-in connectors to internal and external solutions
+	
+User roles and data access levels/permissions
+Daily ingestion rate for 
+cost management and planning considerations
+	
+Perform these critical checks:
+Check 1: New or existing workspace?
+Check 2: Data in different Azure geographies?
+Check 3: Multiple Azure tenants?
+Check 4: Splitting billing/charge-back?
+Check 5: Collecting any non-SOC data?
+Check 6: Multiple regions?
+Check 7: Segregating data or defining boundaries by ownership?
+Check 8: Controlling data access by data source/table?
+For more information, refer to the documentation on how to 
+Design your Microsoft Sentinel workspace architecture
+.
+Unit: Design solutions for detection and response
+M365 Defender architecture
+Key takeaways―Microsoft 365 Defender
+Microsoft 365 Defender is an extended detection and response (XDR) solution. It automatically collects, correlates, and analyzes signal, threat, and alert data from across the Microsoft 365 environment.
+The following illustration depicts Microsoft 365 Defender in action:
+Unit: Design a solution for SOAR
+Sentinel security orchestration, automation, and response (SOAR) capabilities
+SOAR capabilities with Sentinel and Defender for Cloud
+In the architecture presented, Microsoft Defender for Cloud and Microsoft Sentinel help monitor the security configuration of on-premises, Azure, and Azure Stack workloads.
+The workflow components are:
+Microsoft Defender for Cloud
+Microsoft Sentinel
+Azure Stack
+Azure Monitor
+Log Analytics workspace
+Log Analytics agent
+On-premises network
+On-premises Windows and Linux systems
+Azure Windows and Linux VMs
+Unit: Design security workflows
+Incident management process
+Incident response―MCSB
+Incident response―MCSB (cont.)
+Incident management―Sentinel
+Analyst
+Check incident tasks off as complete.
+Add tasks manually.
+Workflow creator―add tasks to incidents
+Automation rules
+―use whenever possible. Use for plain, static tasks that don’t require interactivity.
+Playbooks
+―use for advanced use cases: the creation of tasks based on conditions, tasks with integrated automated actions.
+Threat intelligence
+The most common forms of cyber threat intelligence (CTI) are threat indicators, also known as indicators of compromise (IoC) or indicators of attack (IoA)
+This is data that associates observed artifacts such as URLs, file hashes, or IP addresses with known threat activity such as phishing, botnets, or malware
+This form of threat intelligence is often called tactical threat intelligence
+Threat intelligence in Sentinel
+Integrate threat intelligence (TI) into Microsoft Sentinel through the following activities:
+Import threat intelligence 
+into Microsoft Sentinel by enabling 
+data connectors
+ to various TI platforms and feeds
+View and manage
+ the imported threat intelligence in 
+Logs
+ and in the 
+Threat Intelligence
+ blade of Microsoft Sentinel
+Detect threats
+ and generate security alerts and incidents using the built-in 
+Analytics
+ rule templates based on your imported threat intelligence
+Visualize key information
+ about your imported threat intelligence in Microsoft Sentinel with the 
+Threat Intelligence workbook
+Threat hunting―Sentinel
+Key takeaways―security workflows
+Use the following best practices guidance for incident response and automation capabilities to evaluate security workflows:
+Incident response
+Goals for the technical aspects:
+Identify the scope of the attack operation
+Identify the objective of the attack, if possible 
+Goals for security operations (SecOps) aspects:
+Ensure 
+you
+ have 
+an incident response plan 
+Stay focused and follow your business perspective
+Provide coordination and
+role clarity
+Incident recovery
+Goals for the technical aspects
+Limit response scope
+Avoid distractions
+Goals for the operations aspects
+Have a clear plan and limited scope
+Have clear plan ownership
+Maintain stakeholder communications
+Threat hunting
+Run built-in threat hunting queries 
+Check results for any indicators of compromise
+Use livestream, after remediation, to monitor lingering malicious events
+Incident management
+Use the Incidents page and the Investigation graph to start the triage process for new incidents
+Threat intelligence
+Use threat indicators in SIEM solutions to power analytics that match events with threat indicators to produce security alerts, incidents, and automated responses
+Make use of Microsoft Sentinel Threat Intelligence Workbooks with powerful interactive dashboards that give you insights into all aspects of Microsoft Sentinel 
+Leverage existing threat intelligence sources with integration 
+Unit: Design threat detection coverage
+View MITRE coverage in Sentinel
+You can access the 
+MITRE
+ section in Microsoft Sentinel from:
+The Threat Management menu 
+T
+he General menu 
+You can use the MITRE ATT&CK framework in analytics rules, incidents and threat hunting. 
+Other MITRE ATT&CK usages in Sentinel
+Unit: Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Design security operations capabilities in hybrid and 
+multicloud
+ environments.
+Design centralized logging and auditing.
+Design Security Event Management (SIEM) solutions.
+Design a solution for detection and response that includes Extended Detection and Response (XDR).
+Design a solution for security orchestration, automation and response (SOAR).
+Design security workflows.
+Design and evaluate threat detection with the MITRE ATT&CK framework.
+SC-100
+Microsoft 
+Cybersecurity Architect
+Learning path: Design security solutions for applications and data
+Module: Design solutions for securing Microsoft 365
+Learning objectives
+After completing this module, you will be able to:
+1
+Evaluate security posture for collaboration and productivity workloads.
+2
+Design a Microsoft 365 Defender solution.
+3
+Design configurations and operational practices for Microsoft 365.
+Agenda
+Security for Exchange, 
+Sharepoint
+, OneDrive and Teams (M365)
+Evaluate security posture for collaboration and productivity workloads
+Design a Microsoft Defender 365 solution
+Design configurations and operational practices for M365
+Case study (currently not available for this module)
+Knowledge check
+Summary
+Unit: Security for Exchange, 
+Sharepoint
+, OneDrive and Teams (M365)
+Defender for Collaboration security
+Unit: Evaluate security posture for collaboration and productivity workloads
+Microsoft Secure Score
+Microsoft recommended actions:
+Identity (Azure Active Directory accounts and roles)
+Device (Microsoft Defender for Endpoint, known as Microsoft Secure Score for Devices)
+Apps (email and cloud apps, including Office 365 and Microsoft Defender for
+Cloud Apps)
+Data (through Microsoft Information Protection)
+Unit: Design a Microsoft Defender 365 solution
+Design a Microsoft 365 Defender solution
+Microsoft 365 Defender security service provides multiple services:
+E
+nhance the security posture of your organization’s IT environment by using the security features of both Microsoft 365 (XDR tools and Zero Trust Strategy) and Azure (monitoring and security services).
+Microsoft 365 Defender portal
+Unit: Design configurations and operational practices 
+for M365
+M365 deployment―identity and device access architecture
+M365 Deployment – Identity and device access policies
+M365 deployment―Intune device management
+M365 deployment―identity and device access arch.―enterprise
+M365 Deployment―identity and device access policies―enterprise
+M365 Deployment―protect and govern sensitive data
+Know your data
+Classify and identify sensitive data across your hybrid environment, and use insights from this information to inform and monitor your policies
+Protect your data
+Use sensitivity labels to make the sensitivity level of items visible to admins and users, and apply protection actions that include encryption access restrictions,
+and visual markings
+Prevent data loss
+Apply consistent policies to
+detect risky user behavior and prevent accidental oversharing
+of sensitive information
+Unit: Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Evaluate security posture for collaboration and productivity workloads.
+Design a Microsoft Defender 365 solution
+Design configurations and operational practices for Microsoft 365.
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design 
+security solutions for applications and data
+Module: Design solutions for securing applications
+Learning objectives
+After completing this module, you will be able to:
+1
+Evaluate the security posture of existing application portfolios.
+2
+Evaluate threats to business-critical applications by using threat modeling.
+3
+Design and implement a full life cycle strategy for application security.
+4
+Design and implement standards and practices for securing the application development process.
+5
+Design a solution for workload identity to authenticate and access Azure cloud resources.
+6
+Design a solution for API management and security.
+7
+Design a solution for secure access to applications.
+Agenda
+Intro to App Security
+Design and implement standards to secure application development
+Evaluate security posture of existing application portfolios
+Design security life cycle strategy for applications
+Design a solution for API management and security
+Design a solution for secure access to applications
+Securing containerized applications
+Case study
+Knowledge check
+Summary
+Unit: Intro to App Security
+MCSB―controls for DevOps security
+DS-1: Conduct threat modeling
+DS-2: Ensure software supply chain security
+DS-3: Secure DevOps infrastructure
+DS-4: Integrate static application security testing into DevOps pipeline
+DS-5: Integrate dynamic application security testing into DevOps pipeline
+DS-6: Enforce security of workload throughout DevOps life cycle
+DS-7: Enable logging and monitoring in DevOps
+Unit: Design and implement standards to secure application development
+High level 
+DevSecOps
+ process
+Plan and develop
+Threat modeling
+ 
+to view the application through the lens of a potential attacker
+IDE security plug-ins and 
+precommit
+ hooks
+ 
+for lightweight static analysis checking within an integrated development environment (IDE)
+Peer reviews and secure coding standards
+ 
+to identify effective security coding standards, peer review processes, and 
+precommit
+ hooks
+Commit the code
+Dependency
+management
+Static application
+security testing
+Secure
+pipelines
+Build 
+and test
+Dynamic application security testing
+Cloud configuration validation
+Infrastructure
+scanning
+Go to production 
+and operate
+Configuration and infrastructure scanning
+Penetration
+testing
+Actionable threat intelligence
+Feedback loops
+DevSecOps
+ solution with GitHub
+In 
+DevSecOps
+, the security best practices form an integral part of DevOps while also maintaining efficiency. A few key components of this architecture are mentioned below.
+Unit
+: Evaluate 
+security posture of existing application portfolios
+Microsoft Defender for Cloud Apps
+Microsoft Defender for Cloud Apps is a cloud access security broker (CASB) which provides visibility, control over data travel, and analytics
+to identify and combat cyberthreats.
+CASB helps you better understand the overall cloud posture across SaaS apps and cloud services.
+CASBs protect your environment by providing visibility, data security, threat protection, and compliance. 
+The Security posture page in Microsoft Defender for Cloud Apps displays the scores for different environments and the evaluated posture of the status of all resources.
+Unit: Evaluate application threats with 
+threat modeling
+Threat modeling: Overview and prioritization
+To secure large application portfolios, enterprise applications must prioritize where to invest time and effort for tasks such as threat modeling.
+To do this, you must identify applications with a high potential impact and/or a high potential exposure 
+to threats.
+Risk
+Mitigation
+High potential impact
+Identify applications that would have a significant impact on the business if compromised
+High exposure to attacks
+Applications that are easily accessible to attackers. Examples include web applications on the open internet
+Threat modeling 
+helps secure your systems, applications, networks, and services. It can help you: 
+Create a data-flow diagram by understanding the importance of capturing requirements and assumptions.
+Find security issues in a system through learning about the framework.
+Reduce or eliminate potential threats by learning about the security control categories. 
+Highlight the importance of verifying assumptions, requirements, and fixes before deployment.
+Application threat analysis
+Gather information about the basic security controls
+Connections authenticated?
+Applying least privilege?
+Is app activity logged and
+fed into a SIEM?
+Evaluate the application
+design progressively
+STRIDE
+OWASP
+Mitigate the identified threats
+Use the 
+Defense-in-Depth 
+approach, 
+least privilege
+Microsoft Threat Modeling Tool
+Application life cycle management in Defender for 
+Cloud Apps
+Life cycle management strategy
+Zero Trust model
+The 
+Zero Trust
+ 
+model helps organizations ensure that apps, and the data they contain, are protected. The objectives of this model is to:
+Gain visibility into the activities and data in your applications by connecting them via APIs.
+Discover and control the use of shadow IT.
+Protect sensitive information and activities automatically by implementing policies.
+Deploy adaptive access and session controls for all apps.
+Strengthen protection against cyber threats and
+rogue apps.
+Assess the security posture of your cloud environments.
+Note: This section has moved to Module 6, Section 7
+Unit: Design a solution for API management and security
+Azure API Management
+Baseline for Azure API Management―network security
+Baseline for Azure API Management – Identity Management
+Baseline for Azure API Management―
+p
+rivileged 
+a
+ccess
+Baseline for Azure API Management―data protection
+Baseline for Azure API Management―assets, logging and backups
+Reference architecture: Serverless microservices
+Azure API Management (APIM) can control access to the API through a single managed endpoint. 
+Consider the following components to control access to an API:
+Azure API Management (APIM)
+Azure Functions
+Azure Virtual Network
+Azure Key Vault 
+Azure Cosmos DB 
+Application Insights
+The security solution in APIM uses several mechanisms to protect the data, such as:
+Unit: Design a solution for secure access to applications
+Azure Web Application Firewall
+Centralized protection of your web applications from common exploits
+and vulnerabilities.
+Deployed with:
+Azure Application Gateway 
+Azure Front Door
+Azure Content Delivery Network (CDN) service from Microsoft (preview)
+WAF on Azure App Gateway
+Based on the Core Rule Set (CRS) from the Open Web Application Security Project (OWASP)
+Create multiple policies, and they can be associated with an Application Gateway, to individual listeners, or to path-based routing rules on an Application Gateway
+Application Gateway operates as an application delivery controller (ADC)
+Offers Transport Layer Security (TLS), termination, cookie-based session affinity, round-robin load distribution, content-based routing, ability to host multiple websites, and security enhancements
+WAF on Azure Front Door service
+WAF on Front Door is a global and centralized solution
+Associate WAF policy to one or more Front Door
+front ends
+Policy has two types of rules:
+Custom rules that are authored by the customer
+Managed rule sets that are a collection of Azure-managed preconfigured set of rules
+The Azure-managed Default Rule Set includes rules against :
+Cross-site scripting
+Java attacks
+Local file inclusion
+PHP injection attacks
+Remote command execution
+Remote file inclusion
+Session fixation
+SQL injection protection
+Protocol attackers
+Unit: Securing containerized applications
+Application 
+l
+ife cycle management in Azure Container Apps
+The Azure Container Apps application life cycle revolves around revisions
+When you deploy a container app, the first revision is automatically created
+More revisions are created as containers change, or any adjustments are made to the “template” section of the configuration
+A container app flows through four phases:
+Deployment
+Update
+Deactivation
+Shutdown
+Deployment
+Update
+Deactivate
+Key takeaways―security requirements for containers
+Consider the following security requirements for containers:
+Store and retrieve images from a private registry, such as Azure Container Registry.
+Use solutions such as Microsoft Defender for Cloud to scan container images in a private registry and identify potential vulnerabilities. 
+Secure credentials for logins or API access.
+Allow only approved container images and control the flow of container images.
+For Security posture management, use Microsoft Defender for Containers. You can view recommendations and remediate issues with this
+.
+Key takeaways―requirements for container orchestration
+When you enable Microsoft Defender for Containers, Azure Kubernetes Service clusters and Azure Arc enabled Kubernetes clusters (Preview) protection are also enabled
+Once Microsoft Defender for Containers is enabled, you can configure your Kubernetes data plane hardening
+When Defender for Cloud protects a cluster hosted in Azure Kubernetes Service, the collection of audit log data is agentless and frictionless
+Unit: Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Evaluate security posture of existing application portfolios.
+Evaluate threats to business-critical applications by using threat modeling.
+Design and implement a full life cycle strategy for application security.
+Design and implement standards and practices for securing the application development process.
+Design a solution for workload identity to authenticate and access Azure cloud resources.
+Design a solution for API management and security.
+Design a solution for secure access to applications.
+Learning Path Recap
+In this learning path, we:
+Lorem ipsum dolor sit 
+amet
+, 
+consectetuer
+ 
+adipiscing
+ 
+elit
+. Maecenas 
+porttitor
+ 
+congue
+ 
+massa
+. 
+Fusce
+ 
+posuere
+, magna sed pulvinar 
+ultricies
+, 
+purus
+ 
+lectus
+ 
+malesuada
+ libero, sit 
+amet
+ 
+commodo
+ magna eros 
+quis
+ 
+urna
+.
+Nunc 
+viverra
+ 
+imperdiet
+ 
+enim
+. 
+Fusce
+ est. 
+Vivamus
+ a 
+tellus
+.
+Lorem ipsum dolor sit 
+amet
+, 
+consectetuer
+ 
+adipiscing
+ 
+elit
+. Maecenas 
+porttitor
+ 
+congue
+ 
+massa
+. 
+Fusce
+ 
+posuere
+, magna sed pulvinar 
+ultricies
+, 
+purus
+ 
+lectus
+ 
+malesuada
+ libero, sit 
+amet
+ 
+commodo
+ magna eros 
+quis
+ 
+urna
+.
+Nunc 
+viverra
+ 
+imperdiet
+ 
+enim
+. 
+Fusce
+ est. 
+Vivamus
+ a 
+tellus
+.
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design security solutions for applications and data
+Module: Design solutions for securing an organization’s data
+Learning objectives
+After completing this module, you will be able to:
+1
+Design a solution for data discovery and classification using Microsoft Purview.
+2
+Specify priorities for mitigating threats to data.
+3
+Design a solution for protection of data at rest, data in motion, and data in use.
+4
+Design a security solution for data in Azure workloads.
+5
+Design a security solution for data in Azure Storage.
+6
+Design a security solution that includes Microsoft Defender for SQL and Microsoft Defender for Storage.
+Agenda
+Intro to data security
+Design a solution for data discovery and classification using Microsoft Purview
+Design a solution for protection of data at rest, data in motion, and data in use
+Data security in Azure workloads
+Security for Azure Storage
+Defender for SQL and Defender for Storage
+Case study
+Knowledge check
+Summary
+Unit: Intro to data security
+Azure data best practices
+Unit: Design a solution for data discovery and classification using 
+Microsoft Purview
+Microsoft Purview architecture
+Defense in depth in Purview
+Key takeaways―discovery and classification with Purview
+Data discovery
+With MS Purview, admin users can scan Azure and non-Azure data sources (including on-premises sources) to gather information about the data assets automatically.
+It provides 
+self-service options for various skill groups
+ to decrease time to discover data.
+It encourages admin users to consider scenarios (such as discover business-critical assets) across different dimensions (such as persona, source system, impact area, outcome).
+Users can 
+take advantage of Microsoft Purview’s map of the data estate to find data assets, see lineage, and so on.
+Data classification
+MS Purview works on the goal that the platform should 
+automatically classify data based on a sampling of the data and allow manual override using custom classifications.
+The classification integration endpoint in MS Purview enables taking physical samples and running them through the classification system to open objects like notebooks, pipelines, and so on. 
+It helps protect sensitive data by identifying and labeling it and defining custom sensitive data types using Microsoft recommended practices. 
+You can apply system or custom classifications on file, table, or column assets with over 90 system classifiers that Microsoft Purview provides. 
+Unit: Design a solution for protection of data at rest, data in motion, and data in use
+Data protection overview
+Data protection―at rest
+Data classification
+Classify, tag or label sensitive data
+Microsoft Purview
+Data Discovery and Classification for Azure SQL
+After classification
+Encryption
+Policy-based governance
+Auditing
+Other at rest considerations
+Encrypt virtual disk files for Azure VMs
+Use Azure AD and RBAC to grant access
+Use a key encryption key (KEK) to protect your data encryption key (DEK)
+Unit: Data security in Azure workloads
+Securing Azure SQL―network, access 
+m
+anagement
+Network security
+IP firewall rules
+Virtual network firewall rules
+Authentication
+SQL authentication
+Azure Active Directory authentication
+Windows Authentication for Azure AD Principals
+Authorization
+Add users to DB roles
+Use Row-level security
+Securing Azure SQL―threat and info
+rmation
+ 
+p
+rotection
+Threat protection
+SQL auditing in Azure Monitor logs and Event Hubs
+Advanced Threat Protection
+Information protection and encryption
+Transport Layer Security 
+Transparent Data Encryption 
+Key management with Azure Key Vault
+Always Encrypted
+Dynamic data masking
+Unit: Security for 
+Azure Storage
+Azure Storage data protection options
+Azure Storage encryption
+Data in a new storage account is encrypted with Microsoft-managed keys by default
+If you choose to manage encryption with your own keys, you have two options. You can use either type of key management, or both:
+Customer-managed key
+Customer-provided key
+Unit: Defender for SQL and Defender for Storage
+Defender for Azure SQL and Defender for Azure Cosmos DB
+Defender for SQL protects all supported resources in a subscription.
+Defender for Cosmos DB can be enabled for all DBs, subscription or resource level.
+Vulnerability assessment: Scan databases to discover, track, and remediate vulnerabilities. 
+Threat protection: Security alerts and recommendations.  
+Alerting for:
+SQL injection
+Anomalous DB access
+Suspicious activity
+Microsoft Defender for Storage
+Defender for Storage analyzes telemetry from the Azure Blob Storage and Azure Files services 
+Security alerts for malicious activity
+Alerts in Defender for Cloud:
+Details of the activity 
+Investigation steps
+Remediation actions
+Security recommendations.
+Alert types:
+Unusual access and behavior
+Hash-based malware detection
+Unusual file uploads
+Public visibility
+Phishing campaigns
+Case study
+Unit: Knowledge check
+Unit: 
+Summary
+Summary
+In this module, y
+ou
+ learned how to:
+Design a solution for data discovery and classification using Microsoft Purview.
+Specify priorities for mitigating threats to data.
+Design a solution for protection of data at rest, data in motion, and data in use.
+Design a security solution for data in Azure workloads.
+Design a security solution for data in Azure Storage.
+Design a security solution that includes Microsoft Defender for SQL and Microsoft Defender for Storage.
+Closing slide
+SC-100 Microsoft Cybersecurity Architect
+Learning path: Design security solutions for infrastructure
+Module: 
+Specify requirements for securing SaaS, PaaS, and IaaS services
+Learning objectives
+After completing this module, you will be able to:
+1
+Specify security baselines for SaaS, PaaS, and IaaS services.
+2
+Specify security requirements for IoT workloads.
+3
+Specify security requirements for web workloads.
+4
+Specify security requirements for containers and container orchestration.
+Agenda
+Securing SaaS, PaaS and IaaS (shared responsibility model)
+Security baselines for cloud services
+Specify security requirements for web workloads
+Specify security requirements for containers and container orchestration
+Case study
+Knowledge check
+Summary
+Unit: Securing SaaS, PaaS and IaaS (shared responsibility model)
+Shared responsibility model
+Unit: Security baselines for cloud services
+IaaS security
+PaaS security
+Unit: 
+Specify security 
+requirements for web workloads
+Key takeaways―security requirements for web workloads
+Web applications, REST APIs, and mobile back ends are hosted by Azure App Service. To ensure ongoing security assessment and improve the overall security posture of web workloads, use Microsoft Defender for App Service.
+S
+ecurity
+ requirements for Azure App Service
+Ensure that you secure your apps with HTTPS
+Disable insecure protocols
+Create static IP restrictions
+Enable client authentication and authorization
+Do not store application secrets
+Implement network isolation
+Microsoft Defender for App Service provides:
+Security assessment
+Threat detection
+Case study
+Unit: Knowledge check
+Unit
+: Summary
+Summary
+In this module, you learned how to:
+Specify security baselines for SaaS, PaaS, and IaaS services.
+Specify security requirements for IoT workloads.
+Specify security requirements for web workloads.
+Specify security requirements for containers and container orchestration.
+App Service Security – Network security
+App Service Security – Identity Management
+App Service Security – Data Protection
+App Service Security – Asset management and Logging
+App Service Security – Remaining controls
+Azure Kubernetes Service – Vulnerability Management
+Azure Kubernetes Service – Vulnerability Management (cont.)
+SC-100
+Microsoft 
+Cybersecurity Architect
+Learning path: Design security solutions for infrastructure
+Module: 
+Design solutions for security posture management in hybrid and 
+multicloud
+ environments
+Learning objectives
+After completing this module, you will be able to:
+1
+Evaluate security posture by using Microsoft cloud security benchmark, Microsoft Defender for Cloud, and secure scores.
+2
+Design integrated security posture management and workload protection solutions in hybrid and 
+multicloud
+ environments.
+3
+Design cloud workload protection solutions that use Microsoft Defender for Cloud.
+Agenda
+Introduction to hybrid and 
+multicloud
+ environments
+Posture evaluation with MCSB
+Overview of posture evaluation with Defender for Cloud
+Posture evaluation with Microsoft Defender for Cloud secure score
+Design posture management and workload protection in hybrid and 
+multicloud
+ environments
+Design cloud workload protection solutions that use Microsoft Defender for Cloud
+Design a solution for integrating hybrid and 
+multicloud
+ environments by using Azure Arc
+External attack surface management
+Evaluate infrastructure compliance by using Microsoft Defender for Cloud 
+Microsoft Defender for IoT
+Case study
+Knowledge check
+Summary
+Unit: Introduction to hybrid and 
+multicloud
+ environments
+Hybrid and 
+multicloud
+Unit: Posture evaluation 
+with MCSB
+MCSB―posture and vulnerability management
+MCSB―posture and vulnerability management cont.
+Key takeaways―posture evaluation with MCSB
+You can use the guidance from MCSB to securely configure Azure resources to meet security and compliance requirements.
+Define and establish secure configurations
+Define and establish secure configurations for compute resources
+Audit and enforce secure configurations for compute resources
+Perform vulnerability assessments
+Rapidly and automatically remediate vulnerabilities
+Conduct regular red team operations
+This report does not indicate the overall compliance status as it does not cover all controls for any regulation.
+Unit: Overview of posture evaluation with Defender 
+for Cloud
+Defender for Cloud plans and feature map
+Attack path analysis and cloud security explorer
+The cloud security graph is a graph-based context engine that collects data from your multicloud environment and other data sources.
+Attack path analysis is a graph-based algorithm that scans the cloud security graph.
+The scans expose exploitable paths that attackers may use to breach your environment to reach your high-impact assets.
+Cloud security explorer allows you to query the cloud security graph.
+Agentless scanning for machines
+Unit: Posture evaluation with Microsoft Defender for Cloud secure score
+Microsoft Defender for Cloud secure score
+You can get your score through:
+The Azure portal (Secure Score)
+The REST API
+The Azure Resource Graph
+Once you access your score, ensure you:
+Check your current score
+Take action to improve your score
+Assess information and review user impact
+Implement the recommended action
+Unit: Design posture management and workload protection in hybrid and 
+multicloud
+ environments
+Defender for Cloud overview
+Defender―Cloud Security Posture Management
+Defender―Cloud Security Posture Management 
+Defender―cloud workload protection
+Planning Defender for Cloud deployments
+The key areas to consider when planning to use Defender for Cloud are:
+Unit: Design cloud workload protection solutions 
+that use 
+Microsoft Defender for Cloud
+Defender for Servers deployment
+Defender for App Service
+Defender for App Service assesses the resources covered by your App Service plan and generates security recommendations. 
+Defender for App Service detects a multitude of threats to your App Service resources by monitoring:
+The VM instance in which your App Service is running, and its management interface.
+The requests and responses sent to and from your App Service app.
+The underlying sandboxes and VMs.
+App Service internal logs―available thanks to the visibility that Azure has as a cloud provider.
+Defender for SQL servers on machines
+Microsoft Defender for SQL servers on machines extends to fully support hybrid and 
+multicloud
+ environments.
+SQL Server on Virtual Machines
+On-premises SQL servers:
+Azure Arc-enabled SQL Server
+SQL Server running on Windows machines without Azure Arc
+Multicloud SQL servers:
+AWS 
+GCP
+Unit: Design a solution for integrating hybrid and 
+multicloud
+ environments by using Azure Arc
+Azure Arc overview
+Azure Arc landing zone accelerator for hybrid and 
+multicloud
+Azure Arc Server on Windows for 
+IoT Enterprise
+Azure Arc unlocks new hybrid scenarios by enabling new Azure services and management features on any infrastructure.
+It can secure and govern applications, data, and 
+infrastructure across diverse environments with:
+Cloud-based threat detection, response, and analytics with Microsoft Defender for Cloud.
+Central management of a wide range of resources.
+Virtual machine (VM) life cycle management for Azure Stack HCI and VMware environments from a centralized location.
+Delegation of access and management of security policies for resources using RBAC and Azure Lighthouse.
+Governing of disparate environments through the Azure portal 
+for easy
+ 
+multicloud
+ management and operational efficiencies.
+Azure Arc actions
+Monitor operating system performance and discover application components to monitor processes and dependencies with other resources using VM insights.
+Audit settings on the machine with Assign 
+Azure Policy guest configurations.
+Azure Arc features
+Mobile Device Management
+Microsoft Endpoint Manager 
+Update Management
+Unit: External attack surface management
+Defender for Cloud External Attack Surface Management
+External attack surface―area of an organization or system open to attack
+Made up of all the points of access that an unauthorized person could use to enter their system
+Defender EASM discovers assets that are related to your known online infrastructure, and actively scans these assets to discover new connections over time
+Discovered assets are indexed and classified in your Defender EASM inventory, providing a dynamic record of all web infrastructure under the organization’s management
+EASM features
+Unit: Evaluate infrastructure compliance by using Microsoft Defender for Cloud
+Defender for Cloud regulatory compliance dashboard
+MCSB is automatically assigned when Defender for Cloud is enabled.
+The regulatory compliance dashboard shows the status of all the assessments within your environment for your chosen standards and regulations.
+As you act on the recommendations and reduce risk factors in your environment, your compliance posture improves.
+Defender 
+for Cloud policy components
+.
+Data collection
+Agent provisioning and data collection settings.
+Security policy
+An Azure Policy that determines which controls are monitored and recommended by Defender for Cloud.
+You can also use Azure Policy to create new definitions, define more policies, and assign policies across management groups.
+Email notifications
+Security contacts and notification settings.
+Pricing tier
+With or without Microsoft Defender for Cloud’s Defender plans, which determine which Defender for Cloud features are available for resources in scope (can be specified for subscriptions and workspaces using the API).
+Key takeaways
+In the regulatory compliance dashboard of Microsoft Defender for Cloud, you can view selected compliance standards and their requirements. 
+The supported requirements are mapped to applicable security assessments. The status of the assessments indicates your compliance with the standards.
+Unit: Microsoft Defender 
+for IoT
+Defender for IoT
+Defender for IoT uses agentless monitoring to provide visibility and security across your network, and identifies specialized protocols, devices, or machine-to-machine (M2M) behaviors.
+Capabilities:
+Discover IoT/OT devices
+Assess risks and manage vulnerabilities
+Identify unpatched devices, open ports, unauthorized applications
+Run searches in historical traffic 
+Detect advanced threats
+Respond to threats with Sentinel
+Sample architecture with Defender for IoT
+Defender for IoT provides agentless, network layer monitoring, and integrates with both industrial equipment and Security Operation Center (SOC) tools.
+With Defender for IoT:
+Protect enterprise IoT networks
+Use embedded protocols and proprietary, custom, or nonstandard protocols to secure IoT and industrial control system (ICS) devices
+Review your architecture:
+View a 
+global network diagram 
+of the industrial OT environment and provide key details, such as:
+Approximate 
+number of network devices 
+that will be monitored
+A 
+subnet list 
+for the production networks and a description (optional)
+A 
+VLAN list 
+of the production networks
+The 
+switch model numbers 
+that the Defender should connect to
+Note that the default 
+Quality of Service 
+(QoS) of the sensor is 1.5 Mbps 
+Contact an
+ Active Directory 
+administrator to create an Active Directory site user group or create local users
+Case study
+Unit: Knowledge check
+Unit: Summary
+Summary
+In this module, you learned how to:
+Evaluate security posture by using Microsoft cloud security benchmark, Microsoft Defender for Cloud, and secure scores.
+Design integrated security posture management and workload protection solutions in hybrid and 
+multicloud
+ environments.
+Design cloud workload protection solutions that use Microsoft Defender for Cloud.
+SC-100
+Microsoft 
+Cybersecurity Architect
+Learning path: Design security solutions for infrastructure
+Module: 
+Design solutions for securing server and client endpoints
+Learning objectives
+After completing this module, you will be able to:
+1
+Specify security requirements for servers.
+2
+Specify security requirements for mobile devices and clients.
+3
+Specify security requirements for IoT devices and embedded systems.
+4
+Design a solution for securing operational technology (OT) and industrial control systems (ICS) by using Microsoft.
+Agenda
+Introduction to endpoint security
+Specify server security requirements and baselines
+Specify requirements for mobile devices and clients
+Specify IoT and embedded device security requirements
+Specify security baselines for server and client endpoints
+Design a solution for secure remote access
+Case study
+Knowledge check
+Summary
+Unit
+: Introduction 
+to endpoint security
+Endpoint security from MCSB
+Unit
+: Specify 
+server security requirements and baselines
+Domain: Network security
+Domain: Data protection
+Domain: Inventory and asset management
+Domain: Secure configuration
+Key takeaways―specify server security requirements
+Microsoft Defender for Cloud allows you to monitor the security baseline for servers enabled with Azure Arc 
+Unit
+: Specify requirements 
+for mobile devices and clients
+Managing devices with Intune
+Intune is a cloud-based service that can control devices through policy, including security policies
+Intune uses Azure Active Directory (AD) for device storage and permissions
+Using the Microsoft Intune admin center, you can manage device tasks and policies in a central location designed for endpoint management
+Personal device management options:
+Require enrollment in device management services―admins can deploy policies, set rules, configure device features, and more 
+Use app protection policies that focus on protecting app data, such as Outlook, Teams, and SharePoint
+Combination of device enrollment and app protection policies
+Other device management considerations
+Key takeaways―security requirements for mobile devices and clients
+You can manage your device’s life cycle using Intune. Consider the following requirements while specifying security requirements for mobile devices and clients:
+Ensure app isolation and control using app protection policies
+Secure configuration of device settings using the Mobility and Security feature 
+Determine if your client workstation is domain-joined or not
+Unit: Specify IoT and embedded device security requirements
+IoT security overview
+Challenge: Secure diverse device-based workloads with little or no direct interaction
+Security planning starts with a threat model
+IoT architecture layers
+Azure services supporting IoT security
+Azure Sphere guardian
+Connect critical legacy devices to IoT services with Zero Trust capabilities.
+Azure IoT Edge
+Provides an edge runtime connection to IoT Hub and other Azure services.
+Edge secured-core program 
+Validates whether devices meet security requirements for device identity, secure boot, operating system hardening, device updates, data protection, and vulnerability disclosures.
+Windows for IoT
+Defender for IoT 
+Agentless, network layer security platform that delivers continuous asset discovery, vulnerability management, and threat detection for IoT and OT devices.
+Azure IoT Hub 
+Operational registry for IoT devices.
+Key takeaways―security requirements for IoT
+Azure Arc unlocks hybrid scenarios by enabling new Azure services and management features on any infrastructure.
+These are the principles that underly the IoT workload 
+design methodology
+Using a 
+strong identity 
+to authenticate devices and users.
+Automating and using 
+least-privileged access 
+control to limit impact from compromised devices or identities or unapproved workloads.
+Evaluating 
+device health 
+to gate device access or flag devices for remediation.
+Updating devices 
+continuously to keep them healthy.
+Monitoring proactively 
+for unauthorized or compromised devices and respond to emerging threats.
+The design principles ensure that the 
+IoT workload is aligned with the IoT architecture layers
+Unit
+: Specify 
+security baselines for server and client endpoints
+Intune security baselines
+Security baselines
+Groups of preconfigured Windows settings that help you apply and enforce granular security settings that are recommended by the relevant security teams. 
+Can customize each baseline you deploy to enforce only those settings and values you require
+Security baseline profile in Intune is like creating a template that consists of multiple _device configuration_ profiles
+You deploy security baselines to groups of users or devices in Intune, and the settings apply to devices that run Windows 10/11
+Available Intune baselines
+1
+Security baseline for Windows 10 and later
+2
+Microsoft Defender for Endpoint baseline
+3
+Microsoft Edge baseline
+4
+Windows 365 Security baseline
+Deploying baselines through Intune 
+admin center
+Selecting the appropriate baseline
+To specify an appropriate security baseline, you should have a clear understanding of the target operating system.
+The 
+Security Compliance Toolkit (SCT) 
+allows you to manage Microsoft-recommended security configuration baselines for Microsoft products.
+For servers, use Azure security baselines to machines through 
+Microsoft Cloud Security Benchmark
+.
+If the focus of your security baseline is to configure endpoints (Windows Client), you can use 
+Intune
+ to automate the deployment and configuration. Note that Intune security baselines are not Computer Information Systems (CIS) or National Institute of Standards and Technology (NIST) compliant.
+Separate baseline types can include the same settings but use different default values for those settings. Understand the defaults in the baselines and then modify each baseline for your requirements.
+Case study
+Unit: Knowledge check
+Unit: 
+Summary
+Summary
+In this module, you learned how to:
+Specify security requirements for servers.
+Specify security requirements for mobile devices and clients.
+Specify security requirements for IoT devices and embedded systems.
+Design a solution for securing operational technology (OT) and industrial control systems (ICS) by using Microsoft Defender for IoT.
+Specify security baselines for server and client endpoints.
+Design a solution for secure remote access.
+SC-100
+Microsoft 
+Cybersecurity Architect
+Learning path: Design security solutions for infrastructure
+Module: Design solutions for network security
+Learning objectives
+After completing this module, you will be able to:
+1
+Design solutions for network segmentation.
+2
+Design solutions for filtering traffic with network security groups.
+3
+Design solutions for network posture measurement.
+4
+Design solutions for network monitoring.
+Agenda
+Design solutions for network segmentation
+Design solutions for traffic filtering with network security groups
+Design solutions for network posture management
+Design solutions for network monitoring
+Case study (currently not available for this module)
+Knowledge check
+Summary
+Unit: Design solutions for network segmentation
+Azure segmentation elements
+Pattern 1: Single VNET
+Pattern 2: Multiple 
+VNets
+ that communicate through 
+peering
+Pattern 3: Multiple 
+VNets
+ in a hub-and-spoke model
+Comparison
+Unit: Design solutions for traffic filtering with network security groups
+Network security groups
+You can use an Azure network security group to filter network traffic between Azure resources in an Azure virtual network
+A network security group contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources
+For each rule, you can specify:
+Priority―n
+umber between 100 and 4096
+Source
+―
+IP address/block, service tag, application security group
+Destination
+―
+IP address/block, service tag, application security group
+Port―i
+ndividual or range
+Protocol―
+TCP, UDP, ICMP, ESP, AH, or Any
+Unit: Design solutions for network 
+posture management
+Microsoft Defender for DNS 
+Provides an additional layer of protection for resources that use Azure DNS's Azure-provided name resolution capability
+Defender for DNS monitors the queries without using an agent
+Microsoft Defender for DNS detects:
+Data exfiltration from your Azure resources using DNS tunneling   
+Malware communicating with command and control servers
+DNS attacks―communication with malicious DNS resolvers
+Communication with domains used for malicious activities such as phishing and crypto mining
+Unit: Design solutions for network monitoring
+Network monitoring in Azure
+Unit
+: Design 
+a solution for secure remote access
+Azure remote access options
+Azure Bastion
+, a platform as a service (PaaS) solution, for accessing VMs through a browser or currently in preview through the native SSH/RDP client on Windows workstations
+Just-in-time (JIT) access provided through Microsoft Defender for Cloud
+Hybrid connectivity options, such as Azure ExpressRoute and VPNs
+Public IP attached directly to the VM or through a NAT rule via an Azure public load balancer
+Azure Bastion design recommendations
+Use existing ExpressRoute or VPN connectivity
+Configure NSG rules
+Configure diagnostic logs to be sent to the central Log Analytics workspace
+Ensure the required RBAC role assignments are made
+Azure Bastion―WAN topology
+Azure Bastion in hub-and-spoke topology
+Azure Bastion standalone
+Unit: Case study
+Unit: Knowledge check
+Unit: Summary
+Key takeaways―Azure best practices for network security
+Summary
+In this module, you learned how to:
+Design solutions for network segmentation.
+Design solutions for filtering traffic with network security groups.
+Design solutions for network posture measurement.
+Design solutions for network monitoring.
+Closing slide
+SC-100
+Microsoft 
+Cybersecurity Architect
+Learning path: Design solutions that align with security best practices and priorities
+Learning path case study
+Learning path recap
+In this learning path, we learned how to use Microsoft security best practices such as:
+The Cloud Adoption Framework (CAF). 
+Well-Architected Framework (WAF). 
+Microsoft Cybersecurity Reference Architecture (MCRA). 
+Applying standards to improving an organization’s security posture, applying Zero Trust principles and minimizing risk from emerging attacks.
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design security operations, identity, and 
+compliance capabilities
+Learning path case study
+Learning path recap
+In this learning path, we learned how to design solutions for: 
+Security operations (SecOps). 
+Identity and access management.
+Privileged access.
+Regulatory compliance.
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design security solutions for applications and data
+Learning path case study
+Learning path recap
+In this learning path, we learned how to design solutions for securing data and applications, including:
+Securing Microsoft 365.
+Secure application development.
+Evaluating the security of application portfolios.
+Data discovery and classification with Microsoft Purview.
+Data security for Azure workloads.
+SC-100
+Microsoft Cybersecurity Architect
+Learning path: Design security solutions for infrastructure
+Learning path case study
+Learning path recap
+In this learning path, we learned how to design for infrastructure security, including:
+Specifying requirements for different cloud models.
+Designing solutions for posture management in hybrid and 
+multicloud
+ environments. 
+Securing endpoints.
+SC-100 Microsoft Cybersecurity Architect
+Conclusion
+© Copyright Microsoft Corporation. All rights reserved.
+Date
+Thank you for attending this course
+Here are some reminders
+Celebrate your 
+new skills
+Redeem your achievement
+Share with us and your network
+Let us know 
+how we did
+Give us your feedback
+Survey will be sent via email
+Become 
+Microsoft Certified
+Explore additional resources to help prepare
+Schedule your exam
+
+Tag us social: 
+#AlwaysLearning
+© Copyright Microsoft Corporation. All rights reserved.
+What could be next in your learning journey?
+Designing Microsoft Azure Infrastructure Solutions
+Description
+This course teaches Azure Solution Architects how to design infrastructure solutions. 
+Course topics cover governance, compute, application architecture, storage, data integration, authentication, networks, business continuity, and migrations. 
+The course combines lecture with case studies to demonstrate basic architect design principles.
+Topics covered
+Design identity, governance, and monitoring solutions
+Design data storage solutions
+Design business continuity solutions
+Design infrastructure solutions
+
+Find more information about this course at: 
+learn.microsoft.com/training/courses/browse
+© Copyright Microsoft Corporation. All rights reserved.
+Walk-in slide
+SC-100 Microsoft Cybersecurity Architect
+Introduction
+© Copyright Microsoft Corporation. All rights reserved.
+Date
+Hello!
+Thank you for joining me today
+Instructor: 
+<Name>
+<Title or other credentials, e.g., Microsoft Certified Trainer>
+<Affiliation/Company>
+<A few words about my technical and professional experience>
+twitter.com/[Name]
+linkedin.com/[Name]
+[
+first.last
+]@[email.com]
+Blog 
+© Copyright Microsoft Corporation. All rights reserved.
+Trainers: 
+Customize this content with your information, image, and background. Delete this note before publishing.
+Let’s get to know 
+each other
+© Copyright Microsoft Corporation. All rights reserved.
+Your name
+Company affiliation
+Title/function
+Your experience
+Your expectations 
+for the course
+Let’s have a great time together
+We all contribute to a great class
+This placeholder is designed with bulleted text
+It’s easy to remove or add bullets 
+Be on time (class hours)
+Be present (avoid mail, calls, side meetings)
+What you should know about our facilities
+This placeholder is designed with bulleted text
+This section can be removed if the class is online
+Accommodations 
+Internet access
+Parking
+Restrooms
+Emergency
+© Copyright Microsoft Corporation. All rights reserved.
+Trainers: 
+Customize this slide for your course. Delete this note before publishing.
+About this course
+Microsoft Cybersecurity Architect
+The Microsoft cybersecurity architect has subject matter expertise in designing and evolving the cybersecurity strategy to protect an organization’s mission and business processes across all aspects of the enterprise architecture. The cybersecurity architect designs a Zero Trust strategy and architecture, including security strategies for data, applications, access management, identity, and infrastructure. The cybersecurity architect also evaluates Governance Risk Compliance (GRC) technical strategies and security operations strategies.
+Learners should have the following prerequisite knowledge for this course:
+identity and access, 
+platform protection, 
+security operations, 
+securing data and securing applications. 
+experience with hybrid and cloud implementations.
+The course helps learners prepare for the Microsoft Cybersecurity Architect exam (SC-100).
+MS Learn modules can be found 
+on this course page
+.
+© Copyright Microsoft Corporation. All rights reserved.
+Course schedule
+© Copyright Microsoft Corporation. All rights reserved.
+Trainers: 
+Find the proposed schedule in the Trainer Prep Guide (PDF) and 
+customized if needed. 
+Delete
+ this note before publishing. 
+Course schedule
+© Copyright Microsoft Corporation. All rights reserved.
+Trainers: 
+Find the proposed schedule in the Trainer Prep Guide (PDF) and 
+customized if needed. 
+Delete
+ this note before publishing. 
+Get the most out of your Microsoft Learn profile
+Verify, track, and share your training and certification progress and accomplishments—
+all on one platform
+Claim your achievement code for this course and share you have completed it.
+Access your course material and track progress on your learning activities.
+Share and verify your Microsoft Certifications via email, on social networking platforms, and on your résumé.
+Download and print transcripts and certificates.
+Manage your upcoming activities and certification exam appointments.
+www.aka.ms/MyMicrosoftLearnProfile
+Create your Microsoft Learn profile 
+at 
+learn.microsoft.com
+Select 
+Sign in 
+at
+ 
+the top, right corner of any Microsoft Learn page. 
+Follow the Microsoft account authentication process. 
+If the account that you have chosen to sign-in with doesn't already have a Microsoft Learn profile, you’ll be guided to create one. 
+© Copyright Microsoft Corporation. All rights reserved.
+Access your course material
+All course content is available on Microsoft Learn 
+learn.microsoft.com/training/courses/browse
+We’ll go through this content together and as the course progresses, I will advise you on which modules to review.
+You can provide feedback for modules on Microsoft Learn. Find how at the bottom of each page.
+This course includes case studies instead of labs:
+Shorter case studies aligned with each module. These are included in the PowerPoint slides where the topic of the case study matches the module content. They are hosted in the 
+SC-100 Microsoft Learning GitHub repository 
+Note: currently modules 7 and 9 do not have aligned shorter case studies.
+Longer, multimedia case studies aligned with each learning path. These are linked to in independent power point decks and are hosted on MS Learn. Each case study is the last module in its respective Learning Path.
+© Copyright Microsoft Corporation. All rights reserved.
+Hands On Activities
+Sign up for a free Azure subscription
+Sign up for a free M365 E5 sandbox subscription
+Related hands-on labs developed by some of the product groups:
+LP2 Module 8 – 
+Microsoft Sentinel Labs
+LP4 Module 13 – 
+Defender for Cloud – Improve security posture
+LP4 Module 13 - 
+Defender for Cloud Module 6 - Workload Protections
+LP2 
+Mod 5 
+- 
+Defender for Cloud Module 4 - Regulatory Compliance
+Celebrate your accomplishments and feel empowered
+Get your achievement recognized and earn your badge for completing this course
+aka.ms/
+MyMicrosoftLearnProfile
+ 
+Go to 
+Achievements
+ on your Microsoft Learn profile
+Redeem the code provided by your trainer
+Find your new badge 
+on Modules, Courses & More
+Share your new achievement with your professional network. You can also download and print your certificate.
+© Copyright Microsoft Corporation. All rights reserved.
+Become 
+Microsoft Certified
+92
+%
+ 
+of certified IT professionals feel more confident in their abilities after earning certifications¹ 
+Get recognized by earning industry validation for technical knowledge. Ensure you stay current with the necessary skills and expertise for continued success​.
+Start at 
+learn.microsoft.com/certifications
+Microsoft role-based and specialty certifications require annual renewal.
+2
+Learn about certification renewal at 
+aka.ms/
+RenewYourCert
+¹ 
+“2023 Value of IT Certification | Candidate Report,” Pearson VUE, 2023
+   
+2 
+Microsoft fundamentals certifications don’t expire
+© Copyright Microsoft Corporation. All rights reserved.
+Get ready for your Microsoft Certification exam
+Microsoft Cybersecurity Architect
+Understand the skills measured by the exam
+Build confidence in your skills
+Find in the exam page resources 
+to help prepare
+Watch exam prep videos
+Review the exam study guide
+Demo the exam experience with the exam sandbox
+Take a practice assessment
+Percentages indicate the relative weight of each area on the exam
+The higher the percentage, the more questions you are likely to see in that area
+© Copyright Microsoft Corporation. All rights reserved.

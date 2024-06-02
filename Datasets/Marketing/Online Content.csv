@@ -1,0 +1,101 @@
+id,title,length,popularity,liked,disliked,shared
+1,"10 Effective Marketing Strategies",15:32,1500,120,10,50
+2,"The Power of Social Media Marketing",12:45,2500,180,20,80
+3,"Content Marketing Tips for Success",18:20,1800,150,15,60
+4,"How to Optimize Your Website for SEO",22:15,2100,160,10,70
+5,"The Art of Influencer Marketing",14:50,1900,140,20,50
+6,"Creating Engaging Video Content",16:30,1700,130,15,60
+7,"Email Marketing Best Practices",20:10,1600,120,10,50
+8,"The Impact of Visuals in Advertising",13:40,2200,180,20,80
+9,"Building a Strong Personal Brand",19:15,2000,150,15,60
+10,"The Future of Digital Marketing",17:55,1700,140,20,50
+11,"Understanding Consumer Behavior",14:20,1800,160,10,70
+12,"Effective Copywriting Techniques",15:40,1900,130,15,60
+13,"Maximizing ROI with PPC Advertising",16:45,1700,120,10,50
+14,"The Science of A/B Testing",19:30,1600,180,20,80
+15,"Creating a Successful Affiliate Marketing Program",21:10,2100,150,15,60
+16,"Utilizing Data Analytics in Marketing",14:55,2000,140,20,50
+17,"The Psychology of Persuasive Marketing",18:40,1900,160,10,70
+18,"Effective Social Media Advertising Strategies",16:25,1800,130,15,60
+19,"Crafting Compelling Landing Pages",12:15,2200,120,10,50
+20,"The Art of Storytelling in Marketing",17:50,1700,180,20,80
+21,"Innovative Marketing Campaigns That Went Viral",14:35,1500,150,15,60
+22,"The Role of Content Curation in Marketing",15:20,1600,140,20,50
+23,"Mastering Customer Relationship Management",13:55,1700,130,15,60
+24,"The Benefits of Marketing Automation",16:10,1900,120,10,50
+25,"Building Brand Loyalty Through Customer Engagement",18:25,2000,180,20,80
+26,"Effective Event Marketing Strategies",20:05,1800,150,15,60
+27,"The Art of Influencer Collaboration",16:50,2100,160,10,70
+28,"Email Campaign Optimization Techniques",19:40,1700,140,20,50
+29,"Creating Engaging Social Media Content",14:45,1900,130,15,60
+30,"The Power of Video Marketing",17:30,1600,120,10,50
+31,"Leveraging User-Generated Content in Marketing",15:15,1500,180,20,80
+32,"Mobile Marketing Trends and Strategies",12:55,2500,150,15,60
+33,"Effective SEO Practices for E-commerce",18:20,1800,160,10,70
+34,"The Impact of Influencer Endorsements",22:10,2100,140,20,50
+35,"Strategies for Successful Social Media Advertising",14:40,1900,130,15,60
+36,"Maximizing Conversion Rates with Persuasive Copy",16:20,1700,120,10,50
+37,"The Role of Personalization in Marketing",20:00,1600,180,20,80
+38,"The Psychology of Color in Branding",13:35,2200,150,15,60
+39,"Effective Content Marketing Strategies",19:20,2000,140,20,50
+40,"The Science of Viral Marketing",17:45,1700,130,15,60
+41,"Creating Compelling Blog Content",14:30,1800,120,10,50
+42,"Measuring Marketing ROI with Analytics",15:50,1500,180,20,80
+43,"The Art of Engaging Email Newsletters",18:35,1600,150,15,60
+44,"Effective Video Advertising Techniques",16:15,1900,160,10,70
+45,"The Power of Customer Testimonials in Marketing",14:55,1700,140,20,50
+46,"Driving Sales with Social Media Contests",19:30,1800,130,15,60
+47,"Optimizing Landing Page Conversion Rates",22:20,2100,120,10,50
+48,"The Role of Data Privacy in Marketing",12:45,1900,180,20,80
+49,"Effective Influencer Outreach Strategies",16:30,1700,150,15,60
+50,"Building Brand Identity Through Storytelling",15:10,1600,140,20,50
+51,"The Science of Persuasive Pricing",18:55,1500,130,15,60
+52,"Creating Engaging Webinar Content",14:20,1800,120,10,50
+53,"The Impact of Social Proof in Marketing",15:40,1900,180,20,80
+54,"Mastering SEO Keyword Research",18:15,2000,150,15,60
+55,"The Role of Emotional Appeal in Advertising",16:35,1700,160,10,70
+56,"Effective Cross-Channel Marketing Strategies",14:15,1900,140,20,50
+57,"The Power of Customer Segmentation",17:50,1800,130,15,60
+58,"Driving Engagement with Interactive Content",19:25,1600,120,10,50
+59,"The Psychology of Consumer Decision Making",12:55,2200,180,20,80
+60,"Creating Compelling Social Media Ads",15:30,1700,150,15,60
+61,"Effective Content Distribution Strategies",16:55,1800,160,10,70
+62,"The Impact of Brand Storytelling on Consumer Trust",14:40,1900,140,20,50
+63,"Optimizing Email Marketing Campaigns",18:20,1700,130,15,60
+64,"The Art of Customer Relationship Management",20:10,1600,120,10,50
+65,"The Power of User Experience in Web Design",13:45,1500,180,20,80
+66,"Driving Organic Traffic with SEO",17:20,1800,150,15,60
+67,"The Role of Emotion in Video Marketing",19:55,2000,160,10,70
+68,"Effective Lead Generation Strategies",14:30,1900,140,20,50
+69,"The Science of Conversion Rate Optimization",16:25,1700,130,15,60
+70,"Creating Engaging Podcast Content",15:00,1600,120,10,50
+71,"The Power of Influencer Endorsements in Fashion",18:45,1500,180,20,80
+72,"Maximizing Email Open Rates with Compelling Subject Lines",12:35,2100,150,15,60
+73,"The Impact of Social Media Engagement on Brand Perception",16:20,1800,160,10,70
+74,"Crafting Persuasive Product Descriptions",15:10,1900,140,20,50
+75,"The Role of Gamification in Marketing",18:55,1700,130,15,60
+76,"Effective Mobile Advertising Strategies",20:25,1600,120,10,50
+77,"The Art of Building Online Communities",14:40,1500,180,20,80
+78,"Building Trust Through Influencer Partnerships",17:15,1800,150,15,60
+79,"The Science of Behavioral Targeting",19:40,2000,160,10,70
+80,"Driving Engagement with Interactive Videos",16:50,1900,140,20,50
+81,"Creating Compelling Social Media Stories",14:35,1700,130,15,60
+82,"The Power of Personalized Email Marketing",18:20,1600,120,10,50
+83,"The Impact of Visual Content on Social Media",15:25,2100,180,20,80
+84,"Effective Brand Positioning Strategies",17:50,1800,150,15,60
+85,"Crafting Compelling Case Studies",19:25,1900,140,20,50
+86,"The Psychology of Color in Advertising",13:55,1700,130,15,60
+87,"Optimizing SEO for Voice Search",16:30,1600,120,10,50
+88,"The Role of Social Listening in Marketing",15:05,1500,180,20,80
+89,"Driving Conversions with Persuasive Landing Pages",18:40,1800,150,15,60
+90,"Creating Engaging Infographics",20:15,1900,160,10,70
+91,"The Power of User-Generated Content in Fashion",14:50,1700,140,20,50
+92,"Maximizing ROI with Social Media Advertising",16:35,1600,130,15,60
+93,"The Science of Storytelling in Advertising",15:20,1500,120,10,50
+94,"Building Customer Trust Through Transparency",18:05,2100,180,20,80
+95,"Effective Influencer Marketing Strategies",13:40,1800,150,15,60
+96,"The Impact of Video Marketing on Sales",19:15,1900,140,20,50
+97,"Driving Website Traffic with Content Marketing",17:55,1700,130,15,60
+98,"The Role of Data Visualization in Marketing",14:20,1600,120,10,50
+99,"Creating Engaging Email Marketing Campaigns",15:40,1500,180,20,80
+100,"The Power of Brand Advocacy",18:25,1800,150,15,60

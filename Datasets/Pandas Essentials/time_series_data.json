@@ -1,0 +1,75 @@
+[
+  {
+    "timestamp": "2023-01-01 09:00:00",
+    "likes": 100,
+    "shares": 20,
+    "comments": 5
+  },
+  {
+    "timestamp": "2023-01-02 10:00:00",
+    "likes": 150,
+    "shares": 30,
+    "comments": 8
+  },
+  {
+    "timestamp": "2023-01-03 11:00:00",
+    "likes": 200,
+    "shares": 40,
+    "comments": 10
+  },
+  {
+    "timestamp": "2023-01-04 12:00:00",
+    "likes": 250,
+    "shares": 50,
+    "comments": 12
+  },
+  {
+    "timestamp": "2023-01-05 13:00:00",
+    "likes": 300,
+    "shares": 60,
+    "comments": 15
+  },
+  {
+    "timestamp": "2023-01-06 14:00:00",
+    "likes": 350,
+    "shares": 70,
+    "comments": 18
+  },
+  {
+    "timestamp": "2023-01-07 15:00:00",
+    "likes": 400,
+    "shares": 80,
+    "comments": 20
+  },
+  {
+    "timestamp": "2023-01-08 16:00:00",
+    "likes": 450,
+    "shares": 90,
+    "comments": 22
+  },
+  {
+    "timestamp": "2023-01-09 17:00:00",
+    "likes": 500,
+    "shares": 100,
+    "comments": 25
+  },
+  {
+    "timestamp": "2023-01-10 18:00:00",
+    "likes": 550,
+    "shares": 110,
+    "comments": 28
+  },
+  {
+    "timestamp": "2023-01-11 19:00:00",
+    "likes": 600,
+    "shares": 120,
+    "comments": 30
+  },
+  {
+    "timestamp": "2023-01-12 20:00:00",
+    "likes": 650,
+    "shares": 130,
+    "comments": 32
+  },
+  {
+   

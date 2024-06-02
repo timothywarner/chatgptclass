@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,gender,date_of_birth,position,department,location,hire_date,termination_date,salary,email
+1001,John,Smith,Male,1985-03-15,Manager,Human Resources,New York,2018-05-01,,95000,john.smith@example.com
+1002,Sarah,Johnson,Female,1990-09-28,Senior Analyst,Finance,Chicago,2017-07-15,,80000,sarah.johnson@example.com
+1003,Michael,Williams,Male,1982-11-10,Software Engineer,IT,San Francisco,2019-02-01,,90000,michael.williams@example.com
+1004,Emily,Brown,Female,1992-06-03,Marketing Specialist,Marketing,Miami,2020-01-10,,70000,emily.brown@example.com
+1005,Robert,Jones,Male,1988-08-22,Operations Manager,Operations,Dallas,2016-03-20,,100000,robert.jones@example.com
+1006,Olivia,Taylor,Female,1991-07-12,HR Generalist,Human Resources,New York,2021-04-05,,75000,olivia.taylor@example.com
+1007,David,Miller,Male,1984-04-18,Financial Analyst,Finance,Chicago,2017-09-10,,85000,david.miller@example.com
+1008,Sophia,Anderson,Female,1987-02-09,Database Administrator,IT,San Francisco,2019-06-15,,95000,sophia.anderson@example.com
+1009,James,Thomas,Male,1993-05-25,Graphic Designer,Marketing,Miami,2020-02-20,,60000,james.thomas@example.com
+1010,Emma,Robinson,Female,1989-10-07,Supply Chain Manager,Operations,Dallas,2015-12-01,,110000,emma.robinson@example.com
+1011,William,Clark,Male,1986-12-01,HR Coordinator,Human Resources,New York,2018-07-01,,55000,william.clark@example.com
+1012,Isabella,Hill,Female,1994-01-14,Software Developer,IT,San Francisco,2021-01-05,,85000,isabella.hill@example.com
+1013,Aiden,Young,Male,1990-04-30,Marketing Manager,Marketing,Miami,2019-03-15,,90000,aiden.young@example.com
+1014,Mia,Mitchell,Female,1987-08-09,Financial Controller,Finance,Chicago,2017-11-20,,120000,mia.mitchell@example.com
+1015,Liam,Turner,Male,1991-11-05,Operations Analyst,Operations,Dallas,2016-06-10,,75000,liam.turner@example.com
+1016,Sofia,King,Female,1988-09-19,HR Assistant,Human Resources,New York,2020-03-01,,50000,sofia.king@example.com
+1017,Noah,Walker,Male,1983-07-26,IT Manager,IT,San Francisco,2019-08-15,,105000,noah.walker@example.com
+1018,Ava,Scott,Female,1992-02-17,Marketing Coordinator,Marketing,Miami,2020-03-20,,60000,ava.scott@example.com
+1019,Ethan,Green,Male,1989-05-10,Financial Advisor,Finance,Chicago,2018-01-05,,80000,ethan.green@example.com
+1020,Charlotte,Hall,Female,1993-08-14,Operations Supervisor,Operations,Dallas,2017-04-15,,90000,charlotte.hall@example.com
+1021,Mason,Adams,Male,1986-10-27,HR Manager,Human Resources,New York,2019-02-10,,95000,mason.adams@example.com
+1022,Avery,Wright,Female,1994-03-23,IT Support Specialist,IT,San Francisco,2021-07-01,,65000,avery.wright@example.com
+1023,Evelyn,Bailey,Female,1988-11-06,Marketing Analyst,Marketing,Miami,2019-08-05,,70000,evelyn.bailey@example.com
+1024,Logan,Harris,Male,1991-12-18,Financial Planner,Finance,Chicago,2018-03-20,,90000,logan.harris@example.com
+1025,Zoe,Allen,Female,1985-07-03,Operations Coordinator,Operations,Dallas,2016-09-01,,55000,zoe.allen@example.com
+1026,Carter,Young,Male,1983-09-16,HR Specialist,Human Resources,New York,2020-05-05,,60000,carter.young@example.com
+1027,Hannah,Martin,Female,1990-04-02,IT Analyst,IT,San Francisco,2019-10-10,,75000,hannah.martin@example.com
+1028,Lucas,Turner,Male,1992-06-25,Marketing Assistant,Marketing,Miami,2020-09-15,,45000,lucas.turner@example.com
+1029,Stella,Phillips,Female,1987-01-08,Financial Analyst,Finance,Chicago,2018-05-01,,80000,stella.phillips@example.com
+1030,Gabriel,Cook,Male,1993-03-21,Operations Analyst,Operations,Dallas,2016-07-10,,65000,gabriel.cook@example.com
+1031,Victoria,Hall,Female,1989-09-14,HR Coordinator,Human Resources,New York,2019-12-05,,55000,victoria.hall@example.com
+1032,Jackson,Morris,Male,1995-01-31,Software Engineer,IT,San Francisco,2022-01-10,,95000,jackson.morris@example.com
+1033,Lily,Wilson,Female,1992-07-29,Marketing Specialist,Marketing,Miami,2020-02-20,,70000,lily.wilson@example.com
+1034,Leo,Gray,Male,1988-08-02,Operations Manager,Operations,Dallas,2016-05-01,,100000,leo.gray@example.com
+1035,Aubrey,Cooper,Female,1991-06-17,HR Generalist,Human Resources,New York,2021-03-05,,75000,aubrey.cooper@example.com
+1036,Julian,Reed,Male,1984-11-11,Financial Analyst,Finance,Chicago,2017-08-10,,85000,julian.reed@example.com
+1037,Scarlett,Ross,Female,1994-09-25,Software Developer,IT,San Francisco,2020-12-01,,90000,scarlett.ross@example.com
+1038,Owen,Murphy,Male,1989-02-03,Marketing Manager,Marketing,Miami,2019-02-05,,95000,owen.murphy@example.com
+1039,Lucy,Hughes,Female,1990-05-19,Financial Controller,Finance,Chicago,2017-12-20,,120000,lucy.hughes@example.com
+1040,Sebastian,Long,Male,1987-09-12,Operations Analyst,Operations,Dallas,2016-04-15,,75000,sebastian.long@example.com
+1041,Addison,Parker,Female,1993-12-28,HR Assistant,Human Resources,New York,2021-02-10,,50000,addison.parker@example.com
+1042,Grace,Howard,Female,1985-03-04,IT Manager,IT,San Francisco,2019-07-15,,105000,grace.howard@example.com
+1043,Henry,Butler,Male,1991-08-11,Marketing Coordinator,Marketing,Miami,2020-03-20,,60000,henry.butler@example.com
+1044,Luna,Ward,Female,1988-11-07,Financial Advisor,Finance,Chicago,2018-08-15,,80000,luna.ward@example.com
+1045,Eli,Morgan,Male,1990-06-20,Operations Supervisor,Operations,Dallas,2017-03-01,,90000,eli.morgan@example.com
+1046,Ellie,Turner,Female,1992-09-15,HR Manager,Human Resources,New York,2019-06-01,,95000,ellie.turner@example.com
+1047,Gabriel,Gray,Male,1984-10-18,IT Support Specialist,IT,San Francisco,2022-04-05,,65000,gabriel.gray@example.com
+1048,Lila,Rivera,Female,1993-03-08,Marketing Analyst,Marketing,Miami,2019-09-15,,70000,lila.rivera@example.com
+1049,Ethan,Cook,Male,1988-07-11,Financial Planner,Finance,Chicago,2018-02-20,,90000,ethan.cook@example.com
+1050,Leah,Reed,Female,1991-10-25,Operations Coordinator,Operations,Dallas,2016-08-01,,55000,leah.reed@example.com
+1051,Isaac,Phillips,Male,1986-04-19,HR Specialist,Human Resources,New York,2020-01-05,,60000,isaac.phillips@example.com
+1052,Bella,Wright,Female,1994-06-13,IT Analyst,IT,San Francisco,2021-02-10,,75000,bella.wright@example.com
+1053,Jack,Martin,Male,1983-08-27,Marketing Assistant,Marketing,Miami,2020-07-01,,45000,jack.martin@example.com
+1054,Clara,Turner,Female,1987-02-09,Financial Analyst,Finance,Chicago,2018-05-15,,80000,clara.turner@example.com
+1055,Hudson,Hall,Male,1992-04-05,Operations Analyst,Operations,Dallas,2017-11-10,,65000,hudson.hall@example.com
+1056,Amelia,Adams,Female,1989-09-21,HR Coordinator,Human Resources,New York,2019-04-05,,55000,amelia.adams@example.com
+1057,Luke,Gray,Male,1995-02-16,Software Engineer,IT,San Francisco,2022-02-01,,95000,luke.gray@example.com
+1058,Nora,Hughes,Female,1992-08-04,Marketing Specialist,Marketing,Miami,2020-01-15,,70000,nora.hughes@example.com
+1059,Michael,Carter,Male,1988-10-27,Operations Manager,Operations,Dallas,2016-06-01,,100000,michael.carter@example.com
+1060,Mila,Cooper,Female,1991-07-19,HR Generalist,Human Resources,New York,2021-03-05,,75000,mila.cooper@example.com
+1061,Grayson,Reed,Male,1984-12-11,Financial Analyst,Finance,Chicago,2017-10-10,,85000,grayson.reed@example.com
+1062,Hazel,Ross,Female,1994-10-25,Software Developer,IT,San Francisco,2020-12-15,,90000,hazel.ross@example.com
+1063,Levi,Murphy,Male,1989-03-08,Marketing Manager,Marketing,Miami,2019-04-20,,95000,levi.murphy@example.com
+1064,Abigail,Hughes,Female,1990-06-24,Financial Controller,Finance,Chicago,2018-08-05,,120000,abigail.hughes@example.com
+1065,Austin,Long,Male,1987-10-16,Operations Analyst,Operations,Dallas,2017-05-01,,75000,austin.long@example.com
+1066,Aria,Scott,Female,1993-01-01,HR Assistant,Human Resources,New York,2021-02-10,,50000,aria.scott@example.com
+1067,Eliana,Howard,Female,1985-04-14,IT Manager,IT,San Francisco,2019-06-15,,105000,eliana.howard@example.com
+1068,Adam,Butler,Male,1991-09-21,Marketing Coordinator,Marketing,Miami,2020-03-20,,60000,adam.butler@example.com
+1069,Lyla,Ward,Female,1988-12-07,Financial Advisor,Finance,Chicago,2018-10-15,,80000,lyla.ward@example.com
+1070,Daniel,Morgan,Male,1990-07-20,Operations Supervisor,Operations,Dallas,2016-08-01,,90000,daniel.morgan@example.com
+1071,Sadie,Turner,Female,1992-10-15,HR Manager,Human Resources,New York,2019-05-05,,95000,sadie.turner@example.com
+1072,Jacob,Gray,Male,1984-11-30,IT Support Specialist,IT,San Francisco,2022-01-01,,65000,jacob.gray@example.com
+1073,Audrey,Rivera,Female,1993-06-27,Marketing Analyst,Marketing,Miami,2019-08-15,,70000,audrey.rivera@example.com
+1074,Caleb,Cook,Male,1988-07-30,Financial Planner,Finance,Chicago,2018-03-20,,90000,caleb.cook@example.com
+1075,Penelope,Reed,Female,1991-11-13,Operations Coordinator,Operations,Dallas,2016-09-01,,55000,penelope.reed@example.com
+1076,Gavin,Phillips,Male,1986-05-27,HR Specialist,Human Resources,New York,2020-02-05,,60000,gavin.phillips@example.com
+1077,Lily,Wright,Female,1994-08-21,IT Analyst,IT,San Francisco,2021-08-10,,75000,lily.wright@example.com
+1078,Max,Martin,Male,1983-10-14,Marketing Assistant,Marketing,Miami,2020-09-15,,45000,max.martin@example.com
+1079,Savannah,Turner,Female,1987-03-09,Financial Analyst,Finance,Chicago,2018-06-20,,80000,savannah.turner@example.com
+1080,Christopher,Hall,Male,1992-05-25,Operations Analyst,Operations,Dallas,2017-12-01,,65000,christopher.hall@example.com
+1081,Hailey,Cook,Female,1993-09-15,HR Coordinator,Human Resources,New York,2019-03-05,,55000,hailey.cook@example.com
+1082,Asher,Phillips,Male,1995-02-28,Software Engineer,IT,San Francisco,2022-03-10,,95000,asher.phillips@example.com
+1083,Aurora,Hughes,Female,1992-09-05,Marketing Specialist,Marketing,Miami,2020-01-15,,70000,aurora.hughes@example.com
+1084,Jonathan,Butler,Male,1988-11-08,Operations Manager,Operations,Dallas,2016-05-01,,100000,jonathan.butler@example.com
+1085,Chloe,Cooper,Female,1991-08-23,HR Generalist,Human Resources,New York,2021-04-05,,75000,chloe.cooper@example.com
+1086,Elijah,Reed,Male,1984-12-16,Financial Analyst,Finance,Chicago,2017-09-10,,85000,elijah.reed@example.com
+1087,Violet,Miller,Female,1994-11-30,Software Developer,IT,San Francisco,2020-11-01,,90000,violet.miller@example.com
+1088,Lincoln,Murphy,Male,1989-03-24,Marketing Manager,Marketing,Miami,2019-05-05,,95000,lincoln.murphy@example.com
+1089,Natalie,Hughes,Female,1990-07-07,Financial Controller,Finance,Chicago,2018-09-20,,120000,natalie.hughes@example.com
+1090,Julian,Long,Male,1987-10-31,Operations Analyst,Operations,Dallas,2017-06-10,,75000,julian.long@example.com
+1091,Stella,Scott,Female,1993-02-14,HR Assistant,Human Resources,New York,2021-02-05,,50000,stella.scott@example.com
+1092,Xavier,Howard,Male,1985-05-26,IT Manager,IT,San Francisco,2019-07-15,,105000,xavier.howard@example.com
+1093,Aria,Butler,Female,1991-10-10,Marketing Coordinator,Marketing,Miami,2020-03-20,,60000,aria.butler@example.com
+1094,Liam,Ward,Male,1988-12-23,Financial Advisor,Finance,Chicago,2018-09-15,,80000,liam.ward@example.com
+1095,Eva,Morgan,Female,1990-07-06,Operations Supervisor,Operations,Dallas,2016-09-01,,90000,eva.morgan@example.com
+1096,Oliver,Turner,Male,1992-10-20,HR Manager,Human Resources,New York,2019-06-05,,95000,oliver.turner@example.com
+1097,Mia,Gray,Female,1994-12-14,IT Support Specialist,IT,San Francisco,2022-02-10,,65000,mia.gray@example.com
+1098,Noah,Rivera,Male,1993-07-29,Marketing Analyst,Marketing,Miami,2019-09-15,,70000,noah.rivera@example.com
+1099,Sophia,Cook,Female,1988-08-02,Financial Planner,Finance,Chicago,2018-12-20,,90000,sophia.cook@example.com
+1100,James,Reed,Male,1991-05-17,Operations Coordinator,Operations,Dallas,2016-07-01,,55000,james.reed@example.com

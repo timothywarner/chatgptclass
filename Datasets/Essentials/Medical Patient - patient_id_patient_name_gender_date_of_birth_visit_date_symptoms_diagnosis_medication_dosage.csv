@@ -1,0 +1,101 @@
+patient_id,patient_name,gender,date_of_birth,visit_date,symptoms,diagnosis,medication,dosage
+P1001,John Doe,Male,1985-05-12,2023-01-02,Fever,Cold and Flu,Paracetamol,500mg
+P1002,Jane Smith,Female,1990-09-28,2023-01-05,Cough and Sore Throat,Bronchitis,Amoxicillin,500mg
+P1003,Michael Johnson,Male,1978-06-15,2023-01-08,Headache,Migraine,Ibuprofen,400mg
+P1004,Emily Davis,Female,1972-03-19,2023-01-12,Stomachache,Gastritis,Omeprazole,20mg
+P1005,David Wilson,Male,1995-11-03,2023-01-15,Rash and Itching,Allergic Reaction,Claritin,10mg
+P1006,Sarah Brown,Female,1988-08-21,2023-01-20,Back Pain,Herniated Disc,Naproxen,500mg
+P1007,Christopher Taylor,Male,1980-02-09,2023-01-22,Difficulty Breathing,Asthma,Salbutamol,2 puffs
+P1008,Amy Anderson,Female,1992-07-04,2023-01-25,High Blood Pressure,Hypertension,Lisinopril,10mg
+P1009,Robert Martinez,Male,1976-12-17,2023-01-28,Diarrhea,Gastroenteritis,Loperamide,2mg
+P1010,Jennifer Lee,Female,1991-04-29,2023-02-01,Joint Pain,Arthritis,Acetaminophen,650mg
+P1011,William Thompson,Male,1983-10-06,2023-02-04,Sore Throat,Pharyngitis,Amoxicillin,500mg
+P1012,Amanda Garcia,Female,1979-01-23,2023-02-09,Anxiety,Panic Disorder,Alprazolam,0.5mg
+P1013,Thomas Hernandez,Male,1993-08-07,2023-02-13,Allergies,Seasonal Allergic Rhinitis,Cetirizine,10mg
+P1014,Elizabeth Miller,Female,1986-11-11,2023-02-18,Sprained Ankle,Ankle Sprain,Ice Pack,Apply as needed
+P1015,Daniel Wilson,Male,1974-05-02,2023-02-22,Depression,Major Depressive Disorder,Fluoxetine,20mg
+P1016,Sophia White,Female,1998-03-14,2023-02-26,Upset Stomach,Indigestion,Antacid,Take as directed
+P1017,Joshua Davis,Male,1997-09-09,2023-03-01,Common Cold,Viral Infection,Rest and Fluids,N/A
+P1018,Olivia Anderson,Female,1982-06-30,2023-03-04,Migraine,Headache,Rizatriptan,10mg
+P1019,Matthew Johnson,Male,1996-12-26,2023-03-07,Earache,Otitis Media,Amoxicillin,500mg
+P1020,Grace Thompson,Female,1989-07-18,2023-03-12,Hypothyroidism,Thyroid Disorder,Levothyroxine,50mcg
+P1021,Andrew Martinez,Male,1977-04-13,2023-03-16,Nausea and Vomiting,Gastroenteritis,Ondansetron,4mg
+P1022,Emma Brown,Female,1994-01-01,2023-03-20,Insomnia,Chronic Insomnia,Zolpidem,10mg
+P1023,Christopher Garcia,Male,1981-08-25,2023-03-24,Acid Reflux,Gastroesophageal Reflux Disease,Omeprazole,20mg
+P1024,Abigail Taylor,Female,1987-02-16,2023-03-28,Allergies,Hay Fever,Loratadine,10mg
+P1025,Aiden Wilson,Male,2000-09-05,2023-04-01,Strep Throat,Streptococcal Pharyngitis,Penicillin V,500mg
+P1026,Ella Hernandez,Female,1990-06-26,2023-04-05,High Cholesterol,Hyperlipidemia,Atorvastatin,20mg
+P1027,Jackson Smith,Male,1975-03-09,2023-04-09,Sinus Congestion,Sinusitis,Pseudoephedrine,30mg
+P1028,Sofia Johnson,Female,1983-12-20,2023-04-13,Indigestion,Gastritis,Ranitidine,150mg
+P1029,Carter Davis,Male,1999-07-23,2023-04-17,Anemia,Iron Deficiency Anemia,Ferrous Sulfate,325mg
+P1030,Avery Wilson,Female,1992-04-14,2023-04-21,Ankle Sprain,Ankle Injury,Ice Pack,Apply as needed
+P1031,Leo Thompson,Male,1978-01-17,2023-04-25,Anxiety,Generalized Anxiety Disorder,Escitalopram,10mg
+P1032,Scarlett Martin,Female,1985-08-10,2023-04-29,Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1033,James Miller,Male,1991-05-03,2023-05-03,Acne,Vulgaris Acne,Benzoyl Peroxide,5%
+P1034,Lily Davis,Female,1980-02-26,2023-05-07,Back Pain,Lower Back Pain,Ibuprofen,400mg
+P1035,Logan Wilson,Male,1996-11-11,2023-05-11,Common Cold,Viral Infection,Rest and Fluids,N/A
+P1036,Chloe Taylor,Female,1993-08-05,2023-05-15,Headache,Tension Headache,Acetaminophen,500mg
+P1037,Ethan Anderson,Male,1979-05-27,2023-05-19,Seasonal Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1038,Ava Johnson,Female,1988-12-19,2023-05-23,Heartburn,Gastroesophageal Reflux Disease,Omeprazole,20mg
+P1039,Noah Smith,Male,2002-09-09,2023-05-27,Conjunctivitis,Pink Eye,Artificial Tears,Use as directed
+P1040,Zoe Martinez,Female,1995-06-30,2023-05-31,Athlete's Foot,Tinea Pedis,Clotrimazole,1% cream
+P1041,Lucas Brown,Male,1984-03-23,2023-06-04,Insomnia,Chronic Insomnia,Zolpidem,10mg
+P1042,Grace Hernandez,Female,1999-12-16,2023-06-08,Sore Throat,Pharyngitis,Amoxicillin,500mg
+P1043,Mason Thompson,Male,1990-09-08,2023-06-12,Allergies,Hay Fever,Loratadine,10mg
+P1044,Sophia Davis,Female,1977-06-01,2023-06-16,Upset Stomach,Gastritis,Omeprazole,20mg
+P1045,Aiden Johnson,Male,1996-03-25,2023-06-20,Stomach Ulcer,Gastric Ulcer,Ranitidine,150mg
+P1046,Olivia Anderson,Female,1985-12-17,2023-06-24,Cold and Flu,Sinusitis,Pseudoephedrine,30mg
+P1047,Elijah Wilson,Male,1983-09-10,2023-06-28,Sprained Wrist,Wrist Sprain,Ice Pack,Apply as needed
+P1048,Ava Garcia,Female,2000-06-03,2023-07-02,Anxiety,Panic Disorder,Alprazolam,0.5mg
+P1049,Benjamin Hernandez,Male,1993-03-26,2023-07-06,Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1050,Mia Taylor,Female,1989-12-19,2023-07-10,Common Cold,Viral Infection,Rest and Fluids,N/A
+P1051,Liam Smith,Male,1995-09-12,2023-07-14,Sprained Ankle,Ankle Sprain,Ibuprofen,400mg
+P1052,Charlotte Anderson,Female,1984-06-05,2023-07-18,Depression,Major Depressive Disorder,Fluoxetine,20mg
+P1053,Carter Thompson,Male,1982-03-29,2023-07-22,Insomnia,Chronic Insomnia,Zolpidem,10mg
+P1054,Sophia Johnson,Female,1998-12-22,2023-07-26,Indigestion,Gastritis,Ranitidine,150mg
+P1055,Mason Davis,Male,1991-09-15,2023-07-30,Anemia,Iron Deficiency Anemia,Ferrous Sulfate,325mg
+P1056,Avery Wilson,Female,1986-06-07,2023-08-03,Ankle Sprain,Ankle Injury,Ice Pack,Apply as needed
+P1057,Evelyn Thompson,Female,1978-03-30,2023-08-07,Anxiety,Generalized Anxiety Disorder,Escitalopram,10mg
+P1058,Oliver Martinez,Male,1999-12-23,2023-08-11,Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1059,Amelia Brown,Female,1992-09-16,2023-08-15,Acne,Vulgaris Acne,Benzoyl Peroxide,5%
+P1060,Sebastian Davis,Male,1988-06-09,2023-08-19,Headache,Migraine,Ibuprofen,400mg
+P1061,Isabella Johnson,Female,2001-01-02,2023-08-23,Common Cold,Viral Infection,Rest and Fluids,N/A
+P1062,Jacob Anderson,Male,1994-09-25,2023-08-27,Migraine,Headache,Rizatriptan,10mg
+P1063,Mia Smith,Female,1989-06-18,2023-08-31,Sprained Wrist,Wrist Sprain,Ice Pack,Apply as needed
+P1064,William Taylor,Male,1982-03-12,2023-09-04,Allergies,Hay Fever,Loratadine,10mg
+P1065,Harper Hernandez,Female,1998-12-05,2023-09-08,Strep Throat,Streptococcal Pharyngitis,Penicillin V,500mg
+P1066,Evelyn Martin,Female,1991-08-28,2023-09-12,High Cholesterol,Hyperlipidemia,Atorvastatin,20mg
+P1067,Benjamin Thompson,Male,1986-05-21,2023-09-16,Sinus Congestion,Sinusitis,Pseudoephedrine,30mg
+P1068,Sofia Davis,Female,1999-02-14,2023-09-20,Indigestion,Gastritis,Ranitidine,150mg
+P1069,Logan Wilson,Male,1992-11-07,2023-09-24,Anemia,Iron Deficiency Anemia,Ferrous Sulfate,325mg
+P1070,Charlotte Anderson,Female,1987-07-31,2023-09-28,Ankle Sprain,Ankle Injury,Ice Pack,Apply as needed
+P1071,Michael Thompson,Male,1980-04-23,2023-10-02,Anxiety,Generalized Anxiety Disorder,Escitalopram,10mg
+P1072,Ava Garcia,Female,1995-01-15,2023-10-06,Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1073,Elijah Johnson,Male,1988-10-08,2023-10-10,Acne,Vulgaris Acne,Benzoyl Peroxide,5%
+P1074,Abigail Davis,Female,1979-07-01,2023-10-14,Back Pain,Lower Back Pain,Ibuprofen,400mg
+P1075,Noah Wilson,Male,1993-03-26,2023-10-18,Common Cold,Viral Infection,Rest and Fluids,N/A
+P1076,Emily Taylor,Female,1996-12-19,2023-10-22,Headache,Tension Headache,Acetaminophen,500mg
+P1077,James Anderson,Male,1985-09-12,2023-10-26,Seasonal Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1078,Grace Johnson,Female,1980-06-05,2023-10-30,Cold and Flu,Sinusitis,Pseudoephedrine,30mg
+P1079,Aiden Davis,Male,1997-01-28,2023-11-03,Sprained Ankle,Ankle Sprain,Ibuprofen,400mg
+P1080,Ella Thompson,Female,1990-10-21,2023-11-07,Depression,Major Depressive Disorder,Fluoxetine,20mg
+P1081,Lucas Hernandez,Male,1986-07-14,2023-11-11,Insomnia,Chronic Insomnia,Zolpidem,10mg
+P1082,Sophia Martin,Female,1999-04-07,2023-11-15,Indigestion,Gastritis,Ranitidine,150mg
+P1083,Mason Davis,Male,1992-11-30,2023-11-19,Anemia,Iron Deficiency Anemia,Ferrous Sulfate,325mg
+P1084,Ava Wilson,Female,1987-08-23,2023-11-23,Ankle Sprain,Ankle Injury,Ice Pack,Apply as needed
+P1085,Jacob Thompson,Male,1980-05-16,2023-11-27,Anxiety,Generalized Anxiety Disorder,Escitalopram,10mg
+P1086,Olivia Garcia,Female,1995-02-08,2023-12-01,Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1087,Ethan Johnson,Male,1988-10-31,2023-12-05,Acne,Vulgaris Acne,Benzoyl Peroxide,5%
+P1088,Isabella Anderson,Female,1980-07-24,2023-12-09,Back Pain,Lower Back Pain,Ibuprofen,400mg
+P1089,Logan Smith,Male,1994-04-17,2023-12-13,Common Cold,Viral Infection,Rest and Fluids,N/A
+P1090,Charlotte Taylor,Female,1997-01-10,2023-12-17,Headache,Tension Headache,Acetaminophen,500mg
+P1091,Michael Hernandez,Male,1985-10-03,2023-12-21,Seasonal Allergies,Allergic Rhinitis,Cetirizine,10mg
+P1092,Sophia Davis,Female,1990-06-26,2023-12-25,Cold and Flu,Sinusitis,Pseudoephedrine,30mg
+P1093,William Wilson,Male,1993-03-20,2023-12-29,Sprained Ankle,Ankle Sprain,Ibuprofen,400mg
+P1094,Emma Thompson,Female,1987-12-13,2024-01-02,Depression,Major Depressive Disorder,Fluoxetine,20mg
+P1095,David Hernandez,Male,2000-09-06,2024-01-06,Insomnia,Chronic Insomnia,Zolpidem,10mg
+P1096,Mia Martin,Female,1995-05-31,2024-01-10,Indigestion,Gastritis,Ranitidine,150mg
+P1097,Noah Davis,Male,1988-02-23,2024-01-14,Anemia,Iron Deficiency Anemia,Ferrous Sulfate,325mg
+P1098,Olivia Johnson,Female,1983-11-17,2024-01-18,Ankle Sprain,Ankle Injury,Ice Pack,Apply as needed
+P1099,Liam Thompson,Male,1996-08-10,2024-01-22,Anxiety,Generalized Anxiety Disorder,Escitalopram,10mg
+P1100,Ava Hernandez,Female,1991-05-04,2024-01-26,Allergies,Allergic Rhinitis,Cetirizine,10mg

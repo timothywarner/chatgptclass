@@ -1,0 +1,101 @@
+employee_id,employee_name,course_id,course_name,completion_date,completion_status
+101,John Smith,C001,Introduction to Leadership,2022-05-10,Completed
+102,Sarah Johnson,C002,Effective Communication Skills,2022-06-15,Completed
+103,Michael Davis,C003,Project Management Fundamentals,2022-04-20,Completed
+104,Emily Wilson,C001,Introduction to Leadership,2022-05-12,Completed
+105,Robert Anderson,C004,Time Management Strategies,2022-07-02,Completed
+106,Olivia Thompson,C002,Effective Communication Skills,2022-06-17,Completed
+107,David Martinez,C005,Data Analysis Techniques,2022-03-25,Completed
+108,Sophia Lee,C006,Teamwork and Collaboration,2022-04-30,Completed
+109,James Rodriguez,C003,Project Management Fundamentals,2022-05-18,Completed
+110,Emma Taylor,C007,Conflict Resolution Strategies,2022-07-10,Completed
+111,William Hernandez,C008,Strategic Thinking and Planning,2022-05-05,Completed
+112,Isabella Moore,C002,Effective Communication Skills,2022-06-20,Completed
+113,Aiden Brown,C001,Introduction to Leadership,2022-05-15,Completed
+114,Mia Clark,C009,Problem-Solving Techniques,2022-07-05,Completed
+115,Liam Lewis,C010,Ethical Decision Making,2022-06-30,Completed
+116,Sofia Green,C006,Teamwork and Collaboration,2022-05-08,Completed
+117,Noah Baker,C003,Project Management Fundamentals,2022-06-22,Completed
+118,Ava Gonzalez,C011,Innovation and Creativity,2022-07-15,Completed
+119,Lucas Martinez,C012,Change Management Strategies,2022-04-25,Completed
+120,Charlotte Hill,C002,Effective Communication Skills,2022-06-25,Completed
+121,Harper Collins,C001,Introduction to Leadership,2022-05-20,Completed
+122,Emma Adams,C003,Project Management Fundamentals,2022-05-28,Completed
+123,Liam Turner,C006,Teamwork and Collaboration,2022-06-05,Completed
+124,Olivia Harris,C009,Problem-Solving Techniques,2022-07-08,Completed
+125,Noah Butler,C013,Leadership in a Global Context,2022-05-30,Completed
+126,Sophia Bell,C001,Introduction to Leadership,2022-05-18,Completed
+127,Lucas Carter,C002,Effective Communication Skills,2022-06-30,Completed
+128,Ava Anderson,C010,Ethical Decision Making,2022-07-03,Completed
+129,James Walker,C006,Teamwork and Collaboration,2022-06-08,Completed
+130,Olivia Richardson,C003,Project Management Fundamentals,2022-05-22,Completed
+131,Benjamin Wright,C014,Strategic Leadership,2022-07-12,Completed
+132,Sophia Rodriguez,C002,Effective Communication Skills,2022-06-17,Completed
+133,Lucas Turner,C015,Inclusive Leadership,2022-05-05,Completed
+134,Emma Davis,C001,Introduction to Leadership,2022-05-15,Completed
+135,Noah Hernandez,C003,Project Management Fundamentals,2022-05-28,Completed
+136,Ava Wilson,C006,Teamwork and Collaboration,2022-06-05,Completed
+137,Liam Adams,C016,Change Leadership,2022-07-15,Completed
+138,Emily Moore,C009,Problem-Solving Techniques,2022-07-08,Completed
+139,William Phillips,C017,Leadership Communication,2022-06-30,Completed
+140,Sophia Anderson,C010,Ethical Decision Making,2022-07-03,Completed
+141,Charlotte Thompson,C002,Effective Communication Skills,2022-06-20,Completed
+142,Aiden Harris,C001,Introduction to Leadership,2022-05-18,Completed
+143,Liam Turner,C003,Project Management Fundamentals,2022-05-22,Completed
+144,Olivia Adams,C006,Teamwork and Collaboration,2022-06-08,Completed
+145,Noah Richardson,C018,Emotional Intelligence in Leadership,2022-07-20,Completed
+146,Sophia Walker,C019,Leadership Development Strategies,2022-06-10,Completed
+147,Lucas Clark,C002,Effective Communication Skills,2022-06-17,Completed
+148,Emily Hill,C006,Teamwork and Collaboration,2022-06-05,Completed
+149,William Baker,C009,Problem-Solving Techniques,2022-07-08,Completed
+150,Ava Gonzalez,C020,Strategic Talent Management,2022-07-25,Completed
+151,Oliver Nelson,C003,Project Management Fundamentals,2022-05-28,Completed
+152,Sophie Wright,C021,Leadership and Innovation,2022-06-15,Completed
+153,Ethan Reed,C022,Leadership Ethics,2022-07-05,Completed
+154,Amelia Phillips,C001,Introduction to Leadership,2022-05-15,Completed
+155,David Brown,C023,Leadership in a Digital Age,2022-06-30,Completed
+156,Abigail Roberts,C010,Ethical Decision Making,2022-07-03,Completed
+157,James Wilson,C006,Teamwork and Collaboration,2022-06-08,Completed
+158,Elizabeth Turner,C002,Effective Communication Skills,2022-06-20,Completed
+159,Benjamin Collins,C003,Project Management Fundamentals,2022-05-22,Completed
+160,Olivia Davis,C024,Cross-Cultural Leadership,2022-07-10,Completed
+161,Lucas Smith,C006,Teamwork and Collaboration,2022-06-05,Completed
+162,Sophia Miller,C025,Leadership and Change,2022-07-15,Completed
+163,Emily Adams,C009,Problem-Solving Techniques,2022-07-08,Completed
+164,Mason Johnson,C026,Leadership Styles and Strategies,2022-06-30,Completed
+165,Grace Hernandez,C010,Ethical Decision Making,2022-07-03,Completed
+166,Lucas Thompson,C002,Effective Communication Skills,2022-06-20,Completed
+167,Olivia Rodriguez,C006,Teamwork and Collaboration,2022-06-08,Completed
+168,Emma Wilson,C001,Introduction to Leadership,2022-05-18,Completed
+169,Noah Wright,C003,Project Management Fundamentals,2022-05-22,Completed
+170,Sophia Turner,C006,Teamwork and Collaboration,2022-06-05,Completed
+171,Liam Anderson,C027,Leadership Development Programs,2022-07-18,Completed
+172,Ava Hernandez,C002,Effective Communication Skills,2022-06-17,Completed
+173,William Moore,C009,Problem-Solving Techniques,2022-07-08,Completed
+174,Olivia Phillips,C001,Introduction to Leadership,2022-05-15,Completed
+175,Noah Clark,C003,Project Management Fundamentals,2022-05-28,Completed
+176,Sophia Hill,C006,Teamwork and Collaboration,2022-06-05,Completed
+177,Lucas Baker,C028,Leadership in a Virtual Environment,2022-07-22,Completed
+178,Emily Gonzalez,C029,Leadership and Motivation,2022-06-20,Completed
+179,Charlotte Adams,C002,Effective Communication Skills,2022-06-17,Completed
+180,James Wilson,C006,Teamwork and Collaboration,2022-06-08,Completed
+181,Sophia Hernandez,C003,Project Management Fundamentals,2022-05-22,Completed
+182,Oliver Wright,C030,Leadership and Organizational Behavior,2022-07-25,Completed
+183,Ava Collins,C031,Leadership Development Frameworks,2022-06-10,Completed
+184,Liam Phillips,C002,Effective Communication Skills,2022-06-17,Completed
+185,Olivia Hill,C006,Teamwork and Collaboration,2022-06-05,Completed
+186,Noah Baker,C009,Problem-Solving Techniques,2022-07-08,Completed
+187,Sophia Gonzalez,C032,Leadership and Emotional Intelligence,2022-07-28,Completed
+188,Lucas Hernandez,C003,Project Management Fundamentals,2022-05-28,Completed
+189,Emma Wilson,C033,Leadership in a Crisis,2022-06-15,Completed
+190,William Turner,C034,Leadership and Decision Making,2022-07-05,Completed
+191,Ava Adams,C001,Introduction to Leadership,2022-05-15,Completed
+192,Liam Clark,C035,Leadership and Team Development,2022-06-30,Completed
+193,Olivia Baker,C010,Ethical Decision Making,2022-07-03,Completed
+194,Noah Thompson,C006,Teamwork and Collaboration,2022-06-08,Completed
+195,Sophia Rodriguez,C002,Effective Communication Skills,2022-06-20,Completed
+196,James Walker,C003,Project Management Fundamentals,2022-05-22,Completed
+197,Emma Hill,C036,Leadership and Performance Management,2022-07-08,Completed
+198,Lucas Adams,C006,Teamwork and Collaboration,2022-06-05,Completed
+199,Ava Turner,C009,Problem-Solving Techniques,2022-07-08,Completed
+200,Oliver Hernandez,C001,Introduction to Leadership,2022-05-18,Completed

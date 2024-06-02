@@ -1,0 +1,101 @@
+RecordID,Name,Age,Gender,Education,Employment,Income,MaritalStatus,City,Satisfaction,Recommendation
+1,John Smith,35,Male,Bachelor's Degree,Employed,50000,Married,New York,7,8
+2,Jane Doe,28,Female,Master's Degree,Employed,60000,Single,Los Angeles,6,7
+3,Michael Johnson,42,Male,High School Diploma,Employed,40000,Married,Chicago,8,9
+4,Sarah Williams,31,Female,Bachelor's Degree,Employed,55000,Single,Miami,5,6
+5,David Brown,39,Male,PhD,Self-Employed,80000,Married,Boston,9,10
+6,Emily Davis,26,Female,Bachelor's Degree,Employed,45000,Single,San Francisco,6,8
+7,James Wilson,45,Male,Master's Degree,Employed,70000,Married,Houston,8,9
+8,Ava Martin,33,Female,High School Diploma,Employed,38000,Married,Dallas,7,7
+9,Robert Thompson,29,Male,Bachelor's Degree,Employed,52000,Single,Seattle,6,7
+10,Olivia Garcia,37,Female,PhD,Employed,85000,Married,Atlanta,9,9
+11,William Anderson,30,Male,Master's Degree,Employed,60000,Married,Philadelphia,7,8
+12,Emma Hernandez,34,Female,High School Diploma,Unemployed,0,Single,San Diego,4,6
+13,Liam Taylor,27,Male,Bachelor's Degree,Employed,48000,Single,Phoenix,6,7
+14,Sophia Wilson,43,Female,Bachelor's Degree,Employed,58000,Married,Denver,7,8
+15,Noah Brown,32,Male,High School Diploma,Employed,42000,Married,Tampa,5,7
+16,Isabella Smith,29,Female,Master's Degree,Employed,65000,Single,Detroit,8,9
+17,Mason Davis,38,Male,PhD,Employed,90000,Married,Minneapolis,9,10
+18,Elizabeth Johnson,25,Female,Bachelor's Degree,Employed,45000,Single,Portland,6,7
+19,Aiden Thompson,31,Male,High School Diploma,Self-Employed,55000,Married,Charlotte,7,8
+20,Emily Wilson,36,Female,Master's Degree,Employed,70000,Married,Orlando,8,9
+21,Sophia Garcia,28,Female,PhD,Employed,75000,Single,Washington,9,9
+22,James Anderson,39,Male,Bachelor's Degree,Employed,55000,Married,Chicago,6,7
+23,Ava Brown,32,Female,High School Diploma,Employed,48000,Married,Boston,7,8
+24,Liam Davis,27,Male,Bachelor's Degree,Employed,52000,Single,Los Angeles,5,7
+25,Sophia Johnson,44,Female,Master's Degree,Employed,65000,Married,San Francisco,8,9
+26,Noah Smith,30,Male,High School Diploma,Employed,42000,Married,Houston,6,7
+27,Emma Hernandez,26,Female,Bachelor's Degree,Employed,48000,Single,Miami,7,8
+28,Oliver Thompson,41,Male,PhD,Employed,80000,Married,Seattle,9,10
+29,Ava Wilson,33,Female,Master's Degree,Employed,60000,Married,Atlanta,8,9
+30,Liam Taylor,29,Male,Bachelor's Degree,Employed,55000,Single,Philadelphia,6,7
+31,Sophia Davis,35,Female,High School Diploma,Unemployed,0,Single,San Diego,5,7
+32,Noah Johnson,27,Male,Bachelor's Degree,Employed,52000,Single,Phoenix,7,8
+33,Olivia Wilson,44,Female,Master's Degree,Employed,70000,Married,Denver,8,9
+34,Mason Thompson,31,Male,High School Diploma,Employed,45000,Married,Dallas,6,7
+35,Emma Martin,37,Female,PhD,Employed,85000,Married,Houston,9,9
+36,Ava Garcia,30,Female,Master's Degree,Employed,62000,Single,Seattle,8,8
+37,Oliver Davis,46,Male,High School Diploma,Employed,48000,Married,Chicago,7,7
+38,Emily Smith,28,Female,Bachelor's Degree,Employed,53000,Single,Boston,6,7
+39,Aiden Hernandez,34,Male,PhD,Employed,78000,Married,Miami,9,9
+40,Sophia Johnson,32,Female,Master's Degree,Employed,67000,Married,San Francisco,8,8
+41,Liam Brown,26,Male,Bachelor's Degree,Employed,50000,Single,Los Angeles,7,8
+42,Emma Davis,43,Female,High School Diploma,Employed,42000,Married,Houston,6,7
+43,Noah Wilson,29,Male,PhD,Employed,75000,Married,Atlanta,8,9
+44,Olivia Garcia,31,Female,Master's Degree,Employed,60000,Single,Philadelphia,7,8
+45,Mason Thompson,38,Male,High School Diploma,Employed,48000,Married,Phoenix,6,7
+46,Ava Davis,27,Female,Bachelor's Degree,Employed,52000,Single,Denver,5,6
+47,Liam Hernandez,45,Male,PhD,Employed,90000,Married,Seattle,9,10
+48,Sophia Johnson,33,Female,Master's Degree,Employed,65000,Married,Portland,8,9
+49,Noah Smith,29,Male,High School Diploma,Employed,45000,Married,Boston,7,8
+50,Emma Thompson,36,Female,PhD,Employed,78000,Single,Los Angeles,9,9
+51,Liam Davis,28,Male,Bachelor's Degree,Employed,53000,Single,Miami,8,8
+52,Sophia Wilson,42,Female,High School Diploma,Employed,40000,Married,Houston,7,7
+53,Oliver Johnson,27,Male,Master's Degree,Employed,62000,Married,Seattle,6,7
+54,Ava Smith,32,Female,Bachelor's Degree,Employed,55000,Single,Atlanta,7,8
+55,Liam Martin,39,Male,PhD,Employed,85000,Married,Philadelphia,8,9
+56,Emma Hernandez,30,Female,Master's Degree,Employed,60000,Married,Chicago,9,9
+57,Noah Davis,34,Male,High School Diploma,Employed,48000,Married,Dallas,6,7
+58,Sophia Johnson,26,Female,Bachelor's Degree,Employed,52000,Single,Los Angeles,7,8
+59,Oliver Wilson,43,Male,PhD,Employed,78000,Married,San Francisco,9,10
+60,Ava Garcia,33,Female,Master's Degree,Employed,67000,Married,Denver,8,9
+61,Liam Thompson,29,Male,High School Diploma,Employed,42000,Single,Phoenix,6,7
+62,Emma Davis,27,Female,Bachelor's Degree,Employed,53000,Single,Portland,6,7
+63,Noah Hernandez,44,Male,PhD,Employed,90000,Married,Miami,9,9
+64,Sophia Smith,32,Female,Master's Degree,Employed,65000,Married,Seattle,8,8
+65,Oliver Wilson,29,Male,High School Diploma,Employed,45000,Married,Boston,7,8
+66,Ava Garcia,36,Female,PhD,Employed,80000,Single,Los Angeles,8,9
+67,Liam Davis,28,Male,Bachelor's Degree,Employed,55000,Single,Miami,7,8
+68,Emma Thompson,42,Female,High School Diploma,Employed,40000,Married,Houston,6,7
+69,Noah Johnson,31,Male,Master's Degree,Employed,62000,Married,Seattle,7,8
+70,Sophia Davis,33,Female,Bachelor's Degree,Employed,57000,Single,Atlanta,6,7
+71,Oliver Wilson,39,Male,PhD,Employed,85000,Married,Philadelphia,9,10
+72,Ava Smith,27,Female,Master's Degree,Employed,60000,Married,Chicago,8,9
+73,Liam Hernandez,31,Male,High School Diploma,Employed,43000,Married,Dallas,7,8
+74,Emma Johnson,26,Female,Bachelor's Degree,Employed,52000,Single,Los Angeles,6,7
+75,Noah Wilson,45,Male,PhD,Employed,79000,Married,San Francisco,9,9
+76,Sophia Davis,33,Female,Master's Degree,Employed,67000,Married,Seattle,8,9
+77,Oliver Thompson,29,Male,High School Diploma,Employed,46000,Married,Boston,6,7
+78,Ava Smith,38,Female,PhD,Employed,83000,Single,Denver,7,8
+79,Liam Garcia,28,Male,Bachelor's Degree,Employed,55000,Single,Houston,7,8
+80,Emma Davis,35,Female,High School Diploma,Employed,40000,Married,Miami,6,7
+81,Noah Wilson,32,Male,Master's Degree,Employed,60000,Married,Los Angeles,8,9
+82,Sophia Thompson,29,Female,Bachelor's Degree,Employed,54000,Single,Chicago,7,8
+83,Oliver Hernandez,44,Male,PhD,Employed,87000,Married,Dallas,9,9
+84,Ava Wilson,31,Female,Master's Degree,Employed,63000,Married,Seattle,8,8
+85,Liam Davis,27,Male,High School Diploma,Employed,47000,Single,Boston,6,7
+86,Emma Johnson,40,Female,Bachelor's Degree,Employed,52000,Married,Los Angeles,6,7
+87,Noah Thompson,30,Male,PhD,Employed,80000,Married,San Francisco,9,10
+88,Sophia Davis,33,Female,Master's Degree,Employed,68000,Married,Portland,8,9
+89,Oliver Wilson,27,Male,High School Diploma,Employed,44000,Married,Denver,7,8
+90,Ava Smith,34,Female,PhD,Employed,78000,Single,Phoenix,7,8
+91,Liam Garcia,29,Male,Bachelor's Degree,Employed,56000,Single,Dallas,6,7
+92,Emma Davis,38,Female,High School Diploma,Employed,42000,Married,Miami,6,7
+93,Noah Wilson,30,Male,Master's Degree,Employed,62000,Married,Seattle,8,9
+94,Sophia Thompson,43,Female,Bachelor's Degree,Employed,55000,Married,Boston,7,8
+95,Oliver Hernandez,31,Male,PhD,Employed,89000,Married,Los Angeles,9,9
+96,Ava Wilson,33,Female,Master's Degree,Employed,64000,Married,San Francisco,8,9
+97,Liam Davis,27,Male,High School Diploma,Employed,46000,Single,Seattle,6,7
+98,Emma Johnson,41,Female,Bachelor's Degree,Employed,53000,Married,Portland,6,7
+99,Noah Thompson,29,Male,PhD,Employed,82000,Married,Denver,9,10
+100,Sophia Davis,32,Female,Master's Degree,Employed,70000,Married,Phoenix,8,9

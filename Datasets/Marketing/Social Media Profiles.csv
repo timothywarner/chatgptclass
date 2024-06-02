@@ -1,0 +1,101 @@
+profile_id,first_name,last_name,company,position,industry,location,education,connections,followers,posts_per_week
+1,John,Doe,ABC Corp,Marketing Manager,Technology,San Francisco,CA,United States,University of California, Berkeley,500,1000,5
+2,Jane,Smith,XYZ Inc,Social Media Specialist,Advertising & Marketing,New York,NY,United States,New York University,300,800,3
+3,Michael,Johnson,123 Company,Digital Marketing Analyst,Consulting,Chicago,IL,United States,University of Chicago,400,1200,4
+4,Sarah,Williams,ABC Corp,Content Writer,Media & Publishing,London,United Kingdom,University of Oxford,200,600,2
+5,David,Brown,XYZ Inc,Brand Manager,Consumer Goods,Miami,FL,United States,University of Miami,600,1500,6
+6,Jessica,Lee,123 Company,Marketing Coordinator,E-commerce,Sydney,Australia,University of Sydney,250,700,3
+7,Christopher,Taylor,ABC Corp,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,450,1100,4
+8,Amy,Anderson,XYZ Inc,Marketing Strategist,Technology,San Francisco,CA,United States,Stanford University,350,900,3
+9,Matthew,Clark,123 Company,Public Relations Specialist,Advertising & Marketing,Boston,MA,United States,Harvard University,400,1000,5
+10,Emily,Hall,ABC Corp,Digital Marketing Manager,Consulting,Chicago,IL,United States,Northwestern University,300,800,3
+11,Andrew,Young,XYZ Inc,Content Creator,Media & Publishing,London,United Kingdom,University College London,200,500,2
+12,Amanda,Martin,123 Company,Marketing Analyst,Consumer Goods,Miami,FL,United States,Florida State University,500,1200,4
+13,Jonathan,Ross,ABC Corp,Brand Ambassador,Beauty & Cosmetics,Paris,France,Université Paris-Saclay,150,400,2
+14,Olivia,Turner,XYZ Inc,Market Researcher,Market Research,Berlin,Germany,Humboldt University of Berlin,300,700,3
+15,Nathan,Roberts,123 Company,SEO Specialist,Technology,San Francisco,CA,United States,San Francisco State University,250,600,2
+16,Lauren,Clark,ABC Corp,Advertising Manager,Advertising & Marketing,New York,NY,United States,Columbia University,400,1000,4
+17,James,White,XYZ Inc,Influencer Marketing Coordinator,Media & Publishing,Los Angeles,CA,United States,University of Southern California,350,900,3
+18,Sophia,Morgan,123 Company,Content Strategist,E-commerce,London,United Kingdom,London School of Economics and Political Science,200,500,2
+19,William,Anderson,ABC Corp,Marketing Coordinator,Fashion & Apparel,Paris,France,ESCP Business School,300,800,3
+20,Grace,Hughes,XYZ Inc,Social Media Analyst,Technology,San Francisco,CA,United States,San Jose State University,400,1000,4
+21,Ethan,Reed,123 Company,Marketing Manager,Consulting,Chicago,IL,United States,University of Illinois at Urbana-Champaign,250,600,2
+22,Abigail,Hall,ABC Corp,Content Writer,Media & Publishing,London,United Kingdom,University of Cambridge,300,700,3
+23,Noah,Morris,XYZ Inc,Brand Manager,Consumer Goods,Miami,FL,United States,University of Florida,350,800,3
+24,Chloe,Cook,123 Company,Marketing Specialist,Advertising & Marketing,Boston,MA,United States,Boston University,400,900,4
+25,Daniel,Evans,ABC Corp,Digital Marketing Analyst,E-commerce,Sydney,Australia,University of New South Wales,200,500,2
+26,Ella,Collins,XYZ Inc,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,300,700,3
+27,Aiden,Murphy,123 Company,Marketing Strategist,Technology,San Francisco,CA,United States,University of California, Berkeley,400,1000,4
+28,Lily,Rogers,ABC Corp,Social Media Specialist,Advertising & Marketing,New York,NY,United States,New York University,250,600,2
+29,Lucas,Cooper,XYZ Inc,Marketing Coordinator,Consulting,Chicago,IL,United States,University of Chicago,300,700,3
+30,Mia,Richardson,123 Company,Content Writer,Media & Publishing,London,United Kingdom,University of Oxford,350,800,3
+31,Alexander,Martin,ABC Corp,Brand Manager,Consumer Goods,Miami,FL,United States,University of Miami,400,900,4
+32,Sofia,Anderson,XYZ Inc,Marketing Strategist,Technology,San Francisco,CA,United States,Stanford University,200,500,2
+33,Logan,Turner,123 Company,Digital Marketing Manager,E-commerce,Sydney,Australia,University of Sydney,300,700,3
+34,Ava,Taylor,ABC Corp,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,400,800,3
+35,Liam,Harris,XYZ Inc,Content Creator,Media & Publishing,London,United Kingdom,University College London,250,600,2
+36,Charlotte,Young,123 Company,Marketing Analyst,Consumer Goods,Miami,FL,United States,Florida State University,300,700,3
+37,Mason,Ross,ABC Corp,Brand Ambassador,Beauty & Cosmetics,Paris,France,Université Paris-Saclay,350,800,3
+38,Amelia,Turner,XYZ Inc,Market Researcher,Market Research,Berlin,Germany,Humboldt University of Berlin,400,900,4
+39,Henry,Roberts,123 Company,SEO Specialist,Technology,San Francisco,CA,United States,San Francisco State University,200,500,2
+40,Elizabeth,Clark,ABC Corp,Advertising Manager,Advertising & Marketing,New York,NY,United States,Columbia University,300,700,3
+41,Alexander,Smith,XYZ Inc,Influencer Marketing Coordinator,Media & Publishing,Los Angeles,CA,United States,University of Southern California,350,800,3
+42,Victoria,Morgan,123 Company,Content Strategist,E-commerce,London,United Kingdom,London School of Economics and Political Science,400,900,4
+43,William,Anderson,ABC Corp,Marketing Coordinator,Fashion & Apparel,Paris,France,ESCP Business School,250,600,2
+44,Emily,Hughes,XYZ Inc,Social Media Analyst,Technology,San Francisco,CA,United States,San Jose State University,300,700,3
+45,James,Reed,123 Company,Marketing Manager,Consulting,Chicago,IL,United States,University of Illinois at Urbana-Champaign,400,800,3
+46,Sophia,Hall,ABC Corp,Content Writer,Media & Publishing,London,United Kingdom,University of Cambridge,200,500,2
+47,Benjamin,Morris,XYZ Inc,Brand Manager,Consumer Goods,Miami,FL,United States,University of Florida,300,700,3
+48,Mia,Cook,123 Company,Marketing Specialist,Advertising & Marketing,Boston,MA,United States,Boston University,350,800,3
+49,Ethan,Evans,ABC Corp,Digital Marketing Analyst,E-commerce,Sydney,Australia,University of New South Wales,400,900,4
+50,Olivia,Collins,XYZ Inc,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,250,600,2
+51,Liam,Murphy,123 Company,Marketing Strategist,Technology,San Francisco,CA,United States,University of California, Berkeley,300,700,3
+52,Isabella,Rogers,ABC Corp,Social Media Specialist,Advertising & Marketing,New York,NY,United States,New York University,400,800,3
+53,Aiden,Cooper,XYZ Inc,Marketing Coordinator,Consulting,Chicago,IL,United States,University of Chicago,250,600,2
+54,Sophia,Richardson,123 Company,Content Writer,Media & Publishing,London,United Kingdom,University of Oxford,300,700,3
+55,Jacob,Martin,ABC Corp,Brand Manager,Consumer Goods,Miami,FL,United States,University of Miami,400,900,4
+56,Olivia,Anderson,XYZ Inc,Marketing Strategist,Technology,San Francisco,CA,United States,Stanford University,200,500,2
+57,Ethan,Turner,123 Company,Digital Marketing Manager,E-commerce,Sydney,Australia,University of Sydney,300,700,3
+58,Ava,Taylor,ABC Corp,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,400,800,3
+59,Logan,Harris,XYZ Inc,Content Creator,Media & Publishing,London,United Kingdom,University College London,250,600,2
+60,Isabella,Young,123 Company,Marketing Analyst,Consumer Goods,Miami,FL,United States,Florida State University,300,700,3
+61,Noah,Ross,ABC Corp,Brand Ambassador,Beauty & Cosmetics,Paris,France,Université Paris-Saclay,350,800,3
+62,Sophia,Turner,XYZ Inc,Market Researcher,Market Research,Berlin,Germany,Humboldt University of Berlin,400,900,4
+63,Liam,Roberts,123 Company,SEO Specialist,Technology,San Francisco,CA,United States,San Francisco State University,200,500,2
+64,Charlotte,Clark,ABC Corp,Advertising Manager,Advertising & Marketing,New York,NY,United States,Columbia University,300,700,3
+65,Ethan,Smith,XYZ Inc,Influencer Marketing Coordinator,Media & Publishing,Los Angeles,CA,United States,University of Southern California,350,800,3
+66,Olivia,Morgan,123 Company,Content Strategist,E-commerce,London,United Kingdom,London School of Economics and Political Science,400,900,4
+67,William,Anderson,ABC Corp,Marketing Coordinator,Fashion & Apparel,Paris,France,ESCP Business School,250,600,2
+68,Emily,Hughes,XYZ Inc,Social Media Analyst,Technology,San Francisco,CA,United States,San Jose State University,300,700,3
+69,James,Reed,123 Company,Marketing Manager,Consulting,Chicago,IL,United States,University of Illinois at Urbana-Champaign,400,800,3
+70,Sophia,Hall,ABC Corp,Content Writer,Media & Publishing,London,United Kingdom,University of Cambridge,200,500,2
+71,Benjamin,Morris,XYZ Inc,Brand Manager,Consumer Goods,Miami,FL,United States,University of Florida,300,700,3
+72,Mia,Cook,123 Company,Marketing Specialist,Advertising & Marketing,Boston,MA,United States,Boston University,350,800,3
+73,Ethan,Evans,ABC Corp,Digital Marketing Analyst,E-commerce,Sydney,Australia,University of New South Wales,400,900,4
+74,Olivia,Collins,XYZ Inc,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,250,600,2
+75,Liam,Murphy,123 Company,Marketing Strategist,Technology,San Francisco,CA,United States,University of California, Berkeley,300,700,3
+76,Isabella,Rogers,ABC Corp,Social Media Specialist,Advertising & Marketing,New York,NY,United States,New York University,400,800,3
+77,Aiden,Cooper,XYZ Inc,Marketing Coordinator,Consulting,Chicago,IL,United States,University of Chicago,250,600,2
+78,Sophia,Richardson,123 Company,Content Writer,Media & Publishing,London,United Kingdom,University of Oxford,300,700,3
+79,Jacob,Martin,ABC Corp,Brand Manager,Consumer Goods,Miami,FL,United States,University of Miami,400,900,4
+80,Olivia,Anderson,XYZ Inc,Marketing Strategist,Technology,San Francisco,CA,United States,Stanford University,200,500,2
+81,Ethan,Turner,123 Company,Digital Marketing Manager,E-commerce,Sydney,Australia,University of Sydney,300,700,3
+82,Ava,Taylor,ABC Corp,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,400,800,3
+83,Logan,Harris,XYZ Inc,Content Creator,Media & Publishing,London,United Kingdom,University College London,250,600,2
+84,Isabella,Young,123 Company,Marketing Analyst,Consumer Goods,Miami,FL,United States,Florida State University,300,700,3
+85,Noah,Ross,ABC Corp,Brand Ambassador,Beauty & Cosmetics,Paris,France,Université Paris-Saclay,350,800,3
+86,Sophia,Turner,XYZ Inc,Market Researcher,Market Research,Berlin,Germany,Humboldt University of Berlin,400,900,4
+87,Liam,Roberts,123 Company,SEO Specialist,Technology,San Francisco,CA,United States,San Francisco State University,200,500,2
+88,Charlotte,Clark,ABC Corp,Advertising Manager,Advertising & Marketing,New York,NY,United States,Columbia University,300,700,3
+89,Ethan,Smith,XYZ Inc,Influencer, Marketing Coordinator,Media & Publishing,Los Angeles,CA,United States,University of Southern California,350,800,3
+90,Olivia,Morgan,123 Company,Content Strategist,E-commerce,London,United Kingdom,London School of Economics and Political Science,400,900,4
+91,William,Anderson,ABC Corp,Marketing Coordinator,Fashion & Apparel,Paris,France,ESCP Business School,250,600,2
+92,Emily,Hughes,XYZ Inc,Social Media Analyst,Technology,San Francisco,CA,United States,San Jose State University,300,700,3
+93,James,Reed,123 Company,Marketing Manager,Consulting,Chicago,IL,United States,University of Illinois at Urbana-Champaign,400,800,3
+94,Sophia,Hall,ABC Corp,Content Writer,Media & Publishing,London,United Kingdom,University of Cambridge,200,500,2
+95,Benjamin,Morris,XYZ Inc,Brand Manager,Consumer Goods,Miami,FL,United States,University of Florida,300,700,3
+96,Mia,Cook,123 Company,Marketing Specialist,Advertising & Marketing,Boston,MA,United States,Boston University,350,800,3
+97,Ethan,Evans,ABC Corp,Digital Marketing Analyst,E-commerce,Sydney,Australia,University of New South Wales,400,900,4
+98,Olivia,Collins,XYZ Inc,Social Media Manager,Fashion & Apparel,Los Angeles,CA,United States,University of California, Los Angeles,250,600,2
+99,Liam,Murphy,123 Company,Marketing Strategist,Technology,San Francisco,CA,United States,University of California, Berkeley,300,700,3
+100,Isabella,Rogers,ABC Corp,Social Media Specialist,Advertising & Marketing,New York,NY,United States,New York University,400,800,3

@@ -1,0 +1,101 @@
+claim_id,insured_name,claim_amount,claim_date,claim_type,investigation_status
+1,John Smith,2500,2022-01-05,Auto Insurance,Under Investigation
+2,Sarah Johnson,5000,2022-02-10,Health Insurance,Approved
+3,Michael Davis,10000,2022-03-15,Home Insurance,Rejected
+4,Emily Wilson,15000,2022-04-20,Auto Insurance,Approved
+5,Robert Anderson,8000,2022-05-25,Life Insurance,Under Investigation
+6,Olivia Thompson,3000,2022-06-30,Health Insurance,Rejected
+7,David Martinez,12000,2022-07-05,Auto Insurance,Approved
+8,Sophia Lee,2000,2022-08-10,Home Insurance,Rejected
+9,James Rodriguez,10000,2022-09-15,Auto Insurance,Under Investigation
+10,Emma Taylor,5000,2022-10-20,Life Insurance,Approved
+11,William Hernandez,4000,2022-11-25,Auto Insurance,Approved
+12,Isabella Moore,8000,2022-12-30,Health Insurance,Rejected
+13,Aiden Brown,15000,2023-01-05,Auto Insurance,Under Investigation
+14,Mia Clark,1000,2023-02-10,Home Insurance,Rejected
+15,Liam Lewis,6000,2023-03-15,Auto Insurance,Approved
+16,Sofia Green,2000,2023-04-20,Life Insurance,Approved
+17,Noah Baker,9000,2023-05-25,Auto Insurance,Under Investigation
+18,Ava Gonzalez,4000,2023-06-30,Health Insurance,Rejected
+19,Lucas Martinez,7000,2023-07-05,Auto Insurance,Approved
+20,Charlotte Hill,25000,2023-08-10,Home Insurance,Rejected
+21,Harper Collins,12000,2023-09-15,Auto Insurance,Under Investigation
+22,Emma Adams,3000,2023-10-20,Life Insurance,Approved
+23,Liam Turner,5000,2023-11-25,Auto Insurance,Approved
+24,Olivia Harris,10000,2023-12-30,Health Insurance,Rejected
+25,Noah Butler,2000,2024-01-05,Auto Insurance,Under Investigation
+26,Ava Carter,4000,2024-02-10,Home Insurance,Rejected
+27,Lucas Moore,8000,2024-03-15,Auto Insurance,Approved
+28,Emily Rivera,1500,2024-04-20,Life Insurance,Approved
+29,Aiden Scott,6000,2024-05-25,Auto Insurance,Under Investigation
+30,Sophia Adams,2000,2024-06-30,Health Insurance,Rejected
+31,Liam Phillips,10000,2024-07-05,Auto Insurance,Approved
+32,Olivia Wilson,2500,2024-08-10,Home Insurance,Rejected
+33,Noah Turner,12000,2024-09-15,Auto Insurance,Under Investigation
+34,Ava Hernandez,4000,2024-10-20,Life Insurance,Approved
+35,Lucas Lewis,7000,2024-11-25,Auto Insurance,Approved
+36,Emily Baker,25000,2024-12-30,Health Insurance,Rejected
+37,William Thompson,9000,2025-01-05,Auto Insurance,Under Investigation
+38,Sophia Martinez,1000,2025-02-10,Home Insurance,Rejected
+39,Liam Clark,6000,2025-03-15,Auto Insurance,Approved
+40,Olivia Green,2000,2025-04-20,Life Insurance,Approved
+41,Noah Brown,8000,2025-05-25,Auto Insurance,Under Investigation
+42,Ava Collins,3000,2025-06-30,Health Insurance,Rejected
+43,Lucas Wilson,5000,2025-07-05,Auto Insurance,Approved
+44,Emily Hill,10000,2025-08-10,Home Insurance,Rejected
+45,William Thompson,2000,2025-09-15,Auto Insurance,Under Investigation
+46,Sophia Hernandez,4000,2025-10-20,Life Insurance,Approved
+47,Liam Adams,12000,2025-11-25,Auto Insurance,Approved
+48,Olivia Lewis,1500,2025-12-30,Health Insurance,Rejected
+49,Noah Baker,6000,2026-01-05,Auto Insurance,Under Investigation
+50,Ava Gonzalez,1000,2026-02-10,Home Insurance,Rejected
+51,Lucas Martinez,8000,2026-03-15,Auto Insurance,Approved
+52,Emily Moore,2000,2026-04-20,Life Insurance,Approved
+53,William Garcia,9000,2026-05-25,Auto Insurance,Under Investigation
+54,Sophia Clark,4000,2026-06-30,Health Insurance,Rejected
+55,Liam Wilson,7000,2026-07-05,Auto Insurance,Approved
+56,Olivia Rivera,25000,2026-08-10,Home Insurance,Rejected
+57,Noah Butler,12000,2026-09-15,Auto Insurance,Under Investigation
+58,Ava Carter,3000,2026-10-20,Life Insurance,Approved
+59,Lucas Turner,5000,2026-11-25,Auto Insurance,Approved
+60,Emily Thompson,10000,2026-12-30,Health Insurance,Rejected
+61,William Hernandez,2000,2027-01-05,Auto Insurance,Under Investigation
+62,Sophia Harris,4000,2027-02-10,Home Insurance,Rejected
+63,Liam Walker,8000,2027-03-15,Auto Insurance,Approved
+64,Olivia Richardson,1500,2027-04-20,Life Insurance,Approved
+65,Noah Evans,6000,2027-05-25,Auto Insurance,Under Investigation
+66,Ava Stewart,1000,2027-06-30,Health Insurance,Rejected
+67,Lucas Bell,9000,2027-07-05,Auto Insurance,Approved
+68,Emily Watson,2000,2027-08-10,Home Insurance,Rejected
+69,William Phillips,4000,2027-09-15,Auto Insurance,Under Investigation
+70,Sophia Anderson,12000,2027-10-20,Life Insurance,Approved
+71,Liam Moore,3000,2027-11-25,Auto Insurance,Approved
+72,Olivia Hill,5000,2027-12-30,Health Insurance,Rejected
+73,Noah Thompson,10000,2028-01-05,Auto Insurance,Under Investigation
+74,Ava Rodriguez,2000,2028-02-10,Home Insurance,Rejected
+75,Lucas Adams,8000,2028-03-15,Auto Insurance,Approved
+76,Emily Turner,1500,2028-04-20,Life Insurance,Approved
+77,William Wilson,6000,2028-05-25,Auto Insurance,Under Investigation
+78,Sophia Baker,1000,2028-06-30,Health Insurance,Rejected
+79,Liam Gonzalez,7000,2028-07-05,Auto Insurance,Approved
+80,Olivia Martinez,25000,2028-08-10,Home Insurance,Rejected
+81,Noah Clark,12000,2028-09-15,Auto Insurance,Under Investigation
+82,Ava Lewis,3000,2028-10-20,Life Insurance,Approved
+83,Lucas Green,5000,2028-11-25,Auto Insurance,Approved
+84,Emily Brown,10000,2028-12-30,Health Insurance,Rejected
+85,William Collins,2000,2029-01-05,Auto Insurance,Under Investigation
+86,Sophia Johnson,4000,2029-02-10,Home Insurance,Rejected
+87,Liam Davis,8000,2029-03-15,Auto Insurance,Approved
+88,Olivia Wilson,1500,2029-04-20,Life Insurance,Approved
+89,Noah Thompson,6000,2029-05-25,Auto Insurance,Under Investigation
+90,Ava Turner,1000,2029-06-30,Health Insurance,Rejected
+91,Lucas Hernandez,9000,2029-07-05,Auto Insurance,Approved
+92,Emily Adams,2000,2029-08-10,Home Insurance,Rejected
+93,William Moore,4000,2029-09-15,Auto Insurance,Under Investigation
+94,Sophia Hill,12000,2029-10-20,Life Insurance,Approved
+95,Liam Phillips,3000,2029-11-25,Auto Insurance,Approved
+96,Olivia Wilson,5000,2029-12-30,Health Insurance,Rejected
+97,Noah Baker,10000,2030-01-05,Auto Insurance,Under Investigation
+98,Ava Gonzalez,2000,2030-02-10,Home Insurance,Rejected
+99,Lucas Martinez,8000,2030-03-15,Auto Insurance,Approved
+100,Emily Moore,1500,2030-04-20,Life Insurance,Approved

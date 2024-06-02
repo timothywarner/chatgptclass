@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.azdo.choose-an-agile-approach.5-summary
+title: Summary
+metadata:
+  title: Summary
+  description: Learn how to continue your journey by configuring build pipelines that continuously build, test, and verify your applications.
+  ms.date: 10/11/2023
+  ms.custom: devdivchpfy22
+  author: chcomley
+  ms.author: chcomley
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/5-summary.md)]

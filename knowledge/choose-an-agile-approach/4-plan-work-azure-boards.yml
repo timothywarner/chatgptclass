@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.azdo.choose-an-agile-approach.4-plan-work-azure-boards
+title: Exercise - Plan work using Azure Boards
+metadata:
+  title: Exercise - Plan work using Azure Boards
+  description: Create a project, a team, and a board in Azure DevOps.
+  ms.date: 10/11/2023
+  ms.custom: devdivchpfy22
+  author: chcomley
+  ms.author: chcomley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/4-plan-work-azure-boards.md)]

@@ -1,0 +1,51 @@
+employee_id,employee_name,gender,age,department,job_title,satisfaction_score,work_life_balance_score,career_growth_score,communication_score,teamwork_score
+101,John Smith,Male,32,Finance,Accountant,4,3,3,4,4
+102,Sarah Johnson,Female,28,Marketing,Marketing Specialist,5,4,3,5,4
+103,Michael Davis,Male,35,Sales,Sales Representative,4,2,3,4,3
+104,Emily Wilson,Female,29,Technology,Software Engineer,5,3,4,5,5
+105,Robert Anderson,Male,37,Human Resources,HR Manager,3,2,2,3,3
+106,Olivia Thompson,Female,31,Operations,Operations Supervisor,4,4,3,4,4
+107,David Martinez,Male,26,Customer Service,Customer Service Representative,5,4,4,5,5
+108,Sophia Lee,Female,33,Product Management,Product Manager,3,3,4,4,3
+109,James Rodriguez,Male,30,IT,IT Specialist,4,3,4,4,4
+110,Emma Taylor,Female,27,Administration,Administrative Assistant,5,4,3,5,5
+111,William Hernandez,Male,34,Finance,Accountant,4,3,3,4,4
+112,Isabella Moore,Female,29,Marketing,Marketing Specialist,5,4,3,5,4
+113,Aiden Brown,Male,36,Sales,Sales Representative,4,2,3,4,3
+114,Mia Clark,Female,30,Technology,Software Engineer,5,3,4,5,5
+115,Liam Lewis,Male,38,Human Resources,HR Manager,3,2,2,3,3
+116,Sofia Green,Female,32,Operations,Operations Supervisor,4,4,3,4,4
+117,Noah Baker,Male,27,Customer Service,Customer Service Representative,5,4,4,5,5
+118,Ava Gonzalez,Female,34,Product Management,Product Manager,3,3,4,4,3
+119,Lucas Martinez,Male,31,IT,IT Specialist,4,3,4,4,4
+120,Charlotte Hill,Female,28,Administration,Administrative Assistant,5,4,3,5,5
+121,Harper Collins,Female,33,Finance,Accountant,4,3,3,4,4
+122,Emma Adams,Female,30,Marketing,Marketing Specialist,5,4,3,5,4
+123,Liam Turner,Male,37,Sales,Sales Representative,4,2,3,4,3
+124,Olivia Harris,Female,31,Technology,Software Engineer,5,3,4,5,5
+125,Noah Butler,Male,39,Human Resources,HR Manager,3,2,2,3,3
+126,Sophia Bell,Female,33,Operations,Operations Supervisor,4,4,3,4,4
+127,Lucas Carter,Male,28,Customer Service,Customer Service Representative,5,4,4,5,5
+128,Ava Anderson,Female,35,Product Management,Product Manager,3,3,4,4,3
+129,James Walker,Male,32,IT,IT Specialist,4,3,4,4,4
+130,Olivia Richardson,Female,29,Administration,Administrative Assistant,5,4,3,5,5
+131,Benjamin Wright,Male,34,Finance,Accountant,4,3,3,4,4
+132,Sophia Rodriguez,Female,31,Marketing,Marketing Specialist,5,4,3,5,4
+133,Lucas Turner,Male,38,Sales,Sales Representative,4,2,3,4,3
+134,Emma Davis,Female,32,Technology,Software Engineer,5,3,4,5,5
+135,Noah Hernandez,Male,40,Human Resources,HR Manager,3,2,2,3,3
+136,Ava Wilson,Female,34,Operations,Operations Supervisor,4,4,3,4,4
+137,Liam Adams,Male,29,Customer Service,Customer Service Representative,5,4,4,5,5
+138,Emily Moore,Female,36,Product Management,Product Manager,3,3,4,4,3
+139,William Phillips,Male,33,IT,IT Specialist,4,3,4,4,4
+140,Sophia Anderson,Female,30,Administration,Administrative Assistant,5,4,3,5,5
+141,Charlotte Thompson,Female,35,Finance,Accountant,4,3,3,4,4
+142,Aiden Harris,Male,32,Marketing,Marketing Specialist,5,4,3,5,4
+143,Liam Turner,Male,39,Sales,Sales Representative,4,2,3,4,3
+144,Olivia Adams,Female,33,Technology,Software Engineer,5,3,4,5,5
+145,Noah Richardson,Male,41,Human Resources,HR Manager,3,2,2,3,3
+146,Sophia Walker,Female,35,Operations,Operations Supervisor,4,4,3,4,4
+147,Lucas Clark,Male,30,Customer Service,Customer Service Representative,5,4,4,5,5
+148,Emily Hill,Female,37,Product Management,Product Manager,3,3,4,4,3
+149,William Baker,Male,34,IT,IT Specialist,4,3,4,4,4
+150,Ava Gonzalez,Female,31,Administration,Administrative Assistant,5,4,3,5,5

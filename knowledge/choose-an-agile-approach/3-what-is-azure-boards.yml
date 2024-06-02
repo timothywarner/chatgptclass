@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn.azdo.choose-an-agile-approach.3-what-is-azure-boards
+title: What is Azure Boards?
+metadata:
+  title: What is Azure Boards?
+  description: Discover how Azure Boards can help you plan the work that needs to be done, and learn about the four processes you can choose from.
+  ms.date: 10/11/2023
+  ms.custom: devdivchpfy22
+  author: chcomley
+  ms.author: chcomley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/3-what-is-azure-boards.md)]
+quiz:
+  title: Check your knowledge
+  questions:
+  - content: "The _Agile Manifesto_ states:"
+    choices:
+    - content: "Processes and tools come before the individuals that use them."
+      isCorrect: false
+      explanation: "In fact, the opposite is true. The Agile Manifesto states that individuals and their interactions are more valuable than any process or tool."
+    - content: "You need to fully document new features before you build them."
+      isCorrect: false
+      explanation: "Although documentation is an important part of the software development process, having working software is what comes first."
+    - content: "Responding to change comes before following a plan."
+      isCorrect: true
+      explanation: "An agile mindset helps you respond to changing market conditions and customer needs, instead of simply following a rigid plan."
+  - content: "Azure Boards is:"
+    choices:
+    - content: "A way for your customers to provide feedback."
+      isCorrect: false
+      explanation: "Although you can connect Azure Boards to your user feedback mechanism, it's a way for you and your team to plan and track work."
+    - content: "A graphical way to plan and track your work."
+      isCorrect: true
+      explanation: "Azure Boards supports four popular planning types &mdash; CMMI, Agile, Scrum, and Basic."
+    - content: "A way to list all of your projects."
+      isCorrect: false
+      explanation: "Your Azure DevOps organization can have multiple projects. You can set up Azure Boards to plan and track work for each one of them."
+  - content: "A _sprint_ is:"
+    choices:
+    - content: "A fixed amount of time a team has to complete a set of tasks."
+      isCorrect: true
+      explanation: "When you plan your sprints, think about what's most important and what you can realistically accomplish during that time."
+    - content: "Another name for a task board."
+      isCorrect: false
+      explanation: "The board holds the tasks you need to do or are currently working on. A sprint provides a time frame for a set amount of work."
+    - content: "Time your team sets aside to work on bugs."
+      isCorrect: false
+      explanation: "Although you can address bugs during your sprint, a sprint can include almost any sort of work."

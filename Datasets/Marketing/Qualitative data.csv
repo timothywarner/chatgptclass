@@ -1,0 +1,101 @@
+ID,Social Media Activity,Questionnaire Completions,Product Feedback,Notes From Previous Conversations
+1,Active,Completed,Positive,Interested in new features
+2,Inactive,Not Completed,Neutral,Asked about pricing options
+3,Active,Completed,Negative,Expressed concerns about usability
+4,Active,Completed,Positive,Recommended product to friends
+5,Inactive,Not Completed,Positive,Asked for additional product information
+6,Active,Not Completed,Neutral,Requested a demo
+7,Inactive,Completed,Positive,Shared product on social media
+8,Active,Completed,Positive,Interested in upcoming promotions
+9,Inactive,Not Completed,Neutral,Requested a trial version
+10,Active,Not Completed,Negative,Experienced technical issues
+11,Active,Completed,Positive,Provided detailed feedback on user interface
+12,Inactive,Not Completed,Positive,Expressed interest in advanced features
+13,Active,Completed,Negative,Asked for refund due to dissatisfaction
+14,Inactive,Not Completed,Neutral,Inquired about competitor analysis
+15,Active,Not Completed,Positive,Interested in customization options
+16,Active,Completed,Positive,Shared positive experience on social media
+17,Inactive,Not Completed,Positive,Asked for customer testimonials
+18,Active,Completed,Negative,Reported a bug in the software
+19,Inactive,Not Completed,Neutral,Requested a feature enhancement
+20,Active,Not Completed,Positive,Asked for a discount for bulk purchase
+21,Active,Completed,Positive,Provided suggestions for product improvement
+22,Inactive,Not Completed,Neutral,Inquired about customer support options
+23,Active,Completed,Negative,Shared negative experience on social media
+24,Inactive,Not Completed,Positive,Asked for product roadmap
+25,Active,Not Completed,Positive,Requested case studies
+26,Active,Completed,Positive,Expressed satisfaction with customer service
+27,Inactive,Not Completed,Neutral,Inquired about integration with other software
+28,Active,Completed,Negative,Reported a performance issue
+29,Inactive,Not Completed,Neutral,Requested a comparison with competitor product
+30,Active,Not Completed,Positive,Asked for user training materials
+31,Active,Completed,Positive,Provided testimonials for marketing purposes
+32,Inactive,Not Completed,Positive,Inquired about partnership opportunities
+33,Active,Completed,Negative,Asked for a feature that is not currently available
+34,Inactive,Not Completed,Neutral,Requested a demo for a specific use case
+35,Active,Not Completed,Positive,Interested in case studies from similar industries
+36,Active,Completed,Positive,Shared positive feedback from colleagues
+37,Inactive,Not Completed,Positive,Inquired about customer loyalty program
+38,Active,Completed,Negative,Reported a compatibility issue with other software
+39,Inactive,Not Completed,Neutral,Asked for pricing negotiation options
+40,Active,Not Completed,Positive,Requested a whitepaper on industry trends
+41,Active,Completed,Positive,Provided suggestions for marketing campaigns
+42,Inactive,Not Completed,Neutral,Inquired about data security measures
+43,Active,Completed,Negative,Shared negative feedback from a friend
+44,Inactive,Not Completed,Positive,Asked for a customized solution
+45,Active,Not Completed,Positive,Interested in attending product webinars
+46,Active,Completed,Positive,Provided testimonials for case studies
+47,Inactive,Not Completed,Positive,Inquired about reseller opportunities
+48,Active,Completed,Negative,Reported a user experience issue
+49,Inactive,Not Completed,Neutral,Requested a customer reference
+50,Active,Not Completed,Positive,Asked for success stories in a specific region
+51,Active,Completed,Positive,Shared positive experience on review sites
+52,Inactive,Not Completed,Positive,Inquired about affiliate program
+53,Active,Completed,Negative,Reported a data import error
+54,Inactive,Not Completed,Neutral,Asked for a product demo video
+55,Active,Not Completed,Positive,Interested in joining a user community
+56,Active,Completed,Positive,Provided feedback on product packaging
+57,Inactive,Not Completed,Neutral,Inquired about implementation timeline
+58,Active,Completed,Negative,Shared negative experience on feedback forums
+59,Inactive,Not Completed,Positive,Asked for documentation on API integration
+60,Active,Not Completed,Positive,Requested a sample of the product
+61,Active,Completed,Positive,Provided suggestions for user onboarding
+62,Inactive,Not Completed,Neutral,Inquired about pricing tiers
+63,Active,Completed,Negative,Reported a billing discrepancy
+64,Inactive,Not Completed,Positive,Asked for a feature comparison chart
+65,Active,Not Completed,Positive,Interested in attending product training sessions
+66,Active,Completed,Positive,Shared positive experience with industry influencers
+67,Inactive,Not Completed,Positive,Inquired about product customization options
+68,Active,Completed,Negative,Reported a security vulnerability
+69,Inactive,Not Completed,Neutral,Requested a demo for a specific department
+70,Active,Not Completed,Positive,Asked for a trial extension
+71,Active,Completed,Positive,Provided testimonials for customer success stories
+72,Inactive,Not Completed,Neutral,Inquired about data export capabilities
+73,Active,Completed,Negative,Shared negative feedback on social media
+74,Inactive,Not Completed,Positive,Asked for a case study in a specific industry
+75,Active,Not Completed,Positive,Interested in attending product workshops
+76,Active,Completed,Positive,Provided feedback on product usability
+77,Inactive,Not Completed,Neutral,Inquired about integration with CRM systems
+78,Active,Completed,Positive,Recommended the product to business partners
+79,Inactive,Not Completed,Positive,Asked for an ROI calculator
+80,Active,Not Completed,Positive,Requested a feature roadmap
+81,Active,Completed,Positive,Provided suggestions for product documentation
+82,Inactive,Not Completed,Neutral,Inquired about customer training options
+83,Active,Completed,Negative,Shared negative experience with a competitor
+84,Inactive,Not Completed,Positive,Asked for a product trial for a specific use case
+85,Active,Not Completed,Positive,Interested in participating in a beta program
+86,Active,Completed,Positive,Shared positive feedback with customer support
+87,Inactive,Not Completed,Neutral,Inquired about product scalability
+88,Active,Completed,Negative,Reported a user interface issue
+89,Inactive,Not Completed,Neutral,Requested a custom quote
+90,Active,Not Completed,Positive,Asked for customer testimonials from a specific region
+91,Active,Completed,Positive,Provided feedback on product performance
+92,Inactive,Not Completed,Neutral,Inquired about data privacy measures
+93,Active,Completed,Negative,Shared negative experience with a friend
+94,Inactive,Not Completed,Positive,Asked for integration options with third-party tools
+95,Active,Not Completed,Positive,Interested in attending industry events
+96,Active,Completed,Positive,Provided testimonials for marketing collateral
+97,Inactive,Not Completed,Positive,Inquired about referral program
+98,Active,Completed,Negative,Reported a functionality bug
+99,Inactive,Not Completed,Neutral,Requested a live demo with a sales representative
+100,Active,Not Completed,Positive,Asked for customer case studies

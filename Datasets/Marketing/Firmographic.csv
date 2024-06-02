@@ -1,0 +1,213 @@
+Company Name,Company Location,Industry,Number of Employees,Company Revenue
+Acme Corporation,New York,Technology,250,10000000
+Global Solutions,Los Angeles,Consulting,500,20000000
+Innovative Enterprises,Chicago,Manufacturing,1000,50000000
+Alpha Industries,San Francisco,Technology,150,7500000
+Dynamic Systems,Dallas,Engineering,300,15000000
+Precision Solutions,Miami,Consulting,200,10000000
+Silverline Corporation,Boston,Technology,400,20000000
+Prime Manufacturing,Seattle,Manufacturing,800,40000000
+Strategic Consultants,Houston,Consulting,100,5000000
+Optimal Solutions,Atlanta,Technology,350,15000000
+ProTech Corporation,Denver,Engineering,150,7500000
+NexGen Innovations,Austin,Technology,200,10000000
+Alpha Omega Solutions,San Diego,Consulting,450,22500000
+Excel Manufacturing,Detroit,Manufacturing,900,45000000
+Peak Performance,Philadelphia,Consulting,100,5000000
+Swift Industries,Phoenix,Manufacturing,600,30000000
+GlobalTech Solutions,New York,Technology,250,10000000
+Vertex Enterprises,Los Angeles,Consulting,500,20000000
+Pinnacle Manufacturing,Chicago,Manufacturing,1000,50000000
+Advanced Systems,San Francisco,Technology,150,7500000
+Innovative Solutions,Dallas,Engineering,300,15000000
+Paragon Consulting,Miami,Consulting,200,10000000
+SilverTech Corporation,Boston,Technology,400,20000000
+Alpha Manufacturing,Seattle,Manufacturing,800,40000000
+Strategic Solutions,Houston,Consulting,100,5000000
+Optimum Systems,Atlanta,Technology,350,15000000
+TechPro Corporation,Denver,Engineering,150,7500000
+Innovate IT,Austin,Technology,200,10000000
+Alpha Beta Solutions,San Diego,Consulting,450,22500000
+Excel Tech,Detroit,Manufacturing,900,45000000
+Peak Solutions,Philadelphia,Consulting,100,5000000
+Swift Manufacturing,Phoenix,Manufacturing,600,30000000
+Global Solutions 2.0,New York,Technology,250,10000000
+Vertex Technologies,Los Angeles,Consulting,500,20000000
+Pinnacle Innovations,Chicago,Manufacturing,1000,50000000
+Advanced Enterprises,San Francisco,Technology,150,7500000
+Innovative Systems,Dallas,Engineering,300,15000000
+Paragon Solutions,Miami,Consulting,200,10000000
+SilverCorp,Boston,Technology,400,20000000
+AlphaTech,Seattle,Manufacturing,800,40000000
+Strategic Technologies,Houston,Consulting,100,5000000
+Optima Solutions,Atlanta,Technology,350,15000000
+TechCorp,Denver,Engineering,150,7500000
+Innovation Inc.,Austin,Technology,200,10000000
+Alpha Gamma Consulting,San Diego,Consulting,450,22500000
+Excel Solutions,Detroit,Manufacturing,900,45000000
+Peak Manufacturing,Philadelphia,Consulting,100,5000000
+Swift Solutions,Phoenix,Manufacturing,600,30000000
+Global Solutions 3.0,New York,Technology,250,10000000
+Vertex Corp.,Los Angeles,Consulting,500,20000000
+Pinnacle Enterprises,Chicago,Manufacturing,1000,50000000
+Advanced Innovations,San Francisco,Technology,150,7500000
+Innovative Technologies,Dallas,Engineering,300,15000000
+Paragon Innovations,Miami,Consulting,200,10000000
+SilverTech Solutions,Boston,Technology,400,20000000
+Alpha Manufacturing 2.0,Seattle,Manufacturing,800,40000000
+Strategic Solutions 2.0,Houston,Consulting,100,5000000
+Optimal Systems 2.0,Atlanta,Technology,350,15000000
+Tech Solutions 2.0,Denver,Engineering,150,7500000
+Innovative IT 2.0,Austin,Technology,200,10000000
+Alpha Beta Consulting 2.0,San Diego,Consulting,450,22500000
+Excel Tech 2.0,Detroit,Manufacturing,900,45000000
+Peak Solutions 2.0,Philadelphia,Consulting,100,5000000
+Swift Manufacturing 2.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 4.0,New York,Technology,250,10000000
+Vertex Technologies 2.0,Los Angeles,Consulting,500,20000000
+Pinnacle Innovations 2.0,Chicago,Manufacturing,1000,50000000
+Advanced Enterprises 2.0,San Francisco,Technology,150,7500000
+Innovative Systems 2.0,Dallas,Engineering,300,15000000
+Paragon Solutions 2.0,Miami,Consulting,200,10000000
+SilverCorp 2.0,Boston,Technology,400,20000000
+AlphaTech 2.0,Seattle,Manufacturing,800,40000000
+Strategic Technologies 2.0,Houston,Consulting,100,5000000
+Optima Solutions 2.0,Atlanta,Technology,350,15000000
+TechCorp 2.0,Denver,Engineering,150,7500000
+Innovation Inc. 2.0,Austin,Technology,200,10000000
+Alpha Gamma Consulting 2.0,San Diego,Consulting,450,22500000
+Excel Solutions 2.0,Detroit,Manufacturing,900,45000000
+Peak Manufacturing 2.0,Philadelphia,Consulting,100,5000000
+Swift Solutions 2.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 5.0,New York,Technology,250,10000000
+Vertex Corp. 2.0,Los Angeles,Consulting,500,20000000
+Pinnacle Enterprises 2.0,Chicago,Manufacturing,1000,50000000
+Advanced Innovations 2.0,San Francisco,Technology,150,7500000
+Innovative Technologies 2.0,Dallas,Engineering,300,15000000
+Paragon Innovations 2.0,Miami,Consulting,200,10000000
+SilverTech Solutions 2.0,Boston,Technology,400,20000000
+Alpha Manufacturing 3.0,Seattle,Manufacturing,800,40000000
+Strategic Solutions 3.0,Houston,Consulting,100,5000000
+Optimal Systems 3.0,Atlanta,Technology,350,15000000
+Tech Solutions 3.0,Denver,Engineering,150,7500000
+Innovative IT 3.0,Austin,Technology,200,10000000
+Alpha Beta Consulting 3.0,San Diego,Consulting,450,22500000
+Excel Tech 3.0,Detroit,Manufacturing,900,45000000
+Peak Solutions 3.0,Philadelphia,Consulting,100,5000000
+Swift Manufacturing 3.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 6.0,New York,Technology,250,10000000
+Vertex Technologies 3.0,Los Angeles,Consulting,500,20000000
+Pinnacle Innovations 3.0,Chicago,Manufacturing,1000,50000000
+Advanced Enterprises 3.0,San Francisco,Technology,150,7500000
+Innovative Systems 3.0,Dallas,Engineering,300,15000000
+Paragon Solutions 3.0,Miami,Consulting,200,10000000
+SilverCorp 3.0,Boston,Technology,400,20000000
+AlphaTech 3.0,Seattle,Manufacturing,800,40000000
+Strategic Technologies 3.0,Houston,Consulting,100,5000000
+Optima Solutions 3.0,Atlanta,Technology,350,15000000
+TechCorp 3.0,Denver,Engineering,150,7500000
+Innovation Inc. 3.0,Austin,Technology,200,10000000
+Alpha Gamma Consulting 3.0,San Diego,Consulting,450,22500000
+Excel Solutions 3.0,Detroit,Manufacturing,900,45000000
+Peak Manufacturing 3.0,Philadelphia,Consulting,100,5000000
+Swift Solutions 3.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 7.0,New York,Technology,250,10000000
+Vertex Corp. 3.0,Los Angeles,Consulting,500,20000000
+Pinnacle Enterprises 3.0,Chicago,Manufacturing,1000,50000000
+Advanced Innovations 3.0,San Francisco,Technology,150,7500000
+Innovative Technologies 3.0,Dallas,Engineering,300,15000000
+Paragon Innovations 3.0,Miami,Consulting,200,10000000
+SilverTech Solutions 3.0,Boston,Technology,400,20000000
+Alpha Manufacturing 4.0,Seattle,Manufacturing,800,40000000
+Strategic Solutions 4.0,Houston,Consulting,100,5000000
+Optimal Systems 4.0,Atlanta,Technology,350,15000000
+Tech Solutions 4.0,Denver,Engineering,150,7500000
+Innovative IT 4.0,Austin,Technology,200,10000000
+Alpha Beta Consulting 4.0,San Diego,Consulting,450,22500000
+Excel Tech 4.0,Detroit,Manufacturing,900,45000000
+Peak Solutions 4.0,Philadelphia,Consulting,100,5000000
+Swift Manufacturing 4.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 8.0,New York,Technology,250,10000000
+Vertex Technologies 4.0,Los Angeles,Consulting,500,20000000
+Pinnacle Innovations 4.0,Chicago,Manufacturing,1000,50000000
+Advanced Enterprises 4.0,San Francisco,Technology,150,7500000
+Innovative Systems 4.0,Dallas,Engineering,300,15000000
+Paragon Solutions 4.0,Miami,Consulting,200,10000000
+SilverCorp 4.0,Boston,Technology,400,20000000
+AlphaTech 4.0,Seattle,Manufacturing,800,40000000
+Strategic Technologies 4.0,Houston,Consulting,100,5000000
+Optima Solutions 4.0,Atlanta,Technology,350,15000000
+TechCorp 4.0,Denver,Engineering,150,7500000
+Innovation Inc. 4.0,Austin,Technology,200,10000000
+Alpha Gamma Consulting 4.0,San Diego,Consulting,450,22500000
+Excel Solutions 4.0,Detroit,Manufacturing,900,45000000
+Peak Manufacturing 4.0,Philadelphia,Consulting,100,5000000
+Swift Solutions 4.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 9.0,New York,Technology,250,10000000
+Vertex Corp. 4.0,Los Angeles,Consulting,500,20000000
+Pinnacle Enterprises 4.0,Chicago,Manufacturing,1000,50000000
+Advanced Innovations 4.0,San Francisco,Technology,150,7500000
+Innovative Technologies 4.0,Dallas,Engineering,300,15000000
+Paragon Innovations 4.0,Miami,Consulting,200,10000000
+SilverTech Solutions 4.0,Boston,Technology,400,20000000
+Alpha Manufacturing 5.0,Seattle,Manufacturing,800,40000000
+Strategic Solutions 5.0,Houston,Consulting,100,5000000
+Optimal Systems 5.0,Atlanta,Technology,350,15000000
+Tech Solutions 5.0,Denver,Engineering,150,7500000
+Innovative IT 5.0,Austin,Technology,200,10000000
+Alpha Beta Consulting 5.0,San Diego,Consulting,450,22500000
+Excel Tech 5.0,Detroit,Manufacturing,900,45000000
+Peak Solutions 5.0,Philadelphia,Consulting,100,5000000
+Swift Manufacturing 5.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 10.0,New York,Technology,250,10000000
+Vertex Technologies 5.0,Los Angeles,Consulting,500,20000000
+Pinnacle Innovations 5.0,Chicago,Manufacturing,1000,50000000
+Advanced Enterprises 5.0,San Francisco,Technology,150,7500000
+Innovative Systems 5.0,Dallas,Engineering,300,15000000
+Paragon Solutions 5.0,Miami,Consulting,200,10000000
+SilverCorp 5.0,Boston,Technology,400,20000000
+AlphaTech 5.0,Seattle,Manufacturing,800,40000000
+Strategic Technologies 5.0,Houston,Consulting,100,5000000
+Optima Solutions 5.0,Atlanta,Technology,350,15000000
+TechCorp 5.0,Denver,Engineering,150,7500000
+Innovation Inc. 5.0,Austin,Technology,200,10000000
+Alpha Gamma Consulting 5.0,San Diego,Consulting,450,22500000
+Excel Solutions 5.0,Detroit,Manufacturing,900,45000000
+Peak Manufacturing 5.0,Philadelphia,Consulting,100,5000000
+Swift Solutions 5.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 11.0,New York,Technology,250,10000000
+Vertex Corp. 5.0,Los Angeles,Consulting,500,20000000
+Pinnacle Enterprises 5.0,Chicago,Manufacturing,1000,50000000
+Advanced Innovations 5.0,San Francisco,Technology,150,7500000
+Innovative Technologies 5.0,Dallas,Engineering,300,15000000
+Paragon Innovations 5.0,Miami,Consulting,200,10000000
+SilverTech Solutions 5.0,Boston,Technology,400,20000000
+Alpha Manufacturing 6.0,Seattle,Manufacturing,800,40000000
+Strategic Solutions 6.0,Houston,Consulting,100,5000000
+Optimal Systems 6.0,Atlanta,Technology,350,15000000
+Tech Solutions 6.0,Denver,Engineering,150,7500000
+Innovative IT 6.0,Austin,Technology,200,10000000
+Alpha Beta Consulting 6.0,San Diego,Consulting,450,22500000
+Excel Tech 6.0,Detroit,Manufacturing,900,45000000
+Peak Solutions 6.0,Philadelphia,Consulting,100,5000000
+Swift Manufacturing 6.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 12.0,New York,Technology,250,10000000
+Vertex Technologies 6.0,Los Angeles,Consulting,500,20000000
+Pinnacle Innovations 6.0,Chicago,Manufacturing,1000,50000000
+Advanced Enterprises 6.0,San Francisco,Technology,150,7500000
+Innovative Technologies 6.0,Dallas,Engineering,300,15000000
+Paragon Innovations 6.0,Miami,Consulting,200,10000000
+SilverTech Solutions 6.0,Boston,Technology,400,20000000
+Alpha Manufacturing 7.0,Seattle,Manufacturing,800,40000000
+Strategic Solutions 7.0,Houston,Consulting,100,5000000
+Optima Solutions 7.0,Atlanta,Technology,350,15000000
+TechCorp 7.0,Denver,Engineering,150,7500000
+Innovation Inc. 7.0,Austin,Technology,200,10000000
+Alpha Gamma Consulting 7.0,San Diego,Consulting,450,22500000
+Excel Solutions 7.0,Detroit,Manufacturing,900,45000000
+Peak Manufacturing 7.0,Philadelphia,Consulting,100,5000000
+Swift Solutions 7.0,Phoenix,Manufacturing,600,30000000
+Global Solutions 13.0,New York,Technology,250,10000000
+Vertex Corp. 6.0,Los Angeles,Consulting,500,20000000
+Pinnacle Enterprises 6.0,Chicago,Manufacturing,1000,50000000
+Advanced Innovations 6.0,San Francisco,Technology,150,7500000

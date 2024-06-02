@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.azdo.choose-an-agile-approach.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Take your first DevOps steps by using an Agile approach and Azure Boards.
+  ms.date: 10/11/2023
+  ms.custom: devdivchpfy22
+  author: chcomley
+  ms.author: chcomley
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+  [!include[](includes/1-introduction.md)]

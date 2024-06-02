@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,age,gender,city,state,country,product_category,product_preference
+1,John,Doe,johndoe@example.com,35,Male,New York,NY,United States,Electronics,Smartphones
+2,Jane,Smith,janesmith@example.com,28,Female,Los Angeles,CA,United States,Clothing,Dresses
+3,Michael,Johnson,michaeljohnson@example.com,42,Male,Chicago,IL,United States,Home & Kitchen,Appliances
+4,Emily,Brown,emilybrown@example.com,31,Female,San Francisco,CA,United States,Electronics,Laptops
+5,William,Jones,williamjones@example.com,39,Male,Houston,TX,United States,Sports & Outdoors,Fitness Equipment
+6,Olivia,Miller,oliviamiller@example.com,24,Female,Miami,FL,United States,Beauty,Skincare
+7,James,Anderson,jamesanderson@example.com,36,Male,Seattle,WA,United States,Clothing,T-Shirts
+8,Sophia,Thomas,sophiathomas@example.com,29,Female,Dallas,TX,United States,Home & Kitchen,Furniture
+9,David,White,davidwhite@example.com,33,Male,Boston,MA,United States,Electronics,Headphones
+10,Isabella,Lee,isabellalee@example.com,27,Female,Austin,TX,United States,Toys & Games,Board Games
+11,Ethan,Harris,ethanharris@example.com,41,Male,Philadelphia,PA,United States,Clothing,Jeans
+12,Mia,Wilson,miawilson@example.com,30,Female,Atlanta,GA,United States,Sports & Outdoors,Outdoor Gear
+13,Alexander,Garcia,alexandergarcia@example.com,26,Male,Phoenix,AZ,United States,Beauty,Makeup
+14,Abigail,Lopez,abigaillopez@example.com,38,Female,Detroit,MI,United States,Electronics,Smartwatches
+15,Jameson,Hall,jamesonhall@example.com,32,Male,Denver,CO,United States,Home & Kitchen,Kitchen Appliances
+16,Sophia,Perez,sophiaperez@example.com,25,Female,Orlando,FL,United States,Clothing,Shoes
+17,Jack,Rodriguez,jackrodriguez@example.com,37,Male,San Diego,CA,United States,Sports & Outdoors,Camping Equipment
+18,Charlotte,Foster,charlottefoster@example.com,29,Female,Portland,OR,United States,Beauty,Haircare
+19,Benjamin,Wright,benjaminwright@example.com,34,Male,Charlotte,NC,United States,Electronics,Tablets
+20,Amelia,Adams,ameliaadams@example.com,31,Female,San Antonio,TX,United States,Toys & Games,Video Games
+21,Liam,Lewis,liamlewis@example.com,40,Male,Washington,DC,United States,Clothing,Suits
+22,Emily,Hughes,emilyhughes@example.com,27,Female,Indianapolis,IN,United States,Sports & Outdoors,Fitness Apparel
+23,Mason,Butler,masonbutler@example.com,33,Male,Columbus,OH,United States,Home & Kitchen,Home Decor
+24,Harper,Wright,harperwright@example.com,26,Female,Memphis,TN,United States,Beauty,Perfume
+25,Evelyn,Turner,evelynturner@example.com,35,Female,Vancouver,BC,Canada,Electronics,Speakers
+26,William,Hill,williamhill@example.com,39,Male,Toronto,ON,Canada,Clothing,Hoodies
+27,Sofia,Walker,sofiawalker@example.com,29,Female,Montreal,QC,Canada,Home & Kitchen,Bedding
+28,Noah,King,noahking@example.com,32,Male,Ottawa,ON,Canada,Sports & Outdoors,Cycling Accessories
+29,Ava,Young,avayoung@example.com,28,Female,Calgary,AB,Canada,Beauty,Skincare
+30,Lucas,Gonzalez,lucasgonzalez@example.com,41,Male,Edmonton,AB,Canada,Electronics,Headphones
+31,Emma,Harris,emmaharris@example.com,25,Female,Winnipeg,MB,Canada,Toys & Games,Action Figures
+32,Aiden,Martin,aidenmartin@example.com,37,Male,Halifax,NS,Canada,Clothing,Dresses
+33,Olivia,Baker,oliviabaker@example.com,30,Female,Quebec City,QC,Canada,Sports & Outdoors,Outdoor Gear
+34,Ethan,Wilson,ethanwilson@example.com,26,Male,Victoria,BC,Canada,Beauty,Makeup
+35,Amelia,Campbell,ameliacampbell@example.com,38,Female,Regina,SK,Canada,Electronics,Smartwatches
+36,Liam,Morgan,liammorgan@example.com,31,Male,Saskatoon,SK,Canada,Home & Kitchen,Kitchen Appliances
+37,Sophia,Reed,sophiareed@example.com,27,Female,Fredericton,NB,Canada,Clothing,Shoes
+38,James,Peterson,jamespeterson@example.com,34,Male,St. John's,NL,Canada,Sports & Outdoors,Camping Equipment
+39,Charlotte,Hill,charlottehill@example.com,29,Female,Charlottetown,PE,Canada,Beauty,Haircare
+40,Oliver,Fisher,oliverfisher@example.com,35,Male,Yellowknife,NT,Canada,Electronics,Tablets
+41,Sophia,Moore,sophiamoore@example.com,30,Female,Whitehorse,YT,Canada,Toys & Games,Video Games
+42,Ava,Harris,avaharris@example.com,41,Female,Iqaluit,NU,Canada,Clothing,Suits
+43,Oliver,Allen,oliverallen@example.com,26,Male,Anchorage,AK,United States,Sports & Outdoors,Fitness Apparel
+44,Olivia,Stewart,oliviastewart@example.com,32,Female,Juneau,AK,United States,Beauty,Perfume
+45,Liam,Peterson,liampeterson@example.com,27,Male,Phoenix,AZ,United States,Electronics,Speakers
+46,Sophia,Ward,sophiaward@example.com,33,Female,Little Rock,AR,United States,Clothing,Hoodies
+47,Noah,Butler,noahbutler@example.com,28,Male,Sacramento,CA,United States,Home & Kitchen,Bedding
+48,Emma,Gonzalez,emmagonzalez@example.com,35,Female,Denver,CO,United States,Sports & Outdoors,Cycling Accessories
+49,William,Hill,williamhill@example.com,29,Male,Hartford,CT,United States,Beauty,Skincare
+50,Ava,Campbell,avacampbell@example.com,32,Female,Dover,DE,United States,Electronics,Headphones
+51,Lucas,Morgan,lucasmorgan@example.com,27,Male,Tallahassee,FL,United States,Toys & Games,Action Figures
+52,Olivia,Baker,oliviabaker@example.com,34,Female,Atlanta,GA,United States,Clothing,Dresses
+53,Liam,Wilson,liamwilson@example.com,29,Male,Honolulu,HI,United States,Sports & Outdoors,Outdoor Gear
+54,Sophia,Martin,sophiamartin@example.com,35,Female,Boise,ID,United States,Beauty,Makeup
+55,Amelia,Campbell,ameliacampbell@example.com,30,Female,Springfield,IL,United States,Electronics,Smartwatches
+56,Aiden,Morgan,aidenmorgan@example.com,28,Male,Indianapolis,IN,United States,Home & Kitchen,Kitchen Appliances
+57,Charlotte,Reed,charlottereed@example.com,33,Female,Des Moines,IA,United States,Clothing,Shoes
+58,James,King,jamesking@example.com,29,Male,Topeka,KS,United States,Sports & Outdoors,Camping Equipment
+59,Sophia,Ward,sophiaward@example.com,35,Female,Frankfort,KY,United States,Beauty,Haircare
+60,Oliver,Fisher,oliverfisher@example.com,30,Male,Baton Rouge,LA,United States,Electronics,Tablets
+61,Sophia,Moore,sophiamoore@example.com,36,Female,Augusta,ME,United States,Toys & Games,Video Games
+62,Ava,Hamilton,avahamilton@example.com,28,Female,Annapolis,MD,United States,Clothing,Suits
+63,Oliver,Allen,oliverallen@example.com,33,Male,Boston,MA,United States,Sports & Outdoors,Fitness Apparel
+64,Olivia,Stewart,oliviastewart@example.com,29,Female,Lansing,MI,United States,Beauty,Perfume
+65,Liam,Peterson,liampeterson@example.com,35,Male,St. Paul,MN,United States,Electronics,Speakers
+66,Sophia,Ward,sophiaward@example.com,30,Female,Jackson,MS,United States,Clothing,Hoodies
+67,Noah,Butler,noahbutler@example.com,36,Male,Jefferson City,MO,United States,Home & Kitchen,Bedding
+68,Emma,Gonzalez,emmagonzalez@example.com,28,Female,Helena,MT,United States,Sports & Outdoors,Cycling Accessories
+69,William,Hill,williamhill@example.com,33,Male,Lincoln,NE,United States,Beauty,Skincare
+70,Ava,Campbell,avacampbell@example.com,29,Female,Carson City,NV,United States,Electronics,Headphones
+71,Lucas,Morgan,lucasmorgan@example.com,35,Male,Concord,NH,United States,Toys & Games,Action Figures
+72,Olivia,Baker,oliviabaker@example.com,30,Female,Trenton,NJ,United States,Clothing,Dresses
+73,Liam,Wilson,liamwilson@example.com,36,Male,Santa Fe,NM,United States,Sports & Outdoors,Outdoor Gear
+74,Sophia,Martin,sophiamartin@example.com,28,Female,Albany,NY,United States,Beauty,Makeup
+75,Amelia,Campbell,ameliacampbell@example.com,33,Female,Raleigh,NC,United States,Electronics,Smartwatches
+76,Aiden,Morgan,aidenmorgan@example.com,29,Male,Bismarck,ND,United States,Home & Kitchen,Kitchen Appliances
+77,Charlotte,Reed,charlottereed@example.com,35,Female,Columbus,OH,United States,Clothing,Shoes
+78,James,King,jamesking@example.com,30,Male,Oklahoma City,OK,United States,Sports & Outdoors,Camping Equipment
+79,Sophia,Ward,sophiaward@example.com,36,Female,Salem,OR,United States,Beauty,Haircare
+80,Oliver,Fisher,oliverfisher@example.com,28,Male,Harrisburg,PA,United States,Electronics,Tablets
+81,Sophia,Moore,sophiamoore@example.com,34,Female,Providence,RI,United States,Toys & Games,Video Games
+82,Ava,Hamilton,avahamilton@example.com,29,Female,Columbia,SC,United States,Clothing,Suits
+83,Oliver,Allen,oliverallen@example.com,35,Male,Pierre,SD,United States,Sports & Outdoors,Fitness Apparel
+84,Olivia,Stewart,oliviastewart@example.com,30,Female,Nashville,TN,United States,Beauty,Perfume
+85,Liam,Peterson,liampeterson@example.com,36,Male,Austin,TX,United States,Electronics,Speakers
+86,Sophia,Ward,sophiaward@example.com,28,Female,Salt Lake City,UT,United States,Clothing,Hoodies
+87,Noah,Butler,noahbutler@example.com,34,Male,Montpelier,VT,United States,Home & Kitchen,Bedding
+88,Emma,Gonzalez,emmagonzalez@example.com,29,Female,Richmond,VA,United States,Sports & Outdoors,Cycling Accessories
+89,William,Hill,williamhill@example.com,35,Male,Olympia,WA,United States,Beauty,Skincare
+90,Ava,Campbell,avacampbell@example.com,30,Female,Charleston,WV,United States,Electronics,Headphones
+91,Lucas,Morgan,lucasmorgan@example.com,36,Male,Madison,WI,United States,Toys & Games,Action Figures
+92,Olivia,Baker,oliviabaker@example.com,28,Female,Cheyenne,WY,United States,Clothing,Dresses
+93,Liam,Wilson,liamwilson@example.com,34,Male,Toronto,ON,Canada,Sports & Outdoors,Outdoor Gear
+94,Sophia,Martin,sophiamartin@example.com,29,Female,Vancouver,BC,Canada,Beauty,Makeup
+95,Amelia,Campbell,ameliacampbell@example.com,35,Female,Montreal,QC,Canada,Electronics,Smartwatches
+96,Aiden,Morgan,aidenmorgan@example.com,30,Male,Calgary,AB,Canada,Home & Kitchen,Kitchen Appliances
+97,Charlotte,Reed,charlottereed@example.com,36,Female,Ottawa,ON,Canada,Clothing,Shoes
+98,James,King,jamesking@example.com,28,Male,Toronto,ON,Canada,Sports & Outdoors,Camping Equipment
+99,Sophia,Ward,sophiaward@example.com,34,Female,Vancouver,BC,Canada,Beauty,Haircare
+100,Oliver,Fisher,oliverfisher@example.com,29,Male,Calgary,AB,Canada,Electronics,Tablets

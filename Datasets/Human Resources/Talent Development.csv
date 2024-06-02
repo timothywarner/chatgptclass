@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,gender,date_of_birth,job_title,department,city,hire_date,termination_date,years_of_service,training_hours
+1001,Emma,Johnson,Female,1990-05-15,Software Engineer,IT,San Francisco,2018-01-05,,4,80
+1002,Noah,Smith,Male,1987-09-18,Marketing Manager,Marketing,New York,2017-03-10,,5,120
+1003,Olivia,Williams,Female,1992-12-01,HR Coordinator,Human Resources,Chicago,2019-06-20,,2,40
+1004,Liam,Brown,Male,1991-07-10,Operations Supervisor,Operations,Dallas,2020-02-15,,1,30
+1005,Ava,Jones,Female,1988-11-25,Financial Analyst,Finance,Los Angeles,2016-08-01,,6,100
+1006,Isabella,Garcia,Female,1994-03-08,Software Developer,IT,San Francisco,2018-12-05,,3,60
+1007,Sophia,Miller,Female,1993-06-22,Marketing Specialist,Marketing,New York,2019-04-20,,2,40
+1008,Mason,Davis,Male,1989-10-15,HR Manager,Human Resources,Chicago,2017-09-10,,4,80
+1009,Lucas,Rodriguez,Male,1990-04-30,Operations Manager,Operations,Dallas,2018-05-01,,3,60
+1010,Harper,Martinez,Female,1987-12-12,Financial Controller,Finance,Los Angeles,2016-10-15,,5,120
+1011,Evelyn,Hernandez,Female,1991-09-05,Software Engineer,IT,San Francisco,2018-03-20,,3,60
+1012,Michael,Wilson,Male,1993-02-14,Marketing Coordinator,Marketing,New York,2019-02-05,,2,40
+1013,Abigail,Anderson,Female,1992-05-26,HR Assistant,Human Resources,Chicago,2017-07-15,,4,80
+1014,Alexander,Lopez,Male,1988-08-09,Operations Analyst,Operations,Dallas,2018-11-20,,3,60
+1015,Sofia,Gonzalez,Female,1994-11-30,Financial Advisor,Finance,Los Angeles,2019-01-05,,2,40
+1016,Mia,Thomas,Female,1990-10-20,Software Developer,IT,San Francisco,2018-06-15,,3,60
+1017,Charlotte,Taylor,Female,1993-07-29,Marketing Manager,Marketing,New York,2019-09-15,,2,40
+1018,William,Clark,Male,1989-08-02,HR Coordinator,Human Resources,Chicago,2017-12-20,,4,80
+1019,James,Rodriguez,Male,1991-05-17,Operations Supervisor,Operations,Dallas,2018-07-01,,3,60
+1020,Grace,White,Female,1988-10-11,Financial Analyst,Finance,Los Angeles,2016-12-15,,5,120
+1021,Luna,Hall,Female,1994-02-05,Software Engineer,IT,San Francisco,2018-08-20,,3,60
+1022,Lincoln,Lee,Male,1993-03-21,Marketing Specialist,Marketing,New York,2019-01-15,,2,40
+1023,Landon,Walker,Male,1990-06-01,HR Manager,Human Resources,Chicago,2017-08-10,,4,80
+1024,Aria,Harris,Female,1991-09-14,Operations Manager,Operations,Dallas,2018-01-05,,3,60
+1025,Avery,King,Female,1994-01-08,Financial Controller,Finance,Los Angeles,2019-03-20,,2,40
+1026,Ella,Young,Female,1990-04-15,Software Engineer,IT,San Francisco,2018-07-05,,3,60
+1027,Evelyn,Scott,Female,1993-07-02,Marketing Coordinator,Marketing,New York,2019-09-20,,2,40
+1028,Joseph,Wright,Male,1989-08-25,HR Assistant,Human Resources,Chicago,2017-12-10,,4,80
+1029,Levi,Green,Male,1990-03-10,Operations Analyst,Operations,Dallas,2018-05-15,,3,60
+1030,Scarlett,Hall,Female,1987-10-05,Financial Advisor,Finance,Los Angeles,2016-12-01,,5,120
+1031,Aurora,Turner,Female,1992-01-20,Software Developer,IT,San Francisco,2018-07-05,,3,60
+1032,Daniel,Adams,Male,1994-04-14,Marketing Manager,Marketing,New York,2019-01-30,,2,40
+1033,Victoria,Campbell,Female,1991-07-27,HR Coordinator,Human Resources,Chicago,2017-11-20,,4,80
+1034,Henry,Carter,Male,1988-09-10,Operations Supervisor,Operations,Dallas,2018-03-01,,3,60
+1035,Madison,Morris,Female,1994-12-25,Financial Analyst,Finance,Los Angeles,2019-04-05,,2,40
+1036,David,Rogers,Male,1990-11-20,Software Engineer,IT,San Francisco,2018-05-15,,3,60
+1037,Grace,Perez,Female,1993-05-02,Marketing Specialist,Marketing,New York,2019-07-20,,2,40
+1038,Julian,Anderson,Male,1989-08-15,HR Manager,Human Resources,Chicago,2017-12-10,,4,80
+1039,Samantha,Lee,Female,1990-03-30,Operations Manager,Operations,Dallas,2018-05-01,,3,60
+1040,Ethan,Hall,Male,1987-10-25,Financial Controller,Finance,Los Angeles,2016-12-15,,5,120
+1041,Layla,Smith,Female,1992-01-10,Software Engineer,IT,San Francisco,2018-07-20,,3,60
+1042,Chloe,Williams,Female,1994-04-14,Marketing Coordinator,Marketing,New York,2019-01-30,,2,40
+1043,Aiden,Brown,Male,1991-07-27,HR Assistant,Human Resources,Chicago,2017-11-20,,4,80
+1044,Samantha,Kelly,Female,1990-11-02,Operations Analyst,Operations,Dallas,2018-03-15,,3,60
+1045,Zoe,Adams,Female,1988-09-25,Financial Advisor,Finance,Los Angeles,2018-08-01,,4,80
+1046,Asher,Cook,Male,1990-04-10,Software Developer,IT,San Francisco,2019-01-05,,2,40
+1047,Naomi,Richardson,Female,1993-07-02,Marketing Manager,Marketing,New York,2020-03-20,,1,20
+1048,Jeremiah,Parker,Male,1992-12-17,HR Coordinator,Human Resources,Chicago,2017-04-15,,4,80
+1049,Eli,Ward,Male,1991-07-10,Operations Supervisor,Operations,Dallas,2018-02-01,,3,60
+1050,Natalie,Ross,Female,1988-11-25,Financial Analyst,Finance,Los Angeles,2016-08-15,,5,120
+1051,Violet,Bell,Female,1994-03-10,Software Engineer,IT,San Francisco,2018-09-05,,3,60
+1052,Landon,Hughes,Male,1990-06-25,Marketing Specialist,Marketing,New York,2019-05-20,,2,40
+1053,Audrey,Reed,Female,1991-09-09,HR Manager,Human Resources,Chicago,2017-03-01,,4,80
+1054,Aiden,Cooper,Male,1993-02-23,Operations Manager,Operations,Dallas,2018-02-15,,3,60
+1055,Bella,Rivera,Female,1990-07-08,Financial Controller,Finance,Los Angeles,2016-09-01,,5,120
+1056,Gabriel,Murphy,Male,1994-10-20,Software Engineer,IT,San Francisco,2018-06-05,,3,60
+1057,Stella,Brooks,Female,1993-03-15,Marketing Coordinator,Marketing,New York,2019-03-30,,2,40
+1058,Jack,Foster,Male,1989-06-28,HR Assistant,Human Resources,Chicago,2017-10-20,,4,80
+1059,Aurora,Hill,Female,1990-09-10,Operations Analyst,Operations,Dallas,2018-01-15,,3,60
+1060,Alexander,Walker,Male,1987-12-25,Financial Advisor,Finance,Los Angeles,2016-10-01,,5,120
+1061,Penelope,Mitchell,Female,1991-09-08,Software Developer,IT,San Francisco,2018-03-05,,3,60
+1062,Elena,Collins,Female,1994-02-23,Marketing Manager,Marketing,New York,2019-02-15,,2,40
+1063,Dylan,Hayes,Male,1991-05-08,HR Coordinator,Human Resources,Chicago,2017-09-01,,4,80
+1064,Caroline,Watson,Female,1990-08-30,Operations Supervisor,Operations,Dallas,2018-01-15,,3,60
+1065,Leo,Gray,Male,1988-11-13,Financial Analyst,Finance,Los Angeles,2016-06-20,,5,120
+1066,Sophie,Cox,Female,1993-02-27,Software Engineer,IT,San Francisco,2018-03-05,,3,60
+1067,Xavier,Price,Male,1994-05-12,Marketing Specialist,Marketing,New York,2019-07-15,,2,40
+1068,Eliana,Wright,Female,1991-08-27,HR Manager,Human Resources,Chicago,2017-11-20,,4,80
+1069,Josephine,Perez,Female,1990-07-10,Operations Manager,Operations,Dallas,2018-02-01,,3,60
+1070,Adrian,Hall,Male,1987-12-25,Financial Controller,Finance,Los Angeles,2016-10-15,,5,120
+1071,Genesis,Hughes,Female,1994-02-08,Software Engineer,IT,San Francisco,2018-06-20,,3,60
+1072,Ian,Morris,Male,1991-05-25,Marketing Coordinator,Marketing,New York,2019-02-15,,2,40
+1073,Eva,Ward,Female,1990-08-10,HR Assistant,Human Resources,Chicago,2017-10-01,,4,80
+1074,Jackson,Cooper,Male,1992-11-02,Operations Analyst,Operations,Dallas,2018-01-15,,3,60
+1075,Emilia,Ross,Female,1988-12-27,Financial Advisor,Finance,Los Angeles,2016-11-20,,5,120
+1076,Hudson,Murphy,Male,1993-03-12,Software Developer,IT,San Francisco,2018-04-05,,3,60
+1077,Aaliyah,Brooks,Female,1991-06-27,Marketing Manager,Marketing,New York,2019-06-20,,2,40
+1078,Owen,Foster,Male,1990-09-10,HR Coordinator,Human Resources,Chicago,2017-11-01,,4,80
+1079,Skylar,Hill,Female,1988-12-25,Operations Supervisor,Operations,Dallas,2018-03-15,,3,60
+1080,Lincoln,Walker,Male,1994-01-08,Financial Analyst,Finance,Los Angeles,2019-05-01,,2,40
+1081,Hannah,Gonzalez,Female,1990-06-23,Software Engineer,IT,San Francisco,2018-09-15,,3,60
+1082,Lucy,Clark,Female,1993-09-06,Marketing Specialist,Marketing,New York,2019-12-01,,2,40
+1083,Christopher,Lopez,Male,1991-12-21,HR Manager,Human Resources,Chicago,2017-05-15,,4,80
+1084,Scarlett,Scott,Female,1990-07-08,Operations Manager,Operations,Dallas,2018-02-01,,3,60
+1085,Xander,Baker,Male,1987-12-03,Financial Controller,Finance,Los Angeles,2016-10-15,,5,120
+1086,Avery,Watson,Female,1994-03-18,Software Developer,IT,San Francisco,2018-06-20,,3,60
+1087,Piper,Bell,Female,1991-06-01,Marketing Coordinator,Marketing,New York,2019-06-15,,2,40
+1088,Austin,Reed,Male,1990-09-14,HR Assistant,Human Resources,Chicago,2017-10-01,,4,80
+1089,Aria,Phillips,Female,1988-12-27,Operations Analyst,Operations,Dallas,2018-03-15,,3,60
+1090,Lucas,Flores,Male,1992-11-02,Financial Advisor,Finance,Los Angeles,2016-11-20,,5,120
+1091,Mila,Hughes,Female,1991-07-25,Software Engineer,IT,San Francisco,2018-04-05,,3,60
+1092,Mateo,Morris,Male,1993-02-10,Marketing Manager,Marketing,New York,2019-02-25,,2,40
+1093,Ellie,Ward,Female,1990-05-08,HR Coordinator,Human Resources,Chicago,2017-07-01,,4,80
+1094,Caleb,Brown,Male,1988-10-21,Operations Supervisor,Operations,Dallas,2018-02-15,,3,60
+1095,Aria,Ross,Female,1994-01-05,Financial Analyst,Finance,Los Angeles,2019-05-20,,2,40
+1096,Henry,Murphy,Male,1990-06-20,Software Developer,IT,San Francisco,2018-09-05,,3,60
+1097,Leah,Brooks,Female,1993-09-12,Marketing Specialist,Marketing,New York,2019-12-30,,2,40
+1098,Gabriel,Foster,Male,1991-07-27,HR Manager,Human Resources,Chicago,2017-10-20,,4,80
+1099,Valentina,Hill,Female,1990-10-10,Operations Manager,Operations,Dallas,2018-03-01,,3,60
+1100,Julian,Walker,Male,1987-12-25,Financial Controller,Finance,Los Angeles,2016-10-15,,5,120

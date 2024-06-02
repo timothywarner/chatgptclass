@@ -1,0 +1,51 @@
+employee_number,employee_name,gender,city,job_title,department,store_location,business_unit,division,age,length_of_service,hours_absent
+101,John Smith,Male,New York,Accountant,Finance,Store A,Finance Division,Accounting,32,5,8
+102,Sarah Johnson,Female,Los Angeles,Marketing Specialist,Marketing,Store B,Marketing Division,Marketing,28,3,16
+103,Michael Davis,Male,Chicago,Sales Representative,Sales,Store C,Sales Division,Sales,35,7,4
+104,Emily Wilson,Female,San Francisco,Software Engineer,Technology,Store D,Technology Division,Engineering,29,4,0
+105,Robert Anderson,Male,Houston,Human Resources Manager,Human Resources,Store E,HR Division,Human Resources,37,8,24
+106,Olivia Thompson,Female,Seattle,Operations Supervisor,Operations,Store F,Operations Division,Operations,31,6,8
+107,David Martinez,Male,Miami,Customer Service Representative,Customer Service,Store G,Customer Service Division,Customer Service,26,2,0
+108,Sophia Lee,Female,Boston,Product Manager,Product Management,Store H,Product Division,Product Management,33,5,0
+109,James Rodriguez,Male,Dallas,IT Specialist,IT,Store I,IT Division,IT,30,4,16
+110,Emma Taylor,Female,Atlanta,Administrative Assistant,Administration,Store J,Admin Division,Administration,27,3,0
+111,William Hernandez,Male,New York,Accountant,Finance,Store A,Finance Division,Accounting,34,6,8
+112,Isabella Moore,Female,Los Angeles,Marketing Specialist,Marketing,Store B,Marketing Division,Marketing,29,4,16
+113,Aiden Brown,Male,Chicago,Sales Representative,Sales,Store C,Sales Division,Sales,36,7,0
+114,Mia Clark,Female,San Francisco,Software Engineer,Technology,Store D,Technology Division,Engineering,30,5,0
+115,Liam Lewis,Male,Houston,Human Resources Manager,Human Resources,Store E,HR Division,Human Resources,38,9,32
+116,Sofia Green,Female,Seattle,Operations Supervisor,Operations,Store F,Operations Division,Operations,32,7,16
+117,Noah Baker,Male,Miami,Customer Service Representative,Customer Service,Store G,Customer Service Division,Customer Service,27,3,0
+118,Ava Gonzalez,Female,Boston,Product Manager,Product Management,Store H,Product Division,Product Management,34,6,0
+119,Lucas Martinez,Male,Dallas,IT Specialist,IT,Store I,IT Division,IT,31,5,24
+120,Charlotte Hill,Female,Atlanta,Administrative Assistant,Administration,Store J,Admin Division,Administration,28,4,0
+121,Harper Collins,Female,New York,Accountant,Finance,Store A,Finance Division,Accounting,33,6,8
+122,Emma Adams,Female,Los Angeles,Marketing Specialist,Marketing,Store B,Marketing Division,Marketing,30,4,16
+123,Liam Turner,Male,Chicago,Sales Representative,Sales,Store C,Sales Division,Sales,37,8,0
+124,Olivia Harris,Female,San Francisco,Software Engineer,Technology,Store D,Technology Division,Engineering,31,5,0
+125,Noah Butler,Male,Houston,Human Resources Manager,Human Resources,Store E,HR Division,Human Resources,39,9,40
+126,Sophia Bell,Female,Seattle,Operations Supervisor,Operations,Store F,Operations Division,Operations,33,7,16
+127,Lucas Carter,Male,Miami,Customer Service Representative,Customer Service,Store G,Customer Service Division,Customer Service,28,3,0
+128,Ava Anderson,Female,Boston,Product Manager,Product Management,Store H,Product Division,Product Management,35,6,0
+129,James Walker,Male,Dallas,IT Specialist,IT,Store I,IT Division,IT,32,5,16
+130,Olivia Richardson,Female,Atlanta,Administrative Assistant,Administration,Store J,Admin Division,Administration,29,4,0
+131,Benjamin Wright,Male,New York,Accountant,Finance,Store A,Finance Division,Accounting,34,6,8
+132,Sophia Rodriguez,Female,Los Angeles,Marketing Specialist,Marketing,Store B,Marketing Division,Marketing,31,5,16
+133,Lucas Turner,Male,Chicago,Sales Representative,Sales,Store C,Sales Division,Sales,38,8,0
+134,Emma Davis,Female,San Francisco,Software Engineer,Technology,Store D,Technology Division,Engineering,32,6,0
+135,Noah Hernandez,Male,Houston,Human Resources Manager,Human Resources,Store E,HR Division,Human Resources,40,9,48
+136,Ava Wilson,Female,Seattle,Operations Supervisor,Operations,Store F,Operations Division,Operations,34,7,16
+137,Liam Adams,Male,Miami,Customer Service Representative,Customer Service,Store G,Customer Service Division,Customer Service,29,4,0
+138,Emily Moore,Female,Boston,Product Manager,Product Management,Store H,Product Division,Product Management,36,6,0
+139,William Phillips,Male,Dallas,IT Specialist,IT,Store I,IT Division,IT,33,5,24
+140,Sophia Anderson,Female,Atlanta,Administrative Assistant,Administration,Store J,Admin Division,Administration,30,4,0
+141,Charlotte Thompson,Female,New York,Accountant,Finance,Store A,Finance Division,Accounting,35,6,8
+142,Aiden Harris,Male,Los Angeles,Marketing Specialist,Marketing,Store B,Marketing Division,Marketing,32,5,16
+143,Liam Turner,Male,Chicago,Sales Representative,Sales,Store C,Sales Division,Sales,39,8,0
+144,Olivia Adams,Female,San Francisco,Software Engineer,Technology,Store D,Technology Division,Engineering,33,6,0
+145,Noah Richardson,Male,Houston,Human Resources Manager,Human Resources,Store E,HR Division,Human Resources,41,9,56
+146,Sophia Walker,Female,Seattle,Operations Supervisor,Operations,Store F,Operations Division,Operations,35,7,16
+147,Lucas Clark,Male,Miami,Customer Service Representative,Customer Service,Store G,Customer Service Division,Customer Service,30,4,0
+148,Emily Hill,Female,Boston,Product Manager,Product Management,Store H,Product Division,Product Management,37,6,0
+149,William Baker,Male,Dallas,IT Specialist,IT,Store I,IT Division,IT,34,5,24
+150,Ava Gonzalez,Female,Atlanta,Administrative Assistant,Administration,Store J,Admin Division,Administration,31,4,0

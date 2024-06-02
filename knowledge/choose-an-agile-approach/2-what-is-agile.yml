@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.azdo.choose-an-agile-approach.2-what-is-agile
+title: What is Agile?
+metadata:
+  title: What is Agile?
+  description: Learn how Agile can offer a better approach to software development through some of its guiding principles.
+  ms.date: 10/11/2023
+  ms.custom: devdivchpfy22
+  author: chcomley
+  ms.author: chcomley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/2-what-is-agile.md)]
