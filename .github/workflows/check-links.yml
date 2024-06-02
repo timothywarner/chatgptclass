@@ -1,16 +1,8 @@
 name: Link Checker
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
   workflow_dispatch:
-  schedule:
-    - cron: '2 0 * * *'
-
+  
 jobs:
   link-check:
     runs-on: ubuntu-latest
