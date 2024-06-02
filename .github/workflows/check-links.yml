@@ -20,26 +20,26 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Run Lychee link checker on README.md
+      id: lychee_readme1
       uses: lycheeverse/lychee-action@v1
       with:
-        args: --output json ./README.md
-      id: lychee_readme1
+        args: ./README.md
 
     - name: Run Lychee link checker on README2.md
+      id: lychee_readme2
       uses: lycheeverse/lychee-action@v1
       with:
-        args: --output json ./README2.md
-      id: lychee_readme2
+        args: ./README2.md
 
     - name: Check for broken links
       run: |
-        readme1_output=$(cat ${{ steps.lychee_readme1.outputs.output }})
-        readme2_output=$(cat ${{ steps.lychee_readme2.outputs.output }})
+        readme1_output=${{ steps.lychee_readme1.outputs.stdout }}
+        readme2_output=${{ steps.lychee_readme2.outputs.stdout }}
 
-        readme1_broken=$(echo "$readme1_output" | jq '.total.ignored + .total.fail > 0')
-        readme2_broken=$(echo "$readme2_output" | jq '.total.ignored + .total.fail > 0')
+        readme1_broken=$(echo "$readme1_output" | grep -E '"fail":\s*[1-9]+')
+        readme2_broken=$(echo "$readme2_output" | grep -E '"fail":\s*[1-9]+')
 
-        if [ "$readme1_broken" = "true" ] || [ "$readme2_broken" = "true" ]; then
+        if [ -n "$readme1_broken" ] || [ -n "$readme2_broken" ]; then
           echo "Broken links found in README.md or README2.md"
           exit 1
         else
