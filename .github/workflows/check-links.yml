@@ -48,5 +48,5 @@ jobs:
         password: ${{ secrets.GMAIL_PASSWORD }}
         subject: Broken links detected in README files
         body: 'Broken links were detected in the README files. Please check the workflow logs for details.'
-        to: timothywarner@gmail.com
-        from: noreply@example.com
+        to: timothywarner316@gmail.com
+        from: noreply@github.com
