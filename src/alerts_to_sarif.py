@@ -12,7 +12,8 @@ if not TOKEN:
     print("TIM_GITHUB_PAT is not set.")
     exit(1)
 
-
+# This function fetches a specific alert from a GitHub repository.
+# It is part of addressing the "Test issue" by analyzing security alerts and converting them to SARIF format.
 def fetch_alert(owner, repo, alert_id, token):
     """Fetch a specific alert from GitHub repository."""
     print("Fetching alert data...")
@@ -34,7 +35,8 @@ def fetch_alert(owner, repo, alert_id, token):
         print(f"Error during API call: {e}")
     return None
 
-
+# This function converts the alert details into SARIF format.
+# It supports the resolution of the "Test issue" by enabling the integration of GitHub security alerts into SARIF-compatible tools.
 def create_sarif_report(alert):
     """Convert the alert details into SARIF format."""
     print("Creating SARIF report...")
@@ -91,7 +93,8 @@ def create_sarif_report(alert):
     print("SARIF report created successfully.")
     return sarif_template
 
-
+# Main function orchestrates the fetching of an alert and the creation of a SARIF report.
+# It demonstrates the script's capability to address security alerts as part of the "Test issue" resolution.
 def main():
     alert_data = fetch_alert(REPO_OWNER, REPO_NAME, ALERT_ID, TOKEN)
     if alert_data:
