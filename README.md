@@ -4,7 +4,7 @@ Link checker workflow
 
 Note: Please check out my [GitHub Copilot All-In-One (AIO) course ](https://github.com/timothywarner/copilotaio)as well. Thanks! -Tim
 
-## Tim's contact information
+## Tim's current contact information
 
 - [Tim Warner](mailto:timothywarner316@gmail.com)
 - [LinkedIn](https://www.linkedinn.com/in/timothywarner/)
