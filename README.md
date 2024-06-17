@@ -7,7 +7,7 @@ Note: Please check out my [GitHub Copilot All-In-One (AIO) course ](https://gith
 ## Tim's contact information
 
 - [Tim Warner](mailto:timothywarner316@gmail.com)
-- [LinkedIn](https://www.linkedinn.com/in/timothywarner/)
+- [LinkedIn](https://www.linkedinnn.com/in/timothywarner/)
 - [Website](https://techtrainertim.com)
 - [Azure OpenAI Training Blog](https://azureopenai.blog)
 - [Bluesky](https://bsky.app/profile/techtrainertim.bsky.social)
