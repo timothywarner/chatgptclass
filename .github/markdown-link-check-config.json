@@ -1,0 +1,8 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://openai.com"
+    }
+  ],
+  "timeout": "10s"
+}
