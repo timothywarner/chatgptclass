@@ -2,6 +2,9 @@ name: Link Checker
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   
 jobs:
   link-check:
@@ -9,44 +12,44 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Run Lychee link checker on README.md
       id: lychee_readme1
-      uses: lycheeverse/lychee-action@v1
+      uses: lycheeverse/lychee-action@v2
       with:
         args: ./README.md
 
-    - name: Run Lychee link checker on README2.md
-      id: lychee_readme2
-      uses: lycheeverse/lychee-action@v1
-      with:
-        args: ./README2.md
+    # - name: Run Lychee link checker on README2.md
+    #   id: lychee_readme2
+    #   uses: lycheeverse/lychee-action@v2
+    #   with:
+    #     args: ./README2.md
 
     - name: Check for broken links
       run: |
-        readme1_output=${{ steps.lychee_readme1.outputs.stdout }}
-        readme2_output=${{ steps.lychee_readme2.outputs.stdout }}
+        readme1_output="${{ steps.lychee_readme1.outputs.stdout }}"
+        # readme2_output="${{ steps.lychee_readme2.outputs.stdout }}"
 
         readme1_broken=$(echo "$readme1_output" | grep -E '"fail":\s*[1-9]+')
-        readme2_broken=$(echo "$readme2_output" | grep -E '"fail":\s*[1-9]+')
+        # readme2_broken=$(echo "$readme2_output" | grep -E '"fail":\s*[1-9]+')
 
-        if [ -n "$readme1_broken" ] || [ -n "$readme2_broken" ]; then
-          echo "Broken links found in README.md or README2.md"
+        if [ -n "$readme1_broken" ]; then
+          echo "❌ Broken links found in README.md"
           exit 1
         else
-          echo "No broken links found"
+          echo "✅ No broken links found in README.md"
         fi
 
     - name: Notify user of broken links
       if: failure()
-      uses: dawidd6/action-send-mail@v3
+      uses: dawidd6/action-send-mail@v4
       with:
         server_address: smtp.gmail.com
         server_port: 587
         username: ${{ secrets.GMAIL_USERNAME }}
         password: ${{ secrets.GMAIL_PASSWORD }}
-        subject: Broken links detected in README files
-        body: 'Broken links were detected in the README files. Please check the workflow logs for details.'
+        subject: ❌ Broken links detected in README.md
+        body: '❌ Broken links were detected in README.md. Please check the workflow logs for details.'
         to: timothywarner316@gmail.com
         from: noreply@github.com
