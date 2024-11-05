@@ -1,5 +1,19 @@
 # 📘 ChatGPT and GitHub Copilot Quick Start for Developers and Everyone Else 🚀
 
+## Class TODO 
+
+- adding all the big LLMs
+- more abbout SSO flow and that
+- - 
+
+
+
+
+
+
+
+
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/timothywarner/chatgptclass)
 ![License](https://img.shields.io/github/license/timothywarner/chatgptclass)
 ![GitHub issues](https://img.shields.io/github/issues/timothywarner/chatgptclass)
