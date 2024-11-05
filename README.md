@@ -1,71 +1,73 @@
-# 📘 ChatGPT and GitHub Copilot Quick Start for Developers and Everyone Else 🚀
+# 📘 ChatGPT and GitHub Copilot Quick Start for Developers and Professionals 🚀
 
-## Class TODO 
+---
 
-- adding all the big LLMs
-- more abbout SSO flow and that
--  put shields badges to my github copilot public repos
+## 🔗 Related Repositories
 
-
-
-
-
-
-
-
-
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/timothywarner/chatgptclass)
-![License](https://img.shields.io/github/license/timothywarner/chatgptclass)
-![GitHub issues](https://img.shields.io/github/issues/timothywarner/chatgptclass)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/timothywarner/chatgptclass)
-
-> **Get Started with AI Services Right Now!**  
-> This course provides practical insights into AI tools like ChatGPT and GitHub Copilot, helping you integrate them into your work today with hands-on learning.
+[![GitHub](https://img.shields.io/badge/Repository-CopilotAIO-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/copilotaio)
+[![GitHub](https://img.shields.io/badge/Repository-Copilot%20Playground-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/copilot-playground)
+[![GitHub](https://img.shields.io/badge/Repository-DemoKB-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/demokb)
+[![GitHub](https://img.shields.io/badge/Repository-GitHub%20Copilot%20Healthcare%20Training-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/github-copilot-healthcare-training)
+[![GitHub](https://img.shields.io/badge/Repository-Copilot-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/copilot)
 
 ---
 
 ## 📞 Contact Tim Warner
-- [Email Tim](mailto:timothywarner316@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/timothywarner/)
-- [Website](https://techtrainertim.com)
-- [Azure OpenAI Training Blog](https://azureopenai.blog)
-- [Bluesky](https://bsky.app/profile/techtrainertim.bsky.social)
-- [Mastodon](https://mastodon.social/@techtrainertim)
+
+- **Email**: [timothywarner316@gmail.com](mailto:timothywarner316@gmail.com)
+- **LinkedIn**: [Timothy Warner](https://www.linkedin.com/in/timothywarner/)
+- **Website**: [Tech Trainer Tim](https://techtrainertim.com)
+- **Azure OpenAI Blog**: [azureopenai.blog](https://azureopenai.blog)
+- **Social Media**: [Bluesky](https://bsky.app/profile/techtrainertim.bsky.social) | [Mastodon](https://mastodon.social/@techtrainertim)
 
 ---
 
-## 🗂 Punchlist Table of Contents & Schedule
+## 📚 Key Resources and Links
 
-1. **08:30am - Soundcheck**  
-2. **09:00am - Start**  
-   - **Intro & Setup (20 mins)**: AI overview and setup of tools.
-   
-3. **09:20am - Segment 1: AI Foundations (60 mins)**  
-   - Business use cases for AI
-   - Differences between AI and ML
-   - Relationship between OpenAI and Microsoft
-   - Overview of ChatGPT and GitHub Copilot  
-   - **10:00am - 9-min break**
+### AI Model Documentation & APIs
 
-4. **10:09am - Segment 2: ChatGPT Deep Dive (60 mins)**  
-   - Capabilities of ChatGPT
-   - Service sign-up and setup
-   - Using ChatGPT in browser, VS Code, and directly with the API  
-   - **11:00am - 9-min break**
+- **[OpenAI Documentation](https://platform.openai.com/docs/)** - Official documentation for ChatGPT and OpenAI’s API capabilities.
+- **[GitHub Copilot Documentation](https://docs.github.com/en/copilot)** - Comprehensive guide on using GitHub Copilot, including setup and feature details.
+- **[Anthropic Claude](https://www.anthropic.com/)** - Explore the Claude LLM developed by Anthropic, aimed at safe and controllable AI interactions.
+- **[Google Gemini](https://cloud.google.com/)** - Google’s Gemini LLM, integrated into Google Cloud for various business and technical applications.
 
-5. **11:09am - Segment 3: GitHub Copilot Hands-On (60 mins)**  
-   - Key features of GitHub Copilot
-   - VS Code setup and environment configuration
-   - Code generation and use cases  
-   - **12:00pm - 9-min break**
+### AI-Powered Research & Search Interfaces
 
-6. **12:09pm - Course Wrap-Up (20 mins)**  
-   - Review of main concepts, resources, and next steps.
+- **[Perplexity AI](https://www.perplexity.ai/)** - AI-powered search and research assistant, allowing you to quickly get answers across web sources.
+- **[Backplain.ai](https://backplain.ai/)** - A search and summarization tool using AI to retrieve and distill information efficiently.
+- **[Noi](https://noi.ai/)** - LLM-powered interface for understanding and answering complex queries with natural language.
 
-7. **01:00pm - Finish**
+### Education & Learning Resources
+
+- **[Timothy Warner’s GitHub](https://github.com/timothy-warner)** - A collection of Tim Warner’s projects and resources.
+- **[Microsoft Press Courses](https://www.microsoftpressstore.com/)** - In-depth courses on AI, cloud, and technical topics, authored by Tim.
+- **[GitHub Next](https://githubnext.com/)** - Experimental GitHub projects and features under development, including AI tools for developers.
 
 ---
 
-Happy learning and coding! 👨‍💻👩‍💻
+*For more information or personalized guidance, please feel free to reach out to Tim.* 
+
+
+---
+
+## 🗂 Class Schedule & Table of Contents 📑
+
+1. **08:30am - Soundcheck**
+2. **09:00am - Start**
+   - **Intro & Setup (20 mins)**: Overview of AI tools and setup
+3. **09:20am - Segment 1: AI Foundations (60 mins)**
+   - Business applications for AI
+   - Distinction between AI and ML
+   - Overview of ChatGPT and GitHub Copilot capabilities
+4. **10:30am - Segment 2: Hands-On Labs (60 mins)**
+   - Setting up GitHub Copilot in your IDE
+   - ChatGPT basics and prompt engineering
+5. **11:30am - Segment 3: Advanced Topics (60 mins)**
+   - Customizing GitHub Copilot for projects
+   - Integrating OpenAI APIs for enhanced functionality
+
+> **Note**: This schedule is subject to adjustments based on class needs.
+
+---
+
+*License*: This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
