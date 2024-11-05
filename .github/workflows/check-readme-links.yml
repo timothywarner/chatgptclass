@@ -2,9 +2,9 @@ name: Link Checker
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
+ # push:
+ #   branches:
+ #     - main
   
 jobs:
   link-check:
