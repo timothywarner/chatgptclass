@@ -17,8 +17,8 @@ jobs:
     - name: Run markdown-link-check on README.md
       uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
-        configuration-file: .github/markdown-link-check-config.json
-        folder-path: ./README.md
+        config-file: .github/markdown-link-check-config.json
+        file-path: ./README.md
 
     - name: Check for broken links
       run: |
