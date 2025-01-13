@@ -162,3 +162,54 @@
 - Practice exercises
 - Documentation links
 - Community resources
+
+## 📚 Essential Resources
+
+### OpenAI Resources
+- [ChatGPT API Documentation](https://platform.openai.com/docs/api-reference/chat)
+- [GPT-4 Overview](https://platform.openai.com/docs/models/gpt-4)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [OpenAI Platform Status](https://status.openai.com/)
+- [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [Assistants API Guide](https://platform.openai.com/docs/assistants/overview)
+- [Custom GPT Development](https://platform.openai.com/docs/gpts/overview)
+- [Function Calling Guide](https://platform.openai.com/docs/guides/function-calling)
+
+### GitHub Copilot Resources
+- [Copilot Documentation](https://docs.github.com/en/copilot)
+- [Copilot Enterprise Guide](https://docs.github.com/en/enterprise-cloud@latest/copilot)
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Copilot Chat Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- [Copilot Labs Features](https://githubnext.com/projects/copilot-labs/)
+- [GitHub Next Projects](https://githubnext.com/)
+- [Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
+- [Prompt Engineering Guide](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
+
+### Azure AI Integration
+- [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+- [Azure OpenAI Studio](https://oai.azure.com/)
+- [Pricing Calculator](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
+- [Enterprise Deployment Guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/enterprise-deployment-guide)
+
+### Related Course Repositories
+[![GitHub](https://img.shields.io/badge/Repository-ChatGPTClass-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/chatgptclass)
+[![GitHub](https://img.shields.io/badge/Repository-CopilotAIO-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/copilotaio)
+[![GitHub](https://img.shields.io/badge/Repository-OpenAI%20Chat-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/openai-chat)
+[![GitHub](https://img.shields.io/badge/Repository-Copilot%20Playground-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/copilot-playground)
+[![GitHub](https://img.shields.io/badge/Repository-DemoKB-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/demokb)
+
+### Community Resources
+- [OpenAI Developer Forum](https://community.openai.com/)
+- [GitHub Copilot Discussion](https://github.com/community/community/discussions/categories/copilot)
+- [Azure OpenAI Tech Community](https://techcommunity.microsoft.com/t5/azure-ai-services/bd-p/AzureAIServices)
+- [Tim's Azure OpenAI Blog](https://azureopenai.blog/)
+
+### Latest Features & Updates
+- [OpenAI API Changelog](https://platform.openai.com/docs/changelog)
+- [GitHub Copilot Updates](https://github.blog/tag/github-copilot/)
+- [Azure OpenAI Updates](https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new)
+
+### Security & Compliance
+- [OpenAI Security Guide](https://platform.openai.com/docs/guides/safety-best-practices)
+- [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
+- [Azure AI Security](https://learn.microsoft.com/en-us/azure/ai-services/openai/security-features)

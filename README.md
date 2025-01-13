@@ -4,13 +4,25 @@
 
 ---
 
-## 🔗 Related Repositories
+## 🔗 Related Repositories & Resources
 
+### Course Materials
+[![GitHub](https://img.shields.io/badge/Repository-ChatGPTClass-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/chatgptclass)
 [![GitHub](https://img.shields.io/badge/Repository-CopilotAIO-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/copilotaio)
+[![GitHub](https://img.shields.io/badge/Repository-OpenAI%20Chat-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/openai-chat)
 [![GitHub](https://img.shields.io/badge/Repository-Copilot%20Playground-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner/copilot-playground)
 [![GitHub](https://img.shields.io/badge/Repository-DemoKB-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/demokb)
-[![GitHub](https://img.shields.io/badge/Repository-GitHub%20Copilot%20Healthcare%20Training-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/github-copilot-healthcare-training)
-[![GitHub](https://img.shields.io/badge/Repository-Copilot-blue?style=for-the-badge&logo=github)](https://github.com/timothywarner-org/copilot)
+
+### Official Documentation
+[![OpenAI](https://img.shields.io/badge/OpenAI%20Docs-412991?style=for-the-badge&logo=openai)](https://platform.openai.com/docs)
+[![GitHub](https://img.shields.io/badge/Copilot%20Docs-181717?style=for-the-badge&logo=github)](https://docs.github.com/copilot)
+[![Azure](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure)](https://learn.microsoft.com/azure/ai-services/openai/)
+
+### Latest Features
+[![GPT-4](https://img.shields.io/badge/GPT--4-00A67E?style=for-the-badge&logo=openai)](https://platform.openai.com/docs/models/gpt-4)
+[![Assistants](https://img.shields.io/badge/Assistants%20API-412991?style=for-the-badge&logo=openai)](https://platform.openai.com/docs/assistants/overview)
+[![GPT Store](https://img.shields.io/badge/GPT%20Store-412991?style=for-the-badge&logo=openai)](https://chat.openai.com/gpts)
+[![Copilot Enterprise](https://img.shields.io/badge/Copilot%20Enterprise-181717?style=for-the-badge&logo=github)](https://docs.github.com/en/enterprise-cloud@latest/copilot)
 
 ---
 
@@ -24,51 +36,34 @@
 
 ---
 
-## 📚 Key Resources and Links
+## 📚 Essential Resources
 
-### 🤖 Responsible AI Resources
-
-- **[OpenAI Safety & Responsibility](https://openai.com/safety)** - OpenAI's principles and practices for responsible AI development
-- **[Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)** - Microsoft's comprehensive approach to ethical AI
-- **[Responsible AI White Paper](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/02/The-new-Bing-Our-approach-to-Responsible-AI.pdf)** - Detailed insights into Microsoft's AI ethics
-
-### AI Model Documentation & APIs
-
-- **[OpenAI Documentation](https://platform.openai.com/docs/)** - Official documentation for ChatGPT and OpenAI’s API capabilities.
-- **[GitHub Copilot Documentation](https://docs.github.com/en/copilot)** - Comprehensive guide on using GitHub Copilot, including setup and feature details.
-- **[Anthropic Claude](https://www.anthropic.com/)** - Explore the Claude LLM developed by Anthropic, aimed at safe and controllable AI interactions.
-- **[Google Gemini](https://cloud.google.com/)** - Google’s Gemini LLM, integrated into Google Cloud for various business and technical applications.
+### OpenAI Resources
+- [ChatGPT API Documentation](https://platform.openai.com/docs/api-reference/chat)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [Platform Status](https://status.openai.com/)
+- [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [Custom GPT Development](https://platform.openai.com/docs/gpts/overview)
+- [Function Calling Guide](https://platform.openai.com/docs/guides/function-calling)
 
 ### GitHub Copilot Resources
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Copilot Chat Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- [Copilot Labs Features](https://githubnext.com/projects/copilot-labs/)
+- [Trust Center](https://resources.github.com/copilot-trust-center/)
+- [Prompt Engineering Guide](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 
-- **[GitHub Copilot Business](https://docs.github.com/en/enterprise-cloud@latest/copilot/overview-of-github-copilot/about-github-copilot-business)** - Enterprise features and capabilities
-- **[Copilot Trust Center](https://resources.github.com/copilot-trust-center/)** - Security and compliance information
-- **[VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)** - Official Copilot extension
-- **[Copilot Chat Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)** - Interactive AI assistance
-- **[Training Resources](https://learn.microsoft.com/en-us/training/paths/copilot/)** - Official Microsoft Copilot training
+### Azure Integration
+- [Azure OpenAI Service](https://learn.microsoft.com/azure/ai-services/openai/)
+- [Azure OpenAI Studio](https://oai.azure.com/)
+- [Enterprise Guide](https://learn.microsoft.com/azure/ai-services/openai/concepts/enterprise-deployment-guide)
 
-### Azure & Microsoft AI Services
-
-- **[Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service)** - Enterprise-grade AI models
-- **[Microsoft Copilot Studio](https://www.microsoft.com/en-us/copilot/microsoft-copilot-studio)** - Build custom AI solutions
-- **[Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro)** - Premium AI assistance features
-
-### AI-Powered Research & Search Interfaces
-
-- **[Perplexity AI](https://www.perplexity.ai/)** - AI-powered search and research assistant, allowing you to quickly get answers across web sources.
-- **[Backplain.ai](https://backplain.ai/)** - A search and summarization tool using AI to retrieve and distill information efficiently.
-- **[Noi](https://noi.ai/)** - LLM-powered interface for understanding and answering complex queries with natural language.
-
-### Education & Learning Resources
-
-- **[Timothy Warner’s GitHub](https://github.com/timothy-warner)** - A collection of Tim Warner’s projects and resources.
-- **[Microsoft Press Courses](https://www.microsoftpressstore.com/)** - In-depth courses on AI, cloud, and technical topics, authored by Tim.
-- **[GitHub Next](https://githubnext.com/)** - Experimental GitHub projects and features under development, including AI tools for developers.
-
----
-
-*For more information or personalized guidance, please feel free to reach out to Tim.* 
-
+### Community & Updates
+- [OpenAI Developer Forum](https://community.openai.com/)
+- [GitHub Copilot Discussion](https://github.com/community/community/discussions/categories/copilot)
+- [Azure OpenAI Community](https://techcommunity.microsoft.com/t5/azure-ai-services/bd-p/AzureAIServices)
+- [OpenAI Changelog](https://platform.openai.com/docs/changelog)
+- [Copilot Updates](https://github.blog/tag/github-copilot/)
 
 ---
 
@@ -89,6 +84,25 @@
    - Integrating OpenAI APIs for enhanced functionality
 
 > **Note**: This schedule is subject to adjustments based on class needs.
+
+---
+
+## 🔒 Prerequisites & Setup
+
+### Required Accounts
+- Free or paid OpenAI account (for ChatGPT)
+- GitHub account (for Copilot)
+- Visual Studio Code installed
+
+### Recommended Extensions
+- GitHub Copilot
+- GitHub Copilot Chat
+- GitHub Copilot Labs (optional)
+
+### Optional Preparation
+- Basic programming knowledge
+- Familiarity with VS Code
+- Understanding of API concepts
 
 ---
 
