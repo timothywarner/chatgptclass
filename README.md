@@ -1,4 +1,6 @@
-# 📘 ChatGPT and GitHub Copilot Quick Start for Developers and Professionals 🚀
+# 📘 ChatGPT and GitHub Copilot in 4 Hours 🚀
+
+<img src="chatgpt-cover-slide.png" alt="Course Cover Slide" width="800"/>
 
 ---
 
@@ -24,12 +26,32 @@
 
 ## 📚 Key Resources and Links
 
+### 🤖 Responsible AI Resources
+
+- **[OpenAI Safety & Responsibility](https://openai.com/safety)** - OpenAI's principles and practices for responsible AI development
+- **[Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)** - Microsoft's comprehensive approach to ethical AI
+- **[Responsible AI White Paper](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/02/The-new-Bing-Our-approach-to-Responsible-AI.pdf)** - Detailed insights into Microsoft's AI ethics
+
 ### AI Model Documentation & APIs
 
 - **[OpenAI Documentation](https://platform.openai.com/docs/)** - Official documentation for ChatGPT and OpenAI’s API capabilities.
 - **[GitHub Copilot Documentation](https://docs.github.com/en/copilot)** - Comprehensive guide on using GitHub Copilot, including setup and feature details.
 - **[Anthropic Claude](https://www.anthropic.com/)** - Explore the Claude LLM developed by Anthropic, aimed at safe and controllable AI interactions.
 - **[Google Gemini](https://cloud.google.com/)** - Google’s Gemini LLM, integrated into Google Cloud for various business and technical applications.
+
+### GitHub Copilot Resources
+
+- **[GitHub Copilot Business](https://docs.github.com/en/enterprise-cloud@latest/copilot/overview-of-github-copilot/about-github-copilot-business)** - Enterprise features and capabilities
+- **[Copilot Trust Center](https://resources.github.com/copilot-trust-center/)** - Security and compliance information
+- **[VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)** - Official Copilot extension
+- **[Copilot Chat Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)** - Interactive AI assistance
+- **[Training Resources](https://learn.microsoft.com/en-us/training/paths/copilot/)** - Official Microsoft Copilot training
+
+### Azure & Microsoft AI Services
+
+- **[Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service)** - Enterprise-grade AI models
+- **[Microsoft Copilot Studio](https://www.microsoft.com/en-us/copilot/microsoft-copilot-studio)** - Build custom AI solutions
+- **[Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro)** - Premium AI assistance features
 
 ### AI-Powered Research & Search Interfaces
 
