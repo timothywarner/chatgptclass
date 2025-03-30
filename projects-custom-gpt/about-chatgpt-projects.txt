@@ -1,0 +1,117 @@
+ChatGPT Projects: A Guide With Examples
+Learn to create and manage ChatGPT projects with features like custom instructions and file uploads, improving project management and organization in ChatGPT.
+Dec 19, 2024
+ · 6 min read
+Contents
+How to Create a ChatGPT Project
+How to Add Files to a ChatGPT Project
+How to Set Custom Instructions for a ChatGPT Project
+My Experience With ChatGPT Projects
+Additional ChatGPT Projects Tips
+Organizing existing chats
+Managing files and chats
+Feature limitations
+Conclusion
+On day seven of the 12 days of OpenAI event, OpenAI announced ChatGPT Projects.
+
+ChatGPT Projects was a highly requested feature. This new functionality allows us to create dedicated project spaces to group related files and conversations. Within each project, we can set custom instructions to tailor ChatGPT’s responses specific to the context of that project. 
+
+In this article, I will walk you through how to create ChatGPT projects step by step, explore how to manage them, and share practical examples of how this feature can improve productivity and organization in both collaborative and personal tasks.
+
+Your Introduction to ChatGPT
+Enhance your capabilities with ChatGPT—no experience needed.
+How to Create a ChatGPT Project
+At the time of writing this article, the projects feature is available exclusively to subscribers and accessible only through the browser. If you have a ChatGPT subscription, you can create a ChatGPT project by following the steps below:
+
+1. Access the ChatGPT web page and look for the "Projects" section on the top-left of the page.
+
+Creating a ChatGPT project
+
+2. Click the "+" button to create a new project.
+
+3. Give the project a name and click "Create Project."
+
+Naming a ChatGPT project.
+
+How to Add Files to a ChatGPT Project
+One useful feature of ChatGPT Projects is that the chat within a specific project can access the files you upload, making them available throughout the entire project.
+
+To add files, click "Add files" to upload any data files or scripts you'll need for your data analysis. For instance, you might upload a CSV file of sales data and a Python script for analysis.
+
+Add files to a ChatGPT project
+
+Note that the chat window also has the ability to attach files by clicking the attachment icon at the bottom of the chatbox. The difference is that these are specific to the conversation, while the others are available globally to the project. 
+
+How to Set Custom Instructions for a ChatGPT Project
+One of the most useful features of projects is the ability to configure ChatGPT’s behavior by specifying instructions. For example, we use it to set the tone and language, or if we’re working on a code project, we can specify which libraries we are using. This can save us a ton of time because we won’t be required to keep specifying these details in each message we send.
+
+To set custom instructions, click the “Add instructions” button to provide specific guidance on how ChatGPT should assist with your project. For instance, you could specify, “Focus on data cleaning and visualization tips using Python.”
+
+Setting custom instructions on a ChatGPT project.
+
+My Experience With ChatGPT Projects
+To test the new ChatGPT Projects feature, I decided to create a project to build a simple personal website. To start, I created a new project named "Personal Website." Then, I uploaded a style guide and my CV as PDF files.
+
+I also added these instructions: "You're a web developer helping someone with no experience create their personal website. Keep it simple and use only HTML, CSS, and JavaScript. It's a front-end only website. Make sure to follow the provided style guide. Use the information on the CV to populate the pages."
+
+I then started a new conversation with the following prompt:
+
+"Create the landing page for my personal website."
+
+It opened the ChatGPT Canvas editor and created an index.html file. The overall structure and content were solid, but it lacked any styling. To address this, I started a new chat and asked it to create styles for the website using the following prompt:
+
+"Create a style CSS file for the website."
+
+ChatGPT responded with CSS styles, but they didn’t align with the style guidelines at all. I realized this might be because I had initially uploaded an image instead of a PDF, making it difficult for ChatGPT to read the style guide. To resolve this, I uploaded the DataCamp style guide as a PDF to see if it would work better.
+
+The result was much better, and it used colors from the style guide. However, they were not the ones I wanted. To fix this, I created a third chat and asked it to list the colors in the style guide, then specified my favorite ones.
+
+ChatGPT project memory example.
+
+ChatGPT took note of my preferences, and when I asked it to regenerate the style file, it worked!
+
+I decided to add another section to my work experience, including the articles I wrote for DataCamp that were not listed in my CV. I opened a new chat and asked ChatGPT to perform a web search and find the articles with my name on DataCamp. It found a few, although it included one I didn't author, which I asked to be removed.
+
+Finally, I went back to the Canvas conversation on HTML and asked it to integrate the articles into the HTML. However, it kept failing to find them even though the conversation was part of the same project. I had to manually copy and paste this list from one conversation into another.
+
+Here’s the final result:
+
+
+
+Positives
+Projects allow users to keep related files and conversations together, making it easier to manage and retrieve specific information.
+Custom instructions within each project provide flexibility, letting users dictate the tone, focus, and format of responses, thereby enhancing usability for various tasks.
+Custom instructions are also great when working with code. For example, if we're using pandas in our project, we can let it know that this project uses pandas and avoid having to constantly repeat that we want a pandas solution.
+By grouping related tasks, chats, and files, we can improve our workflows, saving time and reducing the cognitive load associated with switching between different tasks and datasets.
+While currently intended for individual use, the feature sets the groundwork for potential collaborative opportunities as users become familiar with the organizational benefits.
+I can see ChatGPT projects being very useful for long ongoing tasks. I often find myself having long, unfinished chats that I want to get back to, only to then forget where they were.
+Negatives
+When a new conversation is created, it doesn't immediately appear in the project. It only shows after I refresh the page or create a new one. This seems like a bug to me.
+ChatGPT sometimes fails to see relevant information from other conversations within the project. If this happens even in small projects, I imagine that information can easily get lost in a very large project.
+I wish that the files it generates would become project files. I think this would make it easier to ensure that relevant information is taken into account.
+For a code project, I think that having the AI integrated with the code editor (similar to Cursor AI) is much more practical than copying and pasting code back and forth.
+Additional ChatGPT Projects Tips
+Organizing existing chats
+You can move existing chats into a project in two ways:
+
+Drag and drop a conversation into the project folder.
+Locate a previous conversation, click the three dots, and select “Add to project.”
+Managing files and chats
+To keep your project organized, you can delete unnecessary files or move chats out of the project if they’re no longer relevant. If a project is complete and no longer needed, you can delete it by clicking the dots next to the project name and selecting “Delete project.” Be cautious, as deleting a project will permanently remove all associated files and chats.
+
+Feature limitations
+Currently, ChatGPT Projects are limited to GPT-4o. However, features like Canvas and advanced data analysis are available, allowing you to perform tasks such as data analysis directly within your project.
+
+These tips can help you make the most of ChatGPT Projects while maintaining a clean and organized workspace.
+
+Conclusion
+My experience with ChatGPT Projects has been a mix of pros and cons. The ability to organize information and tailor AI responses based on uploaded files and custom instructions has been particularly useful.
+
+However, I encountered some limitations, including a lack of continuity between conversations and occasional failures to reference relevant information within the project.
+
+Despite these issues, I believe ChatGPT Projects has the potential to greatly improve productivity and streamline workflows, particularly for recurring tasks.
+
+François Aubry's photo
+Author
+François Aubry
+Full-stack engineer & founder at CheapGPT. Teaching has always been my passion. From my early days as a student, I eagerly sought out opportunities to tutor and assist other students. This passion led me to pursue a PhD, where I also served as a teaching assistant to support my academic endeavors. During those years, I found immense fulfillment in the traditional classroom setting, fostering connections and facilitating learning. However, with the advent of online learning platforms, I recognized the transformative potential of digital education. In fact, I was actively involved in the development of one such platform at our university. I am deeply committed to integrating traditional teaching principles with innovative digital methodologies. My passion is to create courses that are not only engaging and informative but also accessible to learners in this digital age.

@@ -68,20 +68,71 @@
 
 ## 🔒 Prerequisites & Setup
 
-### Required Accounts
-- Free or paid OpenAI account (for ChatGPT)
-- GitHub account (for Copilot)
-- Visual Studio Code installed
+### Required Accounts & Software
+- **OpenAI Account**
+  - [Sign up for OpenAI](https://platform.openai.com/signup)
+  - [ChatGPT Plus subscription](https://chat.openai.com/upgrade) (recommended for GPT-4 access)
+  - [OpenAI API key setup](https://platform.openai.com/api-keys)
+
+- **GitHub Account**
+  - [Create a GitHub account](https://github.com/signup)
+  - [GitHub Copilot subscription](https://github.com/features/copilot)
+  - [GitHub Student Developer Pack](https://education.github.com/pack) (if eligible)
+
+- **Visual Studio Code**
+  - [Download VS Code](https://code.visualstudio.com/download)
+  - [VS Code Quick Start Guide](https://code.visualstudio.com/docs/getstarted/introvideos)
+  - [VS Code Tips & Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 ### Recommended Extensions
-- GitHub Copilot
-- GitHub Copilot Chat
-- GitHub Copilot Labs (optional)
+- **GitHub Copilot Extensions**
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+  - [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+  - [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+
+- **VS Code Productivity Extensions**
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ### Optional Preparation
-- Basic programming knowledge
-- Familiarity with VS Code
-- Understanding of API concepts
+- **Programming Fundamentals**
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+  - [freeCodeCamp](https://www.freecodecamp.org/)
+  - [Codecademy](https://www.codecademy.com/)
+
+- **VS Code Mastery**
+  - [VS Code Can Do That?](https://vscodecandothat.com/)
+  - [VS Code Keyboard Shortcuts](https://code.visualstudio.com/docs/getstarted/keybindings)
+  - [VS Code User Guide](https://code.visualstudio.com/docs/getstarted/userinterface)
+
+- **API Concepts**
+  - [What is an API?](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
+  - [REST API Tutorial](https://restfulapi.net/)
+  - [API Design Best Practices](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/)
+
+### System Requirements
+- **Operating System**
+  - Windows 10/11, macOS 10.15+, or Linux
+  - [Check your system compatibility](https://code.visualstudio.com/docs/supporting/requirements)
+
+- **Hardware**
+  - Minimum 4GB RAM (8GB recommended)
+  - 2GB free disk space
+  - Internet connection required
+
+### Pre-course Checklist
+- [ ] Create OpenAI account and verify email
+- [ ] Set up GitHub account and enable 2FA
+- [ ] Install VS Code and recommended extensions
+- [ ] Test GitHub Copilot access
+- [ ] Complete VS Code tutorial
+- [ ] Review basic programming concepts
+
+### Getting Help
+- [GitHub Copilot Support](https://docs.github.com/en/copilot)
+- [VS Code Help](https://code.visualstudio.com/docs/supporting/help)
+- [OpenAI Help Center](https://help.openai.com/)
 
 ---
 
