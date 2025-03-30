@@ -1,0 +1,45 @@
+# Common secret pattern identifiers
+# API Keys and Tokens
+api_key
+apikey
+api_secret
+api_token
+access_token
+auth_token
+client_secret
+client_id
+password
+secret
+token
+private_key
+secret_key
+
+# Common AWS patterns
+AKIA[0-9A-Z]{16}
+aws_access_key_id
+aws_secret_access_key
+
+# Common Azure patterns
+ConnectionStrings
+AccountKey=
+
+# Database connection strings
+mongodb://
+postgresql://
+mysql://
+redis://
+jdbc:
+
+# Private keys and certificates
+BEGIN RSA PRIVATE KEY
+BEGIN PRIVATE KEY
+BEGIN PGP PRIVATE KEY
+BEGIN DSA PRIVATE KEY
+BEGIN EC PRIVATE KEY
+BEGIN CERTIFICATE
+
+# Other common secrets
+authorization:
+Authorization:
+stripe_api_key
+STRIPE_SECRET_KEY 
