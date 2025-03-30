@@ -4,5 +4,132 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		// Example GitHub Copilot Settings (commented out for teaching purposes)
+		// These settings demonstrate best practices for GitHub Copilot configuration
+		/*
+		"github.copilot": {
+			// Enable inline suggestions
+			"inlineSuggest.enable": true,
+			
+			// Configure suggestion behavior
+			"suggestMode": "inline",
+			"suggestionDelay": 100,
+			"suggestionTimeout": 5000,
+			
+			// Language-specific settings
+			"language": {
+				"typescript": {
+					"enableAutoCompletions": true,
+					"enableGhostText": true
+				},
+				"python": {
+					"enableAutoCompletions": true,
+					"enableGhostText": true
+				}
+			},
+			
+			// Editor-specific settings
+			"editor": {
+				"inlineSuggest.enable": true,
+				"inlineSuggest.showToolbar": true,
+				"inlineSuggest.showIcons": true
+			},
+			
+			// Advanced settings
+			"advanced": {
+				"debug.overrideEngine": "davinci",
+				"debug.testOverrideProxyUrl": false,
+				"debug.overrideProxyUrl": "",
+				"debug.overrideProxyUrlWith": ""
+			},
+			
+			// Security settings
+			"security": {
+				"enableTelemetry": true,
+				"enableCrashReporting": true,
+				"enableUsageData": true
+			},
+			
+			// Performance settings
+			"performance": {
+				"maxCompletionsPerRequest": 5,
+				"maxTokensPerCompletion": 100,
+				"requestTimeout": 10000
+			}
+		},
+		*/
+		
+		// Example Copilot Chat settings (commented out for teaching purposes)
+		/*
+		"github.copilot.chat": {
+			// Chat window settings
+			"window": {
+				"position": "right",
+				"width": 400,
+				"height": 600
+			},
+			
+			// Chat behavior settings
+			"behavior": {
+				"autoScroll": true,
+				"showTimestamps": true,
+				"showUserAvatars": true
+			},
+			
+			// Code generation settings
+			"codeGeneration": {
+				"includeComments": true,
+				"includeTests": true,
+				"includeDocumentation": true
+			},
+			
+			// Context settings
+			"context": {
+				"includeFileContent": true,
+				"includeSelection": true,
+				"includeCursorPosition": true
+			}
+		},
+		*/
+		
+		// Example Copilot Ignore settings (commented out for teaching purposes)
+		/*
+		"github.copilot.ignore": {
+			// File patterns to ignore
+			"files": [
+				"**/*.min.js",
+				"**/*.map",
+				"**/node_modules/**",
+				"**/dist/**",
+				"**/build/**"
+			],
+			
+			// Directory patterns to ignore
+			"directories": [
+				"node_modules",
+				"dist",
+				"build",
+				".git",
+				"coverage"
+			],
+			
+			// Language-specific ignores
+			"languages": {
+				"typescript": {
+					"ignorePatterns": [
+						"**/*.d.ts",
+						"**/*.min.js"
+					]
+				},
+				"python": {
+					"ignorePatterns": [
+						"**/*.pyc",
+						"**/__pycache__/**"
+					]
+				}
+			}
+		}
+		*/
+	}
 }

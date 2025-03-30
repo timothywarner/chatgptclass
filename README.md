@@ -15,7 +15,7 @@
 
 ### Official Documentation
 [![OpenAI](https://img.shields.io/badge/OpenAI%20Docs-412991?style=for-the-badge&logo=openai)](https://platform.openai.com/docs)
-[![GitHub](https://img.shields.io/badge/Copilot%20Docs-181717?style=for-the-badge&logo=github)](https://docs.github.com/copilot)
+[![GitHub](https://img.shields.io/badge/Copilot%20Docs-181717?style=for-the-badge&logo=github)](https://docs.github.com/en/copilot)
 [![Azure](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure)](https://learn.microsoft.com/azure/ai-services/openai/)
 
 ### Latest Features
@@ -28,9 +28,8 @@
 
 ## 📞 Contact Tim Warner
 
-- **Email**: [timothywarner316@gmail.com](mailto:timothywarner316@gmail.com)
+- **Website**: [TechTrainerTim.com](https://techtrainertim.com)
 - **LinkedIn**: [Timothy Warner](https://www.linkedin.com/in/timothywarner/)
-- **Website**: [Tech Trainer Tim](https://techtrainertim.com)
 - **Azure OpenAI Blog**: [azureopenai.blog](https://azureopenai.blog)
 - **Social Media**: [Bluesky](https://bsky.app/profile/techtrainertim.bsky.social) | [Mastodon](https://mastodon.social/@techtrainertim)
 
@@ -64,26 +63,6 @@
 - [Azure OpenAI Community](https://techcommunity.microsoft.com/t5/azure-ai-services/bd-p/AzureAIServices)
 - [OpenAI Changelog](https://platform.openai.com/docs/changelog)
 - [Copilot Updates](https://github.blog/tag/github-copilot/)
-
----
-
-## 🗂 Class Schedule & Table of Contents 📑
-
-1. **08:30am - Soundcheck**
-2. **09:00am - Start**
-   - **Intro & Setup (20 mins)**: Overview of AI tools and setup
-3. **09:20am - Segment 1: AI Foundations (60 mins)**
-   - Business applications for AI
-   - Distinction between AI and ML
-   - Overview of ChatGPT and GitHub Copilot capabilities
-4. **10:30am - Segment 2: Hands-On Labs (60 mins)**
-   - Setting up GitHub Copilot in your IDE
-   - ChatGPT basics and prompt engineering
-5. **11:30am - Segment 3: Advanced Topics (60 mins)**
-   - Customizing GitHub Copilot for projects
-   - Integrating OpenAI APIs for enhanced functionality
-
-> **Note**: This schedule is subject to adjustments based on class needs.
 
 ---
 
