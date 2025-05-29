@@ -1,123 +1,100 @@
 # 🚀 ChatGPT and GitHub Copilot 4-Hour Course Plan
 
-## 🎯 Segment 1: ChatGPT Basics
+## 🎯 Segment 1: ChatGPT Basics (60 min)
 
-- Core Features
+**Setup** (10 min)
+- Free vs Plus ($20/mo)
+- GPT-4o vs o1-preview
+- Canvas mode
 
-  - Chat interface
-  - Prompt basics
-  - File handling
-  - Memory features
-  - Temporary chats
+**Core Skills** (20 min)
+- Upload files (PDF, CSV, images)
+- Web search
+- DALL-E 3 images
+- Voice mode
 
-- Projects
+**Prompting** (20 min)
+- Be specific
+- Give examples
+- Set format: "Give me a table"
+- Chain tasks: "First X, then Y"
 
-  - Organization
-  - Memory
-  - Analysis
+**Lab 1** (10 min)
+- Upload employee.csv
+- "Analyze this data"
+- "Create a summary report"
 
-- Account Setup
+## 🔄 Segment 2: ChatGPT Advanced (60 min)
 
-  - Free vs Plus
-  - Models (3.5/4)
-  - Settings
+**Custom GPTs** (20 min)
+- GPT Store
+- Build your own
+- Add knowledge files
+- Connect APIs
 
-- Ethical AI and Bias Mitigation
-  - Responsible usage
-  - Avoiding bias in AI models
+**API** (20 min)
+- Get API key
+- $5 free credit
+- Copy/paste Python code
+- Function calling
 
-## 🔄 Segment 2: ChatGPT Advanced
+**Pro Tips** (10 min)
+- JSON mode
+- System prompts
+- Temperature = creativity
+- Canvas for coding
 
-- GPT Store & Integration
+**Lab 2** (10 min)
+- Build "SQL Helper" GPT
+- Upload schema.sql
+- Test queries
 
-  - Browse GPTs
-  - Use cases
-  - @mention to invoke GPTs
-  - Voice capabilities
+## 🤖 Segment 3: GitHub Copilot Basics (60 min)
 
-- Custom GPTs
+**Setup** (15 min)
+- Install VS Code extension
+- Free tier: 2000/month
+- Pick model: GPT-4o or Claude
+- Claude Code setup
 
-  - Builder interface
-  - Knowledge bases
-  - Actions
+**Core** (25 min)
+- Tab = accept
+- Alt+\ = trigger
+- Comments → code
+- Ctrl+I = inline chat
 
-- API Integration
+**Chat** (10 min)
+- /explain
+- /fix
+- /test
+- @workspace
 
-  - Keys/auth
-  - Functions
-  - Files
+**Lab 3** (10 min)
+- Write function with comment
+- Generate tests
+- Fix bugs
 
-- Prompt Techniques
+## 🚀 Segment 4: Copilot Advanced (60 min)
 
-  - System prompts
-  - Chain-of-thought
-  - Code execution
-  - Few-shot examples
-  - Step-by-step instructions
-  - Explicit constraints
-  - Delimiters for segmentation
+**Agent Mode** (20 min)
+- Autonomous coding
+- Fixes own errors
+- Multi-file edits
+- "Build me a REST API"
 
-- Accessibility Features
-  - Writing accessible code
-  - Improving accessibility with AI tools
+**MCP** (15 min)
+- Connect external tools
+- GitHub MCP server
+- Access databases
+- Read documentation
 
-## 🤖 Segment 3: GitHub Copilot Basics
+**Enterprise** (15 min)
+- $39/user/month
+- Content exclusions
+- Audit logs
+- IP protection
 
-- Setup and Installation
-
-  - Enabling Copilot in VS Code
-  - Configuring settings
-
-- Core Features
-
-  - Autocomplete
-  - Inline suggestions
-  - Code generation
-
-- Customization
-
-  - Adjusting Copilot behavior
-  - Using comments for guidance
-  - Custom instructions for tailored completions
-
-- Extensions and Slash Commands
-
-  - Installing and managing Copilot extensions
-  - Using slash commands in Ask and Edit mode
-
-- Practical Examples
-
-  - Writing functions
-  - Refactoring code
-  - Debugging with Copilot
-
-- Governance Frameworks
-  - Managing Copilot usage in organizations
-  - Strategies for effective governance
-
-## 🚀 Segment 4: GitHub Copilot Advanced
-
-- Advanced Features
-
-  - Multi-line completions
-  - Context-aware suggestions
-  - Working with large codebases
-
-- MCP and Agent Mode
-
-  - Model Context Protocol (MCP) overview
-  - Using Copilot in agent mode for task automation
-
-- Integration
-
-  - GitHub Enterprise Cloud (GHEC) integration
-  - Leveraging Copilot with CLI tools
-
-- Metrics and APIs
-
-  - Using metrics API for performance tracking
-  - Understanding SKUs and plans
-
-- Competitive Landscape
-  - Comparing Copilot with competitors
-  - Governance and best practices
+**Lab 4** (10 min)
+- Agent: "Add auth to this API"
+- Watch it work
+- Review changes
