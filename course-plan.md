@@ -1,100 +1,155 @@
-# 🚀 ChatGPT and GitHub Copilot 4-Hour Course Plan
+# 🚀 ChatGPT + GitHub Copilot [4 HOURS]
 
-## 🎯 Segment 1: ChatGPT Basics (60 min)
+## 🟦 HOUR 1: ChatGPT Basics
 
-**Setup** (10 min)
-- Free vs Plus ($20/mo)
-- GPT-4o vs o1-preview
-- Canvas mode
+### ⚡ Setup (10m)
+```
+Free → Plus ($20)
+GPT-4o → o1 (reasoning)
+Canvas = coding mode
+```
 
-**Core Skills** (20 min)
-- Upload files (PDF, CSV, images)
-- Web search
-- DALL-E 3 images
-- Voice mode
+### 🎯 Core (20m)
+```
+📎 Upload: PDF/CSV/IMG
+🔍 Web search
+🎨 DALL-E 3
+🎙️ Voice mode
+👥 Projects (share!)
+⚙️ Custom Instructions
+```
 
-**Prompting** (20 min)
-- Be specific
-- Give examples
-- Set format: "Give me a table"
-- Chain tasks: "First X, then Y"
+### 💬 Prompting (20m)
+```
+BE SPECIFIC
+"Give me a table"
+"First X, then Y"
+Show examples
+```
 
-**Lab 1** (10 min)
-- Upload employee.csv
-- "Analyze this data"
-- "Create a summary report"
+### 🧪 LAB 1 (10m)
+```
+→ employee.csv
+→ "Analyze this"
+→ "Summary report"
+```
 
-## 🔄 Segment 2: ChatGPT Advanced (60 min)
+---
 
-**Custom GPTs** (20 min)
-- GPT Store
-- Build your own
-- Add knowledge files
-- Connect APIs
+## 🟧 HOUR 2: ChatGPT Pro
 
-**API** (20 min)
-- Get API key
-- $5 free credit
-- Copy/paste Python code
-- Function calling
+### 🤖 Custom GPTs (20m)
+```
+GPT Store 🏪
+Build → Configure → Publish
++ Knowledge files
++ API actions
+```
 
-**Pro Tips** (10 min)
-- JSON mode
-- System prompts
-- Temperature = creativity
-- Canvas for coding
+### 🔌 API (20m)
+```
+$5 credit 💵
+Copy Python code
+Function calling
+JSON mode
+```
 
-**Lab 2** (10 min)
-- Build "SQL Helper" GPT
-- Upload schema.sql
-- Test queries
+### 🚁 MS Copilot & MCP (10m)
+```
+Copilot Studio
+MCP = plugins
+GitHub server
+External tools
+```
 
-## 🤖 Segment 3: GitHub Copilot Basics (60 min)
+### 🧪 LAB 2 (10m)
+```
+→ Build "SQL Helper"
+→ Upload schema.sql
+→ Test queries
+```
 
-**Setup** (15 min)
-- Install VS Code extension
-- Free tier: 2000/month
-- Pick model: GPT-4o or Claude
-- Claude Code setup
+---
 
-**Core** (25 min)
-- Tab = accept
-- Alt+\ = trigger
-- Comments → code
-- Ctrl+I = inline chat
+## 🟩 HOUR 3: GitHub Copilot 101
 
-**Chat** (10 min)
-- /explain
-- /fix
-- /test
-- @workspace
+### 🔧 Setup (15m)
+```
+VS Code ext
+2000/mo FREE
+Pick: GPT-4o/Claude
+Claude Code 🔥
+```
 
-**Lab 3** (10 min)
-- Write function with comment
-- Generate tests
-- Fix bugs
+### ⌨️ Core (25m)
+```
+Tab → accept
+Alt+\ → trigger
+// comment → code
+Ctrl+I → inline
+Refactor 🔄
+Docstrings 📝
+Commits 💾
+```
 
-## 🚀 Segment 4: Copilot Advanced (60 min)
+### 💭 Chat (10m)
+```
+/explain 🤔
+/fix 🔧
+/test 🧪
+@workspace 📁
+@terminal 💻
+Indexing ON
+```
 
-**Agent Mode** (20 min)
-- Autonomous coding
-- Fixes own errors
-- Multi-file edits
-- "Build me a REST API"
+### 🧪 LAB 3 (10m)
+```
+→ // TODO function
+→ Generate tests
+→ Fix bugs
+```
 
-**MCP** (15 min)
-- Connect external tools
-- GitHub MCP server
-- Access databases
-- Read documentation
+---
 
-**Enterprise** (15 min)
-- $39/user/month
-- Content exclusions
-- Audit logs
-- IP protection
+## 🟪 HOUR 4: Copilot Pro
 
-**Lab 4** (10 min)
-- Agent: "Add auth to this API"
-- Watch it work
-- Review changes
+### 🤖 Agent Mode (20m)
+```
+AUTONOMOUS 🚗
+Multi-file edits
+Fixes own errors
+"Build REST API"
+```
+
+### 💎 Pro Features (15m)
+```
+Multi-file refactor
+Code reviews 👀
+PR descriptions
+Error diagnostics 🐛
+Unit tests 🧪
+```
+
+### 🏢 Enterprise (15m)
+```
+$39/user 💰
+Content exclusions
+Audit logs 📊
+IP protection 🔒
+```
+
+### 🧪 LAB 4 (10m)
+```
+→ Agent: "Add auth"
+→ Watch it work
+→ Review changes
+```
+
+---
+
+## 🎓 TIPS
+- **Free ChatGPT**: Good enough!
+- **Copilot**: 2K completions FREE
+- **Voice**: Fastest input
+- **Canvas**: Best for code
+- **Agent**: Let it cook 👨‍🍳
