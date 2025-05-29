@@ -2,46 +2,53 @@
 
 ## 🎯 Segment 1: ChatGPT Basics
 
-- Account Setup
-  - Free vs Plus
-  - Models (3.5/4)
-  - Settings
-
 - Core Features
+
   - Chat interface
   - Prompt basics
   - File handling
   - Memory features
   - Temporary chats
 
-- Custom Instructions
-  - Personas
-  - Formatting
+- Projects
+
+  - Organization
+  - Memory
+  - Analysis
+
+- Account Setup
+
+  - Free vs Plus
+  - Models (3.5/4)
+  - Settings
+
+- Ethical AI and Bias Mitigation
+  - Responsible usage
+  - Avoiding bias in AI models
+
+## 🔄 Segment 2: ChatGPT Advanced
 
 - GPT Store & Integration
+
   - Browse GPTs
   - Use cases
   - @mention to invoke GPTs
   - Voice capabilities
 
-## 🔄 Segment 2: ChatGPT Advanced
-
-- Projects
-  - Organization
-  - Memory
-  - Analysis
-
 - Custom GPTs
+
   - Builder interface
   - Knowledge bases
   - Actions
 
 - API Integration
+
   - Keys/auth
   - Functions
   - Files
 
 - Prompt Techniques
+
   - System prompts
   - Chain-of-thought
   - Code execution
@@ -50,55 +57,67 @@
   - Explicit constraints
   - Delimiters for segmentation
 
-## 💻 Segment 3: Copilot Basics
+- Accessibility Features
+  - Writing accessible code
+  - Improving accessibility with AI tools
 
-- Setup
-  - Extensions
-  - Configuration
-  - Model selection options
-  - Custom instructions
+## 🤖 Segment 3: GitHub Copilot Basics
+
+- Setup and Installation
+
+  - Enabling Copilot in VS Code
+  - Configuring settings
 
 - Core Features
-  - Inline completions
-  - File generation
-  - Comments to code
-  - Next edit suggestions
-  - Accepting/rejecting suggestions
 
-- Commands
-  - /help
-  - /explain
-  - /fix
-  - Prompt files
+  - Autocomplete
+  - Inline suggestions
+  - Code generation
 
-- Languages
-  - Support matrix
-  - Frameworks
+- Customization
 
-## 🚀 Segment 4: Copilot Advanced
+  - Adjusting Copilot behavior
+  - Using comments for guidance
+  - Custom instructions for tailored completions
 
-- Workspace Tools
-  - Analysis
-  - Navigation
-  - Scanning
-  - Agent mode for multi-file edits
-  - Advanced debugging
+- Extensions and Slash Commands
 
-- Code Editing
-  - Refactoring
-  - PR descriptions
-  - Code reviews
-  - Code reference information
+  - Installing and managing Copilot extensions
+  - Using slash commands in Ask and Edit mode
 
-- Enterprise
-  - Security
-  - Exclusions
-  - Custom models
-  - Copilot Extensions ecosystem
+- Practical Examples
 
-- Integrations
-  - IDE settings
-  - Keybindings
-  - Context handling
-  - CLI integration
-  - Copilot in mobile 
+  - Writing functions
+  - Refactoring code
+  - Debugging with Copilot
+
+- Governance Frameworks
+  - Managing Copilot usage in organizations
+  - Strategies for effective governance
+
+## 🚀 Segment 4: GitHub Copilot Advanced
+
+- Advanced Features
+
+  - Multi-line completions
+  - Context-aware suggestions
+  - Working with large codebases
+
+- MCP and Agent Mode
+
+  - Model Context Protocol (MCP) overview
+  - Using Copilot in agent mode for task automation
+
+- Integration
+
+  - GitHub Enterprise Cloud (GHEC) integration
+  - Leveraging Copilot with CLI tools
+
+- Metrics and APIs
+
+  - Using metrics API for performance tracking
+  - Understanding SKUs and plans
+
+- Competitive Landscape
+  - Comparing Copilot with competitors
+  - Governance and best practices
