@@ -1,0 +1,13 @@
+{
+  "name": "weather-mcp-server",
+  "version": "1.0.0",
+  "description": "Simple MCP server for weather lookups - great for demos and teaching",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0"
+  }
+}

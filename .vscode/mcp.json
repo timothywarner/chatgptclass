@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "node",
+      "args": ["mcp-demos/weather-server/server.js"],
+      "disabled": false
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-filesystem", "/mnt/c/Users/tim/chatgptclass"],
+      "disabled": true
+    }
+  }
+}
