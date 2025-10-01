@@ -1,13 +1,76 @@
 # GitHub Copilot Custom Instructions
 
-> A teaching example for effective AI pair programming
+> AI Assistant Guidelines for ChatGPT/Copilot Course Repository
 
-## 🎯 Core Principles
+## 🎯 Project Context & Architecture
 
-1. **Explicit > Implicit**: Always prefer clear, unambiguous instructions over clever shortcuts
-2. **Context First**: Provide relevant context before asking for code
-3. **Iterative Refinement**: Start broad, then narrow down with specific requirements
-4. **Safety First**: Prioritize secure, maintainable code over clever solutions
+This is a **teaching repository** for a 4-hour ChatGPT and GitHub Copilot course. Key architectural points:
+
+- **`src/`**: Python demos with **intentionally vulnerable code** for security discussions (e.g., `app.py` with `eval()` vulnerability)
+- **`chat_app/`**: Minimal Flask chat wrapper (currently stub files)
+- **`exercises/`**: Hands-on labs organized by learner persona (hour-01 through hour-04)
+- **`mcp-demos/weather-server`**: Node.js MCP (Model Context Protocol) reference implementation
+- **`Datasets/`**: Course data organized by business domain (Financial, HR, Marketing, etc.)
+
+## ⚠️ Critical Development Patterns
+
+### Intentional Vulnerabilities (DO NOT FIX)
+Many `src/` files contain **intentional security flaws** for teaching purposes:
+```python
+# KEEP THIS VULNERABLE - Teaching example
+@app.route("/eval")
+def index():
+    return str(eval(request.args.get("input", "")))  # Intentional RCE vulnerability
+```
+**When fixing code, preserve teaching objectives with comments explaining the vulnerability.**
+
+### Environment Setup & Commands
+```bash
+# Python environment (required for src/ demos)
+python -m venv .venv
+source .venv/bin/activate  # Or .\.venv\Scripts\Activate.ps1 on Windows
+pip install -r src/requirements.txt
+
+# Run specific demos
+python src/app.py          # Vulnerable Flask app demo
+python src/run.py          # Alternative entry point
+python chat_app/run.py     # Chat wrapper (if implemented)
+
+# MCP server setup
+cd mcp-demos/weather-server
+npm install && npm start
+```
+
+### API Key Management
+**Never hardcode API keys** - use environment variables:
+```python
+import os
+openai.api_key = os.getenv("OPENAI_API_KEY")  # Correct
+# openai.api_key = "sk-..." # WRONG - causes security alerts
+```
+
+### Testing & Security
+- Secret scanning runs in CI (`.github/workflows/secret-scanning.yml`)
+- Use `pytest -q` for local testing before PRs
+- **Preserve intentional vulnerabilities** with explanatory comments
+- Regenerate `.secrets.baseline` when adding legitimate secrets for teaching
+
+## 🏗️ Code Patterns & Conventions
+
+### Python Style (src/ modules)
+- 4-space indentation, `snake_case` filenames
+- Top-level docstrings explaining purpose and prerequisites
+- Environment variable lookups via `os.getenv()`
+- Descriptive function names: verbs for actions, nouns for data loaders
+
+### File Organization Examples
+```
+src/testchat-openai.py     # OpenAI API demo (with intentional hardcoded key)
+src/app.py                 # Vulnerable Flask app (teaching example)
+exercises/hour-01-chatgpt/ # Beginner ChatGPT exercises
+Datasets/Financial/        # Domain-specific training data
+```
+```
 
 ## 📝 Markdown Formatting
 
