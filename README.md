@@ -134,6 +134,44 @@
 - [VS Code Help](https://code.visualstudio.com/docs/supporting/help)
 - [OpenAI Help Center](https://help.openai.com/)
 
+## 🤝 Contributing
+
+We welcome contributions to improve this course! Whether you're fixing bugs, adding new exercises, or enhancing documentation, your help makes this resource better for everyone.
+
+### Quick Start for Contributors
+
+1. **Fork the repository** and clone your fork
+2. **Set up the development environment**:
+   ```bash
+   ./scripts/setup-dev-environment.sh
+   ```
+3. **Create a feature branch**:
+   ```bash
+   git checkout -b feature/your-descriptive-name
+   ```
+4. **Make your changes** following our guidelines
+5. **Test thoroughly** and commit with clear messages
+6. **Submit a pull request** using our template
+
+### Ways to Contribute
+
+- 🐛 **Report bugs** using our [bug report template](.github/ISSUE_TEMPLATE/bug_report.yml)
+- ✨ **Suggest features** with our [feature request template](.github/ISSUE_TEMPLATE/feature_request.yml)
+- 📚 **Improve documentation** and course materials
+- 🧪 **Add exercises** and practical examples
+- 🔧 **Enhance tools** and automation
+
+### Development Setup
+
+For detailed setup instructions and coding guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### Community Guidelines
+
+- Follow our [Code of Conduct](CONTRIBUTING.md#-code-of-conduct)
+- Use the issue templates for bug reports and feature requests
+- Follow the pull request template for contributions
+- Be respectful and constructive in discussions
+
 ---
 
 *License*: This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
