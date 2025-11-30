@@ -6,7 +6,9 @@
       "Bash(grep:*)",
       "Bash(rg:*)",
       "Bash(/usr/lib/node_modules/@anthropic-ai/claude-code/vendor/ripgrep/x64-linux/rg -n \"test|lint\" CLAUDE.md)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "WebSearch",
+      "Bash(git mv:*)"
     ],
     "deny": []
   }

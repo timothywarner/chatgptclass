@@ -1,6 +1,52 @@
 # 📘 ChatGPT and GitHub Copilot in 4 Hours 🚀
 
-<img src="chatgpt-cover-slide.png" alt="Course Cover Slide" width="800"/>
+<img src="assets/images/chatgpt-cover-slide.png" alt="Course Cover Slide" width="800"/>
+
+## Repository Structure
+
+```
+/
+├── course-plan-nov-2025.md      # Current course plan (4x50min segments)
+├── warner-chatgpt-github-copilot.pptx  # Main presentation deck
+│
+├── labs/                         # Hands-on exercises by hour
+│   ├── hour-1-chatgpt/          # ChatGPT foundations
+│   ├── hour-2-chatgpt/          # Advanced ChatGPT + Agents
+│   ├── hour-3-copilot/          # Copilot core features
+│   └── hour-4-copilot/          # Enterprise + Agentic coding
+│
+├── demos/                        # Live demonstration code
+│   ├── chatgpt/                 # ChatGPT API examples
+│   │   ├── api-examples/        # OpenAI/Azure API integration
+│   │   ├── fine-tuning/         # Model customization demos
+│   │   └── data-analysis/       # Data analysis with ChatGPT
+│   ├── copilot/                 # GitHub Copilot demos
+│   ├── mcp/                     # Model Context Protocol server
+│   ├── security-scanning/       # Secret detection demos
+│   └── vulnerable-code/         # Intentionally vulnerable (education)
+│
+├── datasets/                     # CSV/JSON for data exercises
+│   ├── Essentials/              # Basic datasets
+│   ├── Financial/               # Finance scenarios
+│   ├── Human Resources/         # HR analytics
+│   ├── Insurance/               # Insurance data
+│   └── Marketing/               # Marketing analytics
+│
+├── apps/                         # Sample applications
+│   ├── flask-chat/              # Flask chat app template
+│   └── custom-gpt/              # Custom GPT examples
+│
+├── scripts/                      # Utility scripts
+│   ├── devops/                  # CI/CD, Dependabot, deployment
+│   ├── utilities/               # Helper scripts
+│   └── windows/                 # Windows/Surface optimization
+│
+├── docs/                         # Documentation
+│   ├── instructor/              # Instructor materials
+│   └── archive/                 # Previous course plans
+│
+└── assets/images/                # Course images
+```
 
 ---
 
