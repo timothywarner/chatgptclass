@@ -8,6 +8,7 @@
 2. **Context First**: Provide relevant context before asking for code
 3. **Iterative Refinement**: Start broad, then narrow down with specific requirements
 4. **Safety First**: Prioritize secure, maintainable code over clever solutions
+5. **Examples Drive Results**: Include concrete input/output examples to clarify expectations
 
 ## 📝 Markdown Formatting
 
