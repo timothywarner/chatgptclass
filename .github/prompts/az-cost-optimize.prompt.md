@@ -1,5 +1,4 @@
 ---
-mode: "agent"
 description: "Analyze Azure resources used in the app (IaC files and/or resources in a target rg) and optimize costs - creating GitHub issues for identified optimizations."
 ---
 
@@ -35,7 +34,6 @@ This workflow analyzes Infrastructure-as-Code (IaC) files and Azure resources to
 **Process**:
 
 1. **Resource Discovery**:
-
    - Execute `azmcp-subscription-list` to find available subscriptions
    - Execute `azmcp-group-list --subscription <subscription-id>` to find resource groups
    - Get a list of all resources in the relevant group(s):
@@ -53,7 +51,6 @@ This workflow analyzes Infrastructure-as-Code (IaC) files and Azure resources to
      - ... and so on for other resource types
 
 2. **IaC Detection**:
-
    - Use `file_search` to scan for IaC files: "**/\*.bicep", "**/*.tf", "**/main.json", "**/*template\*.json"
    - Parse resource definitions to understand intended configurations
    - Compare against discovered resources to identify discrepancies
@@ -73,12 +70,10 @@ This workflow analyzes Infrastructure-as-Code (IaC) files and Azure resources to
 **Process**:
 
 1. **Find Monitoring Sources**:
-
    - Use `azmcp-monitor-workspace-list --subscription <id>` to find Log Analytics workspaces
    - Use `azmcp-monitor-table-list --subscription <id> --workspace <name> --table-type "CustomLog"` to discover available data
 
 2. **Execute Usage Queries**:
-
    - Use `azmcp-monitor-log-query` with these predefined queries:
      - Query: "recent" for recent activity patterns
      - Query: "errors" for error-level logs indicating issues
@@ -103,7 +98,6 @@ This workflow analyzes Infrastructure-as-Code (IaC) files and Azure resources to
    ```
 
 3. **Calculate Baseline Metrics**:
-
    - CPU/Memory utilization averages
    - Database throughput patterns
    - Storage access frequency
@@ -124,32 +118,27 @@ This workflow analyzes Infrastructure-as-Code (IaC) files and Azure resources to
 1. **Apply Optimization Patterns** based on resource types found:
 
    **Compute Optimizations**:
-
    - App Service Plans: Right-size based on CPU/memory usage
    - Function Apps: Premium → Consumption plan for low usage
    - Virtual Machines: Scale down oversized instances
 
    **Database Optimizations**:
-
    - Cosmos DB:
      - Provisioned → Serverless for variable workloads
      - Right-size RU/s based on actual usage
    - SQL Database: Right-size service tiers based on DTU usage
 
    **Storage Optimizations**:
-
    - Implement lifecycle policies (Hot → Cool → Archive)
    - Consolidate redundant storage accounts
    - Right-size storage tiers based on access patterns
 
    **Infrastructure Optimizations**:
-
    - Remove unused/redundant resources
    - Implement auto-scaling where beneficial
    - Schedule non-production environments
 
 2. **Calculate Evidence-Based Savings**:
-
    - Current validated cost → Target cost = Savings
    - Document pricing source for both current and target configurations
 
@@ -239,21 +228,18 @@ This workflow analyzes Infrastructure-as-Code (IaC) files and Azure resources to
    ````
 
    ### 📊 Evidence
-
    - Current Configuration: [details]
    - Usage Pattern: [evidence from monitoring data]
    - Cost Impact: $X/month → $Y/month
    - Best Practice Alignment: [reference to Azure best practices if applicable]
 
    ### ✅ Validation Steps
-
    - [ ] Test in non-production environment
    - [ ] Verify no performance degradation
    - [ ] Confirm cost reduction in Azure Cost Management
    - [ ] Update monitoring and alerts if needed
 
    ### ⚠️ Risks & Considerations
-
    - [Risk 1 and mitigation]
    - [Risk 2 and mitigation]
 
@@ -301,34 +287,28 @@ This workflow analyzes Infrastructure-as-Code (IaC) files and Azure resources to
    ## 📋 Implementation Tracking
 
    ### 🚀 High Priority (Implement First)
-
    - [ ] #[issue-number]: [Title] - $X/month savings
    - [ ] #[issue-number]: [Title] - $X/month savings
 
    ### ⚡ Medium Priority
-
    - [ ] #[issue-number]: [Title] - $X/month savings
    - [ ] #[issue-number]: [Title] - $X/month savings
 
    ### 🔄 Low Priority (Nice to Have)
-
    - [ ] #[issue-number]: [Title] - $X/month savings
 
    ## 📈 Progress Tracking
-
    - **Completed**: 0 of Y optimizations
    - **Savings Realized**: $0 of $X/month
    - **Implementation Status**: Not Started
 
    ## 🎯 Success Criteria
-
    - [ ] All high-priority optimizations implemented
    - [ ] > 80% of estimated savings realized
    - [ ] No performance degradation observed
    - [ ] Cost monitoring dashboard updated
 
    ## 📝 Notes
-
    - Review and update this EPIC as issues are completed
    - Monitor actual vs. estimated savings
    - Consider scheduling regular cost optimization reviews
