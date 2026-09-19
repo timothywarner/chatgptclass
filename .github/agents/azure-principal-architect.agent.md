@@ -13,7 +13,22 @@ tools:
     web,
     browser,
     "azure-mcp/*",
-    todo,
+    todo
+  ]
+model: 
+  [
+    "Claude Opus 4.6",
+    "Claude Sonnet 4.6",
+    "Gemini 3.1 Pro (Preview)",
+    "GPT-5.3-Codex",
+    "GPT-5.4 mini",
+    "GPT-5.4",
+    "GPT-5 mini",
+    "Claude Sonnet 4.5",
+    "Claude Opus 4.5",
+    "Claude Haiku 4.5",
+    "Gemini 3 Flash (Preview)",
+    "Gemini 2.5 Pro"
   ]
 ---
 
