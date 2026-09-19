@@ -1,0 +1,124 @@
+name: Feature Request
+description: Suggest a new feature or improvement for the course
+title: "[Feature]: "
+labels: ["enhancement", "needs-review"]
+assignees:
+  - timothywarner
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new feature! Your ideas help make this course better for everyone.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What type of feature is this?
+      options:
+        - New exercise or example
+        - Documentation improvement
+        - Code enhancement
+        - Tool/automation improvement
+        - New course module
+        - Infrastructure improvement
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or need
+      description: What problem does this feature solve? What need does it address?
+      placeholder: |
+        Describe the problem or learning need this feature would address.
+        
+        Example: "Students struggle with understanding async/await patterns in the OpenAI examples..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: Describe your proposed solution or feature
+      placeholder: |
+        Describe what you'd like to see implemented.
+        
+        Example: "Add a dedicated exercise that walks through async/await step by step..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative solutions
+      description: Are there alternative approaches you've considered?
+      placeholder: "Describe any alternative solutions or workarounds you've considered"
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this feature to you?
+      options:
+        - Low - Nice to have
+        - Medium - Would be helpful
+        - High - Important for learning goals
+        - Critical - Blocks learning progress
+    validations:
+      required: true
+
+  - type: dropdown
+    id: audience
+    attributes:
+      label: Target audience
+      description: Who would benefit from this feature?
+      options:
+        - Beginners (new to AI/ML)
+        - Intermediate (some programming experience)
+        - Advanced (experienced developers)
+        - Instructors/educators
+        - All levels
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: |
+        Add any other context, screenshots, or examples about the feature request.
+        You can also reference related issues or external resources.
+      placeholder: |
+        Any additional information that might be helpful:
+        - Links to relevant documentation
+        - Screenshots or mockups
+        - Related issues or discussions
+        - External examples or inspiration
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: Would you be interested in helping implement this feature?
+      options:
+        - label: I'd be willing to contribute to this feature
+        - label: I can help with documentation
+        - label: I can help with testing
+        - label: I can provide examples or use cases
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission checklist
+      description: Please confirm you have done the following
+      options:
+        - label: I have searched existing issues and discussions
+          required: true
+        - label: This feature aligns with the course's educational goals
+          required: true
+        - label: I have provided sufficient detail for evaluation
+          required: true

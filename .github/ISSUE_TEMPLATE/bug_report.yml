@@ -1,0 +1,97 @@
+name: Bug Report
+description: Report a bug in the course materials or code examples
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+assignees:
+  - timothywarner
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the form below to help us understand and fix the issue.
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: Which part of the course is affected?
+      options:
+        - Python code examples (src/)
+        - Chat application (chat_app/)
+        - Exercises (exercises/)
+        - MCP demos (mcp-demos/)
+        - Documentation (README, guides)
+        - Infrastructure scripts (infra/)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug you encountered
+      placeholder: |
+        A clear description of what the bug is.
+        
+        Example: "When running the chat app demo, I get an authentication error..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: What should have happened instead?
+      placeholder: "The demo should authenticate successfully and show the chat interface"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Go to '...'
+        2. Run command '...'
+        3. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Please provide details about your environment
+      placeholder: |
+        - OS: [e.g. Windows 11, macOS 14, Ubuntu 22.04]
+        - Python version: [e.g. 3.11.5]
+        - Node.js version: [e.g. 18.17.0]
+        - IDE: [e.g. VS Code, PyCharm]
+        - Browser: [e.g. Chrome 118, Firefox 119]
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error logs or screenshots
+      description: |
+        Please paste any error messages or attach screenshots.
+        Tip: You can attach images by clicking this area to highlight it and then dragging files in.
+      placeholder: "Paste error logs here or describe what you see"
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission checklist
+      description: Please confirm you have done the following
+      options:
+        - label: I have searched existing issues to avoid duplicates
+          required: true
+        - label: I have provided all requested information
+          required: true
+        - label: I have removed any sensitive information (API keys, passwords)
+          required: true
