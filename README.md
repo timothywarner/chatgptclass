@@ -101,7 +101,7 @@
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Copilot Chat Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
 - [Copilot CLI](https://github.com/github/copilot-cli)
-- [Trust Center](https://github.com/trust-center)
+- [Trust Center](https://trust.github.com/)
 - [Custom Instructions Guide](https://docs.github.com/en/copilot/customizing-copilot)
 - [Copilot SDK](https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/)
 - [Copilot Memory](https://github.blog/changelog/2026-01-15-agentic-memory-for-github-copilot-is-in-public-preview/)
