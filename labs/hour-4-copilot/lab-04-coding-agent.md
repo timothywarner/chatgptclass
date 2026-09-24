@@ -7,6 +7,8 @@ Use the GitHub Copilot coding agent (GA) to resolve an issue end-to-end from wit
 - GitHub account on a **Pro, Pro+, Business, or Enterprise** plan with Copilot enabled
 - **Write access** to a test repository (public or private) -- do NOT use a production repo
 - Repository must contain a running web application (any framework) or use the instructor-provided sample repo
+- **VS Code v1.103+** (current as of July 2026) with the GitHub Copilot and GitHub Copilot Chat extensions installed
+- Optionally, the **GitHub Copilot app** (GA to all users July 7, 2026) -- lets you monitor and interact with agent sessions from the desktop
 
 ## Part 1 -- Coding Agent (5 min)
 
